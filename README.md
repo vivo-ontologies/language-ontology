@@ -1,9 +1,6 @@
-[![Build Status](https://travis-ci.org/mconlon17/language-ontology.svg?branch=master)](https://travis-ci.org/mconlon17/language-ontology)
-[![DOI](https://zenodo.org/badge/13996/mconlon17/language-ontology.svg)](https://zenodo.org/badge/latestdoi/13996/mconlon17/language-ontology)
-
 # Language Ontology
 
-***DRAFT***
+***Early DRAFT***
 
 This is draft work, an effort to create an OBO-compliant, BFO-based, reusable, maintained ontology based on
 ISO-639.  The ontology represents each language in ISO-639-3, ISO-639-2, and ISO-639-1 as a class.
@@ -29,6 +26,12 @@ Editors of this ontology should use the edit version, [src/ontology/lang-edit.ow
 ## Contact
 
 Please use this GitHub repository's [Issue tracker](https://github.com/mconlon17/language-ontology/issues) to request new terms/classes or report errors or specific concerns related to the ontology.
+
+## Attribution
+
+This work is licensed CC0.  Attribution is polite, not required.  To cite this work, consider using the text below:
+
+VIVO Ontology Interest Group (2019) Language Ontology, https://github.com/mconlon17/language-ontology
 
 ## Acknowledgements
 
