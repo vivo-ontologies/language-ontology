@@ -1,16 +1,16 @@
 # Work files for handling ISO-639 data
-# 
-## Steps
-## 
-1. Data from ISO 639 + header -> robot template This step is done by a python
-program, `iso-639-template-generator.py`
 
-1. robot template + annotation header -> terms This step is done by `robot`, an
-OBO Foundry tool.
+Data from the ISO 639 Reference Authority is downloaded here and processed using two
+steps.  These steps are executed by the `Makefile`
+
+1. Data from ISO 639 + a header file is processed by a python program to 
+create a template file for the OBO robot ontology tool.
+
+1. The robot ontology tool uses the template file, and an ontology header file to 
+create a terms file in OWL format that can be used in further processing.
 
 ## Files
-## 
-## ## 
+
 * `iso-639-3.tab` Raw data for languages. Includes data for ISO 639 1, 2, and 3
 
 * `iso-639-header.tsv` Added by the template egenerator to create a file ready
