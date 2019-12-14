@@ -1,0 +1,35 @@
+contact: null
+contributors: null
+creators: null
+description: None
+dosdp_tools_options: --obo-prefixes=true
+edit_format: owl
+export_formats:
+- owl
+- obo
+github_org: mconlon17
+gzip_main: false
+id: lang
+import_group: null
+import_pattern_ontology: false
+license: Unspecified
+namespaces: null
+obo_format_options: ''
+pattern_group: null
+pattern_pipelines_group: null
+primary_release: full
+reasoner: ELK
+release_artefacts:
+- full
+- base
+repo: language-ontology
+report_fail_on: null
+robot_java_args: ''
+robot_settings: null
+robot_version: null
+robotemplate_group: null
+subset_group: null
+title: Language Ontology
+travis_emails: null
+uribase: http://purl.obolibrary.org/obo
+use_dosdps: false

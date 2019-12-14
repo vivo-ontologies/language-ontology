@@ -1,0 +1,1409 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://id.loc.gov/vocabulary/iso639-1>
+    <file://www.loc.gov/mads/rdf/v1#hasTopMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1/aa>, <http://id.loc.gov/vocabulary/iso639-1/ab>, <http://id.loc.gov/vocabulary/iso639-1/ae>, <http://id.loc.gov/vocabulary/iso639-1/af>, <http://id.loc.gov/vocabulary/iso639-1/ak>, <http://id.loc.gov/vocabulary/iso639-1/am>, <http://id.loc.gov/vocabulary/iso639-1/an>, <http://id.loc.gov/vocabulary/iso639-1/ar>, <http://id.loc.gov/vocabulary/iso639-1/as>, <http://id.loc.gov/vocabulary/iso639-1/av>, <http://id.loc.gov/vocabulary/iso639-1/ay>, <http://id.loc.gov/vocabulary/iso639-1/az>, <http://id.loc.gov/vocabulary/iso639-1/ba>, <http://id.loc.gov/vocabulary/iso639-1/be>, <http://id.loc.gov/vocabulary/iso639-1/bg>, <http://id.loc.gov/vocabulary/iso639-1/bh>, <http://id.loc.gov/vocabulary/iso639-1/bi>, <http://id.loc.gov/vocabulary/iso639-1/bm>, <http://id.loc.gov/vocabulary/iso639-1/bn>, <http://id.loc.gov/vocabulary/iso639-1/bo>, <http://id.loc.gov/vocabulary/iso639-1/br>, <http://id.loc.gov/vocabulary/iso639-1/bs>, <http://id.loc.gov/vocabulary/iso639-1/ca>, <http://id.loc.gov/vocabulary/iso639-1/ce>, <http://id.loc.gov/vocabulary/iso639-1/ch>, <http://id.loc.gov/vocabulary/iso639-1/co>, <http://id.loc.gov/vocabulary/iso639-1/cr>, <http://id.loc.gov/vocabulary/iso639-1/cs>, <http://id.loc.gov/vocabulary/iso639-1/cu>, <http://id.loc.gov/vocabulary/iso639-1/cv>, <http://id.loc.gov/vocabulary/iso639-1/cy>, <http://id.loc.gov/vocabulary/iso639-1/da>, <http://id.loc.gov/vocabulary/iso639-1/de>, <http://id.loc.gov/vocabulary/iso639-1/dv>, <http://id.loc.gov/vocabulary/iso639-1/dz>, <http://id.loc.gov/vocabulary/iso639-1/ee>, <http://id.loc.gov/vocabulary/iso639-1/el>, <http://id.loc.gov/vocabulary/iso639-1/en>, <http://id.loc.gov/vocabulary/iso639-1/eo>, <http://id.loc.gov/vocabulary/iso639-1/es>, <http://id.loc.gov/vocabulary/iso639-1/et>, <http://id.loc.gov/vocabulary/iso639-1/eu>, <http://id.loc.gov/vocabulary/iso639-1/fa>, <http://id.loc.gov/vocabulary/iso639-1/ff>, <http://id.loc.gov/vocabulary/iso639-1/fi>, <http://id.loc.gov/vocabulary/iso639-1/fj>, <http://id.loc.gov/vocabulary/iso639-1/fo>, <http://id.loc.gov/vocabulary/iso639-1/fr>, <http://id.loc.gov/vocabulary/iso639-1/fy>, <http://id.loc.gov/vocabulary/iso639-1/ga>, <http://id.loc.gov/vocabulary/iso639-1/gd>, <http://id.loc.gov/vocabulary/iso639-1/gl>, <http://id.loc.gov/vocabulary/iso639-1/gn>, <http://id.loc.gov/vocabulary/iso639-1/gu>, <http://id.loc.gov/vocabulary/iso639-1/gv>, <http://id.loc.gov/vocabulary/iso639-1/ha>, <http://id.loc.gov/vocabulary/iso639-1/he>, <http://id.loc.gov/vocabulary/iso639-1/hi>, <http://id.loc.gov/vocabulary/iso639-1/ho>, <http://id.loc.gov/vocabulary/iso639-1/hr>, <http://id.loc.gov/vocabulary/iso639-1/ht>, <http://id.loc.gov/vocabulary/iso639-1/hu>, <http://id.loc.gov/vocabulary/iso639-1/hy>, <http://id.loc.gov/vocabulary/iso639-1/hz>, <http://id.loc.gov/vocabulary/iso639-1/ia>, <http://id.loc.gov/vocabulary/iso639-1/id>, <http://id.loc.gov/vocabulary/iso639-1/ie>, <http://id.loc.gov/vocabulary/iso639-1/ig>, <http://id.loc.gov/vocabulary/iso639-1/ii>, <http://id.loc.gov/vocabulary/iso639-1/ik>, <http://id.loc.gov/vocabulary/iso639-1/io>, <http://id.loc.gov/vocabulary/iso639-1/is>, <http://id.loc.gov/vocabulary/iso639-1/it>, <http://id.loc.gov/vocabulary/iso639-1/iu>, <http://id.loc.gov/vocabulary/iso639-1/ja>, <http://id.loc.gov/vocabulary/iso639-1/jv>, <http://id.loc.gov/vocabulary/iso639-1/ka>, <http://id.loc.gov/vocabulary/iso639-1/kg>, <http://id.loc.gov/vocabulary/iso639-1/ki>, <http://id.loc.gov/vocabulary/iso639-1/kj>, <http://id.loc.gov/vocabulary/iso639-1/kk>, <http://id.loc.gov/vocabulary/iso639-1/kl>, <http://id.loc.gov/vocabulary/iso639-1/km>, <http://id.loc.gov/vocabulary/iso639-1/kn>, <http://id.loc.gov/vocabulary/iso639-1/ko>, <http://id.loc.gov/vocabulary/iso639-1/kr>, <http://id.loc.gov/vocabulary/iso639-1/ks>, <http://id.loc.gov/vocabulary/iso639-1/ku>, <http://id.loc.gov/vocabulary/iso639-1/kv>, <http://id.loc.gov/vocabulary/iso639-1/kw>, <http://id.loc.gov/vocabulary/iso639-1/ky>, <http://id.loc.gov/vocabulary/iso639-1/la>, <http://id.loc.gov/vocabulary/iso639-1/lb>, <http://id.loc.gov/vocabulary/iso639-1/lg>, <http://id.loc.gov/vocabulary/iso639-1/li>, <http://id.loc.gov/vocabulary/iso639-1/ln>, <http://id.loc.gov/vocabulary/iso639-1/lo>, <http://id.loc.gov/vocabulary/iso639-1/lt>, <http://id.loc.gov/vocabulary/iso639-1/lu>, <http://id.loc.gov/vocabulary/iso639-1/lv>, <http://id.loc.gov/vocabulary/iso639-1/mg>, <http://id.loc.gov/vocabulary/iso639-1/mh>, <http://id.loc.gov/vocabulary/iso639-1/mi>, <http://id.loc.gov/vocabulary/iso639-1/mk>, <http://id.loc.gov/vocabulary/iso639-1/ml>, <http://id.loc.gov/vocabulary/iso639-1/mn>, <http://id.loc.gov/vocabulary/iso639-1/mr>, <http://id.loc.gov/vocabulary/iso639-1/ms>, <http://id.loc.gov/vocabulary/iso639-1/mt>, <http://id.loc.gov/vocabulary/iso639-1/my>, <http://id.loc.gov/vocabulary/iso639-1/na>, <http://id.loc.gov/vocabulary/iso639-1/nb>, <http://id.loc.gov/vocabulary/iso639-1/nd>, <http://id.loc.gov/vocabulary/iso639-1/ne>, <http://id.loc.gov/vocabulary/iso639-1/ng>, <http://id.loc.gov/vocabulary/iso639-1/nl>, <http://id.loc.gov/vocabulary/iso639-1/nn>, <http://id.loc.gov/vocabulary/iso639-1/no>, <http://id.loc.gov/vocabulary/iso639-1/nr>, <http://id.loc.gov/vocabulary/iso639-1/nv>, <http://id.loc.gov/vocabulary/iso639-1/ny>, <http://id.loc.gov/vocabulary/iso639-1/oc>, <http://id.loc.gov/vocabulary/iso639-1/oj>, <http://id.loc.gov/vocabulary/iso639-1/om>, <http://id.loc.gov/vocabulary/iso639-1/or>, <http://id.loc.gov/vocabulary/iso639-1/os>, <http://id.loc.gov/vocabulary/iso639-1/pa>, <http://id.loc.gov/vocabulary/iso639-1/pi>, <http://id.loc.gov/vocabulary/iso639-1/pl>, <http://id.loc.gov/vocabulary/iso639-1/ps>, <http://id.loc.gov/vocabulary/iso639-1/pt>, <http://id.loc.gov/vocabulary/iso639-1/qu>, <http://id.loc.gov/vocabulary/iso639-1/rm>, <http://id.loc.gov/vocabulary/iso639-1/rn>, <http://id.loc.gov/vocabulary/iso639-1/ro>, <http://id.loc.gov/vocabulary/iso639-1/ru>, <http://id.loc.gov/vocabulary/iso639-1/rw>, <http://id.loc.gov/vocabulary/iso639-1/sa>, <http://id.loc.gov/vocabulary/iso639-1/sc>, <http://id.loc.gov/vocabulary/iso639-1/sd>, <http://id.loc.gov/vocabulary/iso639-1/se>, <http://id.loc.gov/vocabulary/iso639-1/sg>, <http://id.loc.gov/vocabulary/iso639-1/si>, <http://id.loc.gov/vocabulary/iso639-1/sk>, <http://id.loc.gov/vocabulary/iso639-1/sl>, <http://id.loc.gov/vocabulary/iso639-1/sm>, <http://id.loc.gov/vocabulary/iso639-1/sn>, <http://id.loc.gov/vocabulary/iso639-1/so>, <http://id.loc.gov/vocabulary/iso639-1/sq>, <http://id.loc.gov/vocabulary/iso639-1/sr>, <http://id.loc.gov/vocabulary/iso639-1/ss>, <http://id.loc.gov/vocabulary/iso639-1/st>, <http://id.loc.gov/vocabulary/iso639-1/su>, <http://id.loc.gov/vocabulary/iso639-1/sv>, <http://id.loc.gov/vocabulary/iso639-1/sw>, <http://id.loc.gov/vocabulary/iso639-1/ta>, <http://id.loc.gov/vocabulary/iso639-1/te>, <http://id.loc.gov/vocabulary/iso639-1/tg>, <http://id.loc.gov/vocabulary/iso639-1/th>, <http://id.loc.gov/vocabulary/iso639-1/ti>, <http://id.loc.gov/vocabulary/iso639-1/tk>, <http://id.loc.gov/vocabulary/iso639-1/tl>, <http://id.loc.gov/vocabulary/iso639-1/tn>, <http://id.loc.gov/vocabulary/iso639-1/to>, <http://id.loc.gov/vocabulary/iso639-1/tr>, <http://id.loc.gov/vocabulary/iso639-1/ts>, <http://id.loc.gov/vocabulary/iso639-1/tt>, <http://id.loc.gov/vocabulary/iso639-1/tw>, <http://id.loc.gov/vocabulary/iso639-1/ty>, <http://id.loc.gov/vocabulary/iso639-1/ug>, <http://id.loc.gov/vocabulary/iso639-1/uk>, <http://id.loc.gov/vocabulary/iso639-1/ur>, <http://id.loc.gov/vocabulary/iso639-1/uz>, <http://id.loc.gov/vocabulary/iso639-1/ve>, <http://id.loc.gov/vocabulary/iso639-1/vi>, <http://id.loc.gov/vocabulary/iso639-1/vo>, <http://id.loc.gov/vocabulary/iso639-1/wa>, <http://id.loc.gov/vocabulary/iso639-1/wo>, <http://id.loc.gov/vocabulary/iso639-1/xh>, <http://id.loc.gov/vocabulary/iso639-1/yi>, <http://id.loc.gov/vocabulary/iso639-1/yo>, <http://id.loc.gov/vocabulary/iso639-1/za>, <http://id.loc.gov/vocabulary/iso639-1/zh>, <http://id.loc.gov/vocabulary/iso639-1/zu> ;
+    a <http://www.loc.gov/mads/rdf/v1#MADSScheme> ;
+    <http://www.w3.org/2000/01/rdf-schema#comment> [
+        <file:///marklogic/data/exports/vocabulary/class> "schemeAbout"@en ;
+        <file:///marklogic/data/exports/vocabulary/property> "rdfs:comment"@en ;
+        <file:///marklogic/data/exports/vocabulary/title> "About the ISO639-1 List:"@en ;
+        a <http://www.w3.org/1999/xhtmldiv> ;
+        <http://www.w3.org/1999/xhtmlp> """
+					ISO 639-1 is the first part of the ISO 639 international-standard language-code family.
+                        ISO 639-1 provides two-character lowercase alphabetic strings that serve as identifiers of languages. 
+                        The list contains approximately 180 discrete codes. 
+                        All ISO 639-1 languages also have ISO 639-2 three-character code representations.  
+                        These codes are linked to codes for the same languages in ISO 639-2 and the MARC Language Codes.
+				"""@en
+    ] ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "ISO 639-1: Codes for the Representation of Names of Languages - Part 1: Two-letter codes for languages"@en .
+
+<http://id.loc.gov/vocabulary/iso639-1/aa>
+    <file://www.loc.gov/mads/rdf/v1#code> "aa" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/aar>, <http://id.loc.gov/vocabulary/languages/aar> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ab>
+    <file://www.loc.gov/mads/rdf/v1#code> "ab" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/abk>, <http://id.loc.gov/vocabulary/languages/abk> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ae>
+    <file://www.loc.gov/mads/rdf/v1#code> "ae" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ave>, <http://id.loc.gov/vocabulary/languages/ave> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/af>
+    <file://www.loc.gov/mads/rdf/v1#code> "af" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/afr>, <http://id.loc.gov/vocabulary/languages/afr> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ak>
+    <file://www.loc.gov/mads/rdf/v1#code> "ak" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/aka>, <http://id.loc.gov/vocabulary/languages/aka> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/am>
+    <file://www.loc.gov/mads/rdf/v1#code> "am" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/amh>, <http://id.loc.gov/vocabulary/languages/amh> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/an>
+    <file://www.loc.gov/mads/rdf/v1#code> "an" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/arg>, <http://id.loc.gov/vocabulary/languages/arg> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ar>
+    <file://www.loc.gov/mads/rdf/v1#code> "ar" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ara>, <http://id.loc.gov/vocabulary/languages/ara> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/as>
+    <file://www.loc.gov/mads/rdf/v1#code> "as" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/asm>, <http://id.loc.gov/vocabulary/languages/asm> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/av>
+    <file://www.loc.gov/mads/rdf/v1#code> "av" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ava>, <http://id.loc.gov/vocabulary/languages/ava> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ay>
+    <file://www.loc.gov/mads/rdf/v1#code> "ay" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/aym>, <http://id.loc.gov/vocabulary/languages/aym> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/az>
+    <file://www.loc.gov/mads/rdf/v1#code> "az" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/aze>, <http://id.loc.gov/vocabulary/languages/aze> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ba>
+    <file://www.loc.gov/mads/rdf/v1#code> "ba" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bak>, <http://id.loc.gov/vocabulary/languages/bak> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/be>
+    <file://www.loc.gov/mads/rdf/v1#code> "be" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bel>, <http://id.loc.gov/vocabulary/languages/bel> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/bg>
+    <file://www.loc.gov/mads/rdf/v1#code> "bg" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bul>, <http://id.loc.gov/vocabulary/languages/bul> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/bh>
+    <file://www.loc.gov/mads/rdf/v1#code> "bh" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bih>, <http://id.loc.gov/vocabulary/languages/bih> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Changed from Bihari; bihari"@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/bi>
+    <file://www.loc.gov/mads/rdf/v1#code> "bi" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bis>, <http://id.loc.gov/vocabulary/languages/bis> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/bm>
+    <file://www.loc.gov/mads/rdf/v1#code> "bm" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bam>, <http://id.loc.gov/vocabulary/languages/bam> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/bn>
+    <file://www.loc.gov/mads/rdf/v1#code> "bn" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ben>, <http://id.loc.gov/vocabulary/languages/ben> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/bo>
+    <file://www.loc.gov/mads/rdf/v1#code> "bo" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bod>, <http://id.loc.gov/vocabulary/iso639-2/tib>, <http://id.loc.gov/vocabulary/languages/tib> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/br>
+    <file://www.loc.gov/mads/rdf/v1#code> "br" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bre>, <http://id.loc.gov/vocabulary/languages/bre> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/bs>
+    <file://www.loc.gov/mads/rdf/v1#code> "bs" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bos>, <http://id.loc.gov/vocabulary/languages/bos> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ca>
+    <file://www.loc.gov/mads/rdf/v1#code> "ca" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/cat>, <http://id.loc.gov/vocabulary/languages/cat> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ce>
+    <file://www.loc.gov/mads/rdf/v1#code> "ce" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/che>, <http://id.loc.gov/vocabulary/languages/che> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ch>
+    <file://www.loc.gov/mads/rdf/v1#code> "ch" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/cha>, <http://id.loc.gov/vocabulary/languages/cha> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/co>
+    <file://www.loc.gov/mads/rdf/v1#code> "co" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/cos>, <http://id.loc.gov/vocabulary/languages/cos> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>
+    <file://www.loc.gov/mads/rdf/v1#hasMADSCollectionMember> <http://id.loc.gov/vocabulary/iso639-1/aa>, <http://id.loc.gov/vocabulary/iso639-1/ab>, <http://id.loc.gov/vocabulary/iso639-1/ae>, <http://id.loc.gov/vocabulary/iso639-1/af>, <http://id.loc.gov/vocabulary/iso639-1/ak>, <http://id.loc.gov/vocabulary/iso639-1/am>, <http://id.loc.gov/vocabulary/iso639-1/an>, <http://id.loc.gov/vocabulary/iso639-1/ar>, <http://id.loc.gov/vocabulary/iso639-1/as>, <http://id.loc.gov/vocabulary/iso639-1/av>, <http://id.loc.gov/vocabulary/iso639-1/ay>, <http://id.loc.gov/vocabulary/iso639-1/az>, <http://id.loc.gov/vocabulary/iso639-1/ba>, <http://id.loc.gov/vocabulary/iso639-1/be>, <http://id.loc.gov/vocabulary/iso639-1/bg>, <http://id.loc.gov/vocabulary/iso639-1/bh>, <http://id.loc.gov/vocabulary/iso639-1/bi>, <http://id.loc.gov/vocabulary/iso639-1/bm>, <http://id.loc.gov/vocabulary/iso639-1/bn>, <http://id.loc.gov/vocabulary/iso639-1/bo>, <http://id.loc.gov/vocabulary/iso639-1/br>, <http://id.loc.gov/vocabulary/iso639-1/bs>, <http://id.loc.gov/vocabulary/iso639-1/ca>, <http://id.loc.gov/vocabulary/iso639-1/ce>, <http://id.loc.gov/vocabulary/iso639-1/ch>, <http://id.loc.gov/vocabulary/iso639-1/co>, <http://id.loc.gov/vocabulary/iso639-1/cr>, <http://id.loc.gov/vocabulary/iso639-1/cs>, <http://id.loc.gov/vocabulary/iso639-1/cu>, <http://id.loc.gov/vocabulary/iso639-1/cv>, <http://id.loc.gov/vocabulary/iso639-1/cy>, <http://id.loc.gov/vocabulary/iso639-1/da>, <http://id.loc.gov/vocabulary/iso639-1/de>, <http://id.loc.gov/vocabulary/iso639-1/dv>, <http://id.loc.gov/vocabulary/iso639-1/dz>, <http://id.loc.gov/vocabulary/iso639-1/ee>, <http://id.loc.gov/vocabulary/iso639-1/el>, <http://id.loc.gov/vocabulary/iso639-1/en>, <http://id.loc.gov/vocabulary/iso639-1/eo>, <http://id.loc.gov/vocabulary/iso639-1/es>, <http://id.loc.gov/vocabulary/iso639-1/et>, <http://id.loc.gov/vocabulary/iso639-1/eu>, <http://id.loc.gov/vocabulary/iso639-1/fa>, <http://id.loc.gov/vocabulary/iso639-1/ff>, <http://id.loc.gov/vocabulary/iso639-1/fi>, <http://id.loc.gov/vocabulary/iso639-1/fj>, <http://id.loc.gov/vocabulary/iso639-1/fo>, <http://id.loc.gov/vocabulary/iso639-1/fr>, <http://id.loc.gov/vocabulary/iso639-1/fy>, <http://id.loc.gov/vocabulary/iso639-1/ga>, <http://id.loc.gov/vocabulary/iso639-1/gd>, <http://id.loc.gov/vocabulary/iso639-1/gl>, <http://id.loc.gov/vocabulary/iso639-1/gn>, <http://id.loc.gov/vocabulary/iso639-1/gu>, <http://id.loc.gov/vocabulary/iso639-1/gv>, <http://id.loc.gov/vocabulary/iso639-1/ha>, <http://id.loc.gov/vocabulary/iso639-1/he>, <http://id.loc.gov/vocabulary/iso639-1/hi>, <http://id.loc.gov/vocabulary/iso639-1/ho>, <http://id.loc.gov/vocabulary/iso639-1/hr>, <http://id.loc.gov/vocabulary/iso639-1/ht>, <http://id.loc.gov/vocabulary/iso639-1/hu>, <http://id.loc.gov/vocabulary/iso639-1/hy>, <http://id.loc.gov/vocabulary/iso639-1/hz>, <http://id.loc.gov/vocabulary/iso639-1/ia>, <http://id.loc.gov/vocabulary/iso639-1/id>, <http://id.loc.gov/vocabulary/iso639-1/ie>, <http://id.loc.gov/vocabulary/iso639-1/ig>, <http://id.loc.gov/vocabulary/iso639-1/ii>, <http://id.loc.gov/vocabulary/iso639-1/ik>, <http://id.loc.gov/vocabulary/iso639-1/in>, <http://id.loc.gov/vocabulary/iso639-1/io>, <http://id.loc.gov/vocabulary/iso639-1/is>, <http://id.loc.gov/vocabulary/iso639-1/it>, <http://id.loc.gov/vocabulary/iso639-1/iu>, <http://id.loc.gov/vocabulary/iso639-1/iw>, <http://id.loc.gov/vocabulary/iso639-1/ja>, <http://id.loc.gov/vocabulary/iso639-1/ji>, <http://id.loc.gov/vocabulary/iso639-1/jv>, <http://id.loc.gov/vocabulary/iso639-1/jw>, <http://id.loc.gov/vocabulary/iso639-1/ka>, <http://id.loc.gov/vocabulary/iso639-1/kg>, <http://id.loc.gov/vocabulary/iso639-1/ki>, <http://id.loc.gov/vocabulary/iso639-1/kj>, <http://id.loc.gov/vocabulary/iso639-1/kk>, <http://id.loc.gov/vocabulary/iso639-1/kl>, <http://id.loc.gov/vocabulary/iso639-1/km>, <http://id.loc.gov/vocabulary/iso639-1/kn>, <http://id.loc.gov/vocabulary/iso639-1/ko>, <http://id.loc.gov/vocabulary/iso639-1/kr>, <http://id.loc.gov/vocabulary/iso639-1/ks>, <http://id.loc.gov/vocabulary/iso639-1/ku>, <http://id.loc.gov/vocabulary/iso639-1/kv>, <http://id.loc.gov/vocabulary/iso639-1/kw>, <http://id.loc.gov/vocabulary/iso639-1/ky>, <http://id.loc.gov/vocabulary/iso639-1/la>, <http://id.loc.gov/vocabulary/iso639-1/lb>, <http://id.loc.gov/vocabulary/iso639-1/lg>, <http://id.loc.gov/vocabulary/iso639-1/li>, <http://id.loc.gov/vocabulary/iso639-1/ln>, <http://id.loc.gov/vocabulary/iso639-1/lo>, <http://id.loc.gov/vocabulary/iso639-1/lt>, <http://id.loc.gov/vocabulary/iso639-1/lu>, <http://id.loc.gov/vocabulary/iso639-1/lv>, <http://id.loc.gov/vocabulary/iso639-1/mg>, <http://id.loc.gov/vocabulary/iso639-1/mh>, <http://id.loc.gov/vocabulary/iso639-1/mi>, <http://id.loc.gov/vocabulary/iso639-1/mk>, <http://id.loc.gov/vocabulary/iso639-1/ml>, <http://id.loc.gov/vocabulary/iso639-1/mn>, <http://id.loc.gov/vocabulary/iso639-1/mo>, <http://id.loc.gov/vocabulary/iso639-1/mr>, <http://id.loc.gov/vocabulary/iso639-1/ms>, <http://id.loc.gov/vocabulary/iso639-1/mt>, <http://id.loc.gov/vocabulary/iso639-1/my>, <http://id.loc.gov/vocabulary/iso639-1/na>, <http://id.loc.gov/vocabulary/iso639-1/nb>, <http://id.loc.gov/vocabulary/iso639-1/nd>, <http://id.loc.gov/vocabulary/iso639-1/ne>, <http://id.loc.gov/vocabulary/iso639-1/ng>, <http://id.loc.gov/vocabulary/iso639-1/nl>, <http://id.loc.gov/vocabulary/iso639-1/nn>, <http://id.loc.gov/vocabulary/iso639-1/no>, <http://id.loc.gov/vocabulary/iso639-1/nr>, <http://id.loc.gov/vocabulary/iso639-1/nv>, <http://id.loc.gov/vocabulary/iso639-1/ny>, <http://id.loc.gov/vocabulary/iso639-1/oc>, <http://id.loc.gov/vocabulary/iso639-1/oj>, <http://id.loc.gov/vocabulary/iso639-1/om>, <http://id.loc.gov/vocabulary/iso639-1/or>, <http://id.loc.gov/vocabulary/iso639-1/os>, <http://id.loc.gov/vocabulary/iso639-1/pa>, <http://id.loc.gov/vocabulary/iso639-1/pi>, <http://id.loc.gov/vocabulary/iso639-1/pl>, <http://id.loc.gov/vocabulary/iso639-1/ps>, <http://id.loc.gov/vocabulary/iso639-1/pt>, <http://id.loc.gov/vocabulary/iso639-1/qu>, <http://id.loc.gov/vocabulary/iso639-1/rm>, <http://id.loc.gov/vocabulary/iso639-1/rn>, <http://id.loc.gov/vocabulary/iso639-1/ro>, <http://id.loc.gov/vocabulary/iso639-1/ru>, <http://id.loc.gov/vocabulary/iso639-1/rw>, <http://id.loc.gov/vocabulary/iso639-1/sa>, <http://id.loc.gov/vocabulary/iso639-1/sc>, <http://id.loc.gov/vocabulary/iso639-1/sd>, <http://id.loc.gov/vocabulary/iso639-1/se>, <http://id.loc.gov/vocabulary/iso639-1/sg>, <http://id.loc.gov/vocabulary/iso639-1/sh>, <http://id.loc.gov/vocabulary/iso639-1/si>, <http://id.loc.gov/vocabulary/iso639-1/sk>, <http://id.loc.gov/vocabulary/iso639-1/sl>, <http://id.loc.gov/vocabulary/iso639-1/sm>, <http://id.loc.gov/vocabulary/iso639-1/sn>, <http://id.loc.gov/vocabulary/iso639-1/so>, <http://id.loc.gov/vocabulary/iso639-1/sq>, <http://id.loc.gov/vocabulary/iso639-1/sr>, <http://id.loc.gov/vocabulary/iso639-1/ss>, <http://id.loc.gov/vocabulary/iso639-1/st>, <http://id.loc.gov/vocabulary/iso639-1/su>, <http://id.loc.gov/vocabulary/iso639-1/sv>, <http://id.loc.gov/vocabulary/iso639-1/sw>, <http://id.loc.gov/vocabulary/iso639-1/ta>, <http://id.loc.gov/vocabulary/iso639-1/te>, <http://id.loc.gov/vocabulary/iso639-1/tg>, <http://id.loc.gov/vocabulary/iso639-1/th>, <http://id.loc.gov/vocabulary/iso639-1/ti>, <http://id.loc.gov/vocabulary/iso639-1/tk>, <http://id.loc.gov/vocabulary/iso639-1/tl>, <http://id.loc.gov/vocabulary/iso639-1/tn>, <http://id.loc.gov/vocabulary/iso639-1/to>, <http://id.loc.gov/vocabulary/iso639-1/tr>, <http://id.loc.gov/vocabulary/iso639-1/ts>, <http://id.loc.gov/vocabulary/iso639-1/tt>, <http://id.loc.gov/vocabulary/iso639-1/tw>, <http://id.loc.gov/vocabulary/iso639-1/ty>, <http://id.loc.gov/vocabulary/iso639-1/ug>, <http://id.loc.gov/vocabulary/iso639-1/uk>, <http://id.loc.gov/vocabulary/iso639-1/ur>, <http://id.loc.gov/vocabulary/iso639-1/uz>, <http://id.loc.gov/vocabulary/iso639-1/ve>, <http://id.loc.gov/vocabulary/iso639-1/vi>, <http://id.loc.gov/vocabulary/iso639-1/vo>, <http://id.loc.gov/vocabulary/iso639-1/wa>, <http://id.loc.gov/vocabulary/iso639-1/wo>, <http://id.loc.gov/vocabulary/iso639-1/xh>, <http://id.loc.gov/vocabulary/iso639-1/yi>, <http://id.loc.gov/vocabulary/iso639-1/yo>, <http://id.loc.gov/vocabulary/iso639-1/za>, <http://id.loc.gov/vocabulary/iso639-1/zh>, <http://id.loc.gov/vocabulary/iso639-1/zu> ;
+    a <http://www.loc.gov/mads/rdf/v1#MADSCollection> ;
+    <http://www.w3.org/2000/01/rdf-schema#comment> [
+        <file:///marklogic/data/exports/vocabulary/class> "collectionAbout"@en ;
+        <file:///marklogic/data/exports/vocabulary/property> "rdfs:comment"@en ;
+        <file:///marklogic/data/exports/vocabulary/title> "About the Collection of Past and Present ISO639-1 Entries:"@en ;
+        a <http://www.w3.org/1999/xhtmldiv> ;
+        <http://www.w3.org/1999/xhtmlp> """
+					This collection gathers all past and present ISO 639-1 entries together.
+				"""@en
+    ] ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "Collection of Past and Present ISO639-1 Entries"@en .
+
+<http://id.loc.gov/vocabulary/iso639-1/cr>
+    <file://www.loc.gov/mads/rdf/v1#code> "cr" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/cre>, <http://id.loc.gov/vocabulary/languages/cre> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/cs>
+    <file://www.loc.gov/mads/rdf/v1#code> "cs" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ces>, <http://id.loc.gov/vocabulary/iso639-2/cze>, <http://id.loc.gov/vocabulary/languages/cze> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/cu>
+    <file://www.loc.gov/mads/rdf/v1#code> "cu" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/chu>, <http://id.loc.gov/vocabulary/languages/chu> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/cv>
+    <file://www.loc.gov/mads/rdf/v1#code> "cv" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/chv>, <http://id.loc.gov/vocabulary/languages/chv> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/cy>
+    <file://www.loc.gov/mads/rdf/v1#code> "cy" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/cym>, <http://id.loc.gov/vocabulary/iso639-2/wel>, <http://id.loc.gov/vocabulary/languages/wel> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/da>
+    <file://www.loc.gov/mads/rdf/v1#code> "da" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/dan>, <http://id.loc.gov/vocabulary/languages/dan> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/de>
+    <file://www.loc.gov/mads/rdf/v1#code> "de" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/deu>, <http://id.loc.gov/vocabulary/iso639-2/ger>, <http://id.loc.gov/vocabulary/languages/ger> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/dv>
+    <file://www.loc.gov/mads/rdf/v1#code> "dv" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/div>, <http://id.loc.gov/vocabulary/languages/div> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Dhivehi, Maldavian added"@en, """This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included.
+Dhivehi, Maldavian added 2006-06-07"""@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/dz>
+    <file://www.loc.gov/mads/rdf/v1#code> "dz" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/dzo>, <http://id.loc.gov/vocabulary/languages/dzo> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ee>
+    <file://www.loc.gov/mads/rdf/v1#code> "ee" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ewe>, <http://id.loc.gov/vocabulary/languages/ewe> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/el>
+    <file://www.loc.gov/mads/rdf/v1#code> "el" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ell>, <http://id.loc.gov/vocabulary/iso639-2/gre>, <http://id.loc.gov/vocabulary/languages/gre> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/en>
+    <file://www.loc.gov/mads/rdf/v1#code> "en" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/eng>, <http://id.loc.gov/vocabulary/languages/eng> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/eo>
+    <file://www.loc.gov/mads/rdf/v1#code> "eo" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/epo>, <http://id.loc.gov/vocabulary/languages/epo> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/es>
+    <file://www.loc.gov/mads/rdf/v1#code> "es" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/spa>, <http://id.loc.gov/vocabulary/languages/spa> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/et>
+    <file://www.loc.gov/mads/rdf/v1#code> "et" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/est>, <http://id.loc.gov/vocabulary/languages/est> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/eu>
+    <file://www.loc.gov/mads/rdf/v1#code> "eu" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/baq>, <http://id.loc.gov/vocabulary/iso639-2/eus>, <http://id.loc.gov/vocabulary/languages/baq> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/fa>
+    <file://www.loc.gov/mads/rdf/v1#code> "fa" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/fas>, <http://id.loc.gov/vocabulary/iso639-2/per>, <http://id.loc.gov/vocabulary/languages/per> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ff>
+    <file://www.loc.gov/mads/rdf/v1#code> "ff" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ful>, <http://id.loc.gov/vocabulary/languages/ful> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/fi>
+    <file://www.loc.gov/mads/rdf/v1#code> "fi" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/fin>, <http://id.loc.gov/vocabulary/languages/fin> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/fj>
+    <file://www.loc.gov/mads/rdf/v1#code> "fj" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/fij>, <http://id.loc.gov/vocabulary/languages/fij> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/fo>
+    <file://www.loc.gov/mads/rdf/v1#code> "fo" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/fao>, <http://id.loc.gov/vocabulary/languages/fao> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/fr>
+    <file://www.loc.gov/mads/rdf/v1#code> "fr" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/fra>, <http://id.loc.gov/vocabulary/iso639-2/fre>, <http://id.loc.gov/vocabulary/languages/fre> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/fy>
+    <file://www.loc.gov/mads/rdf/v1#code> "fy" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/fry>, <http://id.loc.gov/vocabulary/languages/fry> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Previous usage of code has been for Western Frisian, although language name was \"Frisian\""@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ga>
+    <file://www.loc.gov/mads/rdf/v1#code> "ga" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/gle>, <http://id.loc.gov/vocabulary/languages/gle> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/gd>
+    <file://www.loc.gov/mads/rdf/v1#code> "gd" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/gla>, <http://id.loc.gov/vocabulary/languages/gla> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/gl>
+    <file://www.loc.gov/mads/rdf/v1#code> "gl" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/glg>, <http://id.loc.gov/vocabulary/languages/glg> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Incorrect form of English name (Gallegan) corrected"@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/gn>
+    <file://www.loc.gov/mads/rdf/v1#code> "gn" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/grn>, <http://id.loc.gov/vocabulary/languages/grn> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/gu>
+    <file://www.loc.gov/mads/rdf/v1#code> "gu" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/guj>, <http://id.loc.gov/vocabulary/languages/guj> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/gv>
+    <file://www.loc.gov/mads/rdf/v1#code> "gv" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/glv>, <http://id.loc.gov/vocabulary/languages/glv> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ha>
+    <file://www.loc.gov/mads/rdf/v1#code> "ha" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/hau>, <http://id.loc.gov/vocabulary/languages/hau> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/he>
+    <file://www.loc.gov/mads/rdf/v1#code> "he" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/heb>, <http://id.loc.gov/vocabulary/languages/heb> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/vocabulary/iso639-1/iw> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/hi>
+    <file://www.loc.gov/mads/rdf/v1#code> "hi" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/hin>, <http://id.loc.gov/vocabulary/languages/hin> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ho>
+    <file://www.loc.gov/mads/rdf/v1#code> "ho" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/hmo>, <http://id.loc.gov/vocabulary/languages/hmo> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/hr>
+    <file://www.loc.gov/mads/rdf/v1#code> "hr" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/hrv>, <http://id.loc.gov/vocabulary/languages/hrv> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ht>
+    <file://www.loc.gov/mads/rdf/v1#code> "ht" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/hat>, <http://id.loc.gov/vocabulary/languages/hat> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/hu>
+    <file://www.loc.gov/mads/rdf/v1#code> "hu" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/hun>, <http://id.loc.gov/vocabulary/languages/hun> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/hy>
+    <file://www.loc.gov/mads/rdf/v1#code> "hy" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/arm>, <http://id.loc.gov/vocabulary/iso639-2/hye>, <http://id.loc.gov/vocabulary/languages/arm> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/hz>
+    <file://www.loc.gov/mads/rdf/v1#code> "hz" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/her>, <http://id.loc.gov/vocabulary/languages/her> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ia>
+    <file://www.loc.gov/mads/rdf/v1#code> "ia" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ina>, <http://id.loc.gov/vocabulary/languages/ina> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/id>
+    <file://www.loc.gov/mads/rdf/v1#code> "id" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ind>, <http://id.loc.gov/vocabulary/languages/ind> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/vocabulary/iso639-1/in> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ie>
+    <file://www.loc.gov/mads/rdf/v1#code> "ie" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ile>, <http://id.loc.gov/vocabulary/languages/ile> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ig>
+    <file://www.loc.gov/mads/rdf/v1#code> "ig" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ibo>, <http://id.loc.gov/vocabulary/languages/ibo> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ii>
+    <file://www.loc.gov/mads/rdf/v1#code> "ii" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/iii>, <http://id.loc.gov/vocabulary/languages/iii> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ik>
+    <file://www.loc.gov/mads/rdf/v1#code> "ik" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ipk>, <http://id.loc.gov/vocabulary/languages/ipk> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/in>
+    <file://www.loc.gov/mads/rdf/v1#code> "in" ;
+    <file://www.loc.gov/mads/rdf/v1#deprecatedLabel> "Bahasa Indonesia"@de, "Indonesian"@en, "indonésien"@fr ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries> ;
+    <file://www.loc.gov/mads/rdf/v1#useInstead> <http://id.loc.gov/vocabulary/iso639-1/id> ;
+    a <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority>, <http://www.loc.gov/mads/rdf/v1#Language>, rdf:Resource .
+
+<http://id.loc.gov/vocabulary/iso639-1/io>
+    <file://www.loc.gov/mads/rdf/v1#code> "io" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ido>, <http://id.loc.gov/vocabulary/languages/ido> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/is>
+    <file://www.loc.gov/mads/rdf/v1#code> "is" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ice>, <http://id.loc.gov/vocabulary/iso639-2/isl>, <http://id.loc.gov/vocabulary/languages/ice> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>
+    a <http://www.w3.org/2002/07/owl#Class> ;
+    <http://www.w3.org/2000/01/rdf-schema#comment> [
+        <file:///marklogic/data/exports/vocabulary/class> "collectionAbout"@en ;
+        <file:///marklogic/data/exports/vocabulary/property> "rdfs:comment"@en ;
+        <file:///marklogic/data/exports/vocabulary/title> "About the Linguistic System for ISO639-1 Entries:"@en ;
+        a <http://www.w3.org/1999/xhtmldiv> ;
+        <http://www.w3.org/1999/xhtmlp> """
+					An instance of an ISO639-1 Language.  A finite set of individuals are instances of an ISO639-1 Language.
+				"""@en
+    ] ;
+    <http://www.w3.org/2000/01/rdf-schema#label> "ISO639-1 Language"@en .
+
+<http://id.loc.gov/vocabulary/iso639-1/it>
+    <file://www.loc.gov/mads/rdf/v1#code> "it" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ita>, <http://id.loc.gov/vocabulary/languages/ita> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/iu>
+    <file://www.loc.gov/mads/rdf/v1#code> "iu" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/iku>, <http://id.loc.gov/vocabulary/languages/iku> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/iw>
+    <file://www.loc.gov/mads/rdf/v1#code> "iw" ;
+    <file://www.loc.gov/mads/rdf/v1#deprecatedLabel> "Hebrew"@en, "Hebräisch"@de, "hébreu"@fr ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Withdrawn"@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries> ;
+    <file://www.loc.gov/mads/rdf/v1#useInstead> <http://id.loc.gov/vocabulary/iso639-1/he> ;
+    a <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority>, <http://www.loc.gov/mads/rdf/v1#Language>, rdf:Resource .
+
+<http://id.loc.gov/vocabulary/iso639-1/ja>
+    <file://www.loc.gov/mads/rdf/v1#code> "ja" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/jpn>, <http://id.loc.gov/vocabulary/languages/jpn> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ji>
+    <file://www.loc.gov/mads/rdf/v1#code> "ji" ;
+    <file://www.loc.gov/mads/rdf/v1#deprecatedLabel> "Jiddisch"@de, "Yiddish"@en, "yiddish"@fr ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Withdrawn"@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries> ;
+    <file://www.loc.gov/mads/rdf/v1#useInstead> <http://id.loc.gov/vocabulary/iso639-1/yi> ;
+    a <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority>, <http://www.loc.gov/mads/rdf/v1#Language>, rdf:Resource .
+
+<http://id.loc.gov/vocabulary/iso639-1/jv>
+    <file://www.loc.gov/mads/rdf/v1#code> "jv" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/jav>, <http://id.loc.gov/vocabulary/languages/jav> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/vocabulary/iso639-1/jw> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/jw>
+    <file://www.loc.gov/mads/rdf/v1#code> "jw" ;
+    <file://www.loc.gov/mads/rdf/v1#deprecatedLabel> "Javanese"@en, "Javanisch"@de, "javanais"@fr ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "jw published in error; withdrawn in favor of jv."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries> ;
+    <file://www.loc.gov/mads/rdf/v1#useInstead> <http://id.loc.gov/vocabulary/iso639-1/jv> ;
+    a <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority>, <http://www.loc.gov/mads/rdf/v1#Language>, rdf:Resource .
+
+<http://id.loc.gov/vocabulary/iso639-1/ka>
+    <file://www.loc.gov/mads/rdf/v1#code> "ka" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/geo>, <http://id.loc.gov/vocabulary/iso639-2/kat>, <http://id.loc.gov/vocabulary/languages/geo> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/kg>
+    <file://www.loc.gov/mads/rdf/v1#code> "kg" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kon>, <http://id.loc.gov/vocabulary/languages/kon> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ki>
+    <file://www.loc.gov/mads/rdf/v1#code> "ki" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kik>, <http://id.loc.gov/vocabulary/languages/kik> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/kj>
+    <file://www.loc.gov/mads/rdf/v1#code> "kj" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kua>, <http://id.loc.gov/vocabulary/languages/kua> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/kk>
+    <file://www.loc.gov/mads/rdf/v1#code> "kk" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kaz>, <http://id.loc.gov/vocabulary/languages/kaz> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/kl>
+    <file://www.loc.gov/mads/rdf/v1#code> "kl" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kal>, <http://id.loc.gov/vocabulary/languages/kal> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/km>
+    <file://www.loc.gov/mads/rdf/v1#code> "km" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/khm>, <http://id.loc.gov/vocabulary/languages/khm> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Name changed from \"Khmer\""@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/kn>
+    <file://www.loc.gov/mads/rdf/v1#code> "kn" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kan>, <http://id.loc.gov/vocabulary/languages/kan> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ko>
+    <file://www.loc.gov/mads/rdf/v1#code> "ko" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kor>, <http://id.loc.gov/vocabulary/languages/kor> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/kr>
+    <file://www.loc.gov/mads/rdf/v1#code> "kr" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kau>, <http://id.loc.gov/vocabulary/languages/kau> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ks>
+    <file://www.loc.gov/mads/rdf/v1#code> "ks" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kas>, <http://id.loc.gov/vocabulary/languages/kas> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ku>
+    <file://www.loc.gov/mads/rdf/v1#code> "ku" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kur>, <http://id.loc.gov/vocabulary/languages/kur> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/kv>
+    <file://www.loc.gov/mads/rdf/v1#code> "kv" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kom>, <http://id.loc.gov/vocabulary/languages/kom> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/kw>
+    <file://www.loc.gov/mads/rdf/v1#code> "kw" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/cor>, <http://id.loc.gov/vocabulary/languages/cor> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ky>
+    <file://www.loc.gov/mads/rdf/v1#code> "ky" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kir>, <http://id.loc.gov/vocabulary/languages/kir> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Kyrgyz added"@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/la>
+    <file://www.loc.gov/mads/rdf/v1#code> "la" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/lat>, <http://id.loc.gov/vocabulary/languages/lat> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/lb>
+    <file://www.loc.gov/mads/rdf/v1#code> "lb" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ltz>, <http://id.loc.gov/vocabulary/languages/ltz> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/lg>
+    <file://www.loc.gov/mads/rdf/v1#code> "lg" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/lug>, <http://id.loc.gov/vocabulary/languages/lug> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/li>
+    <file://www.loc.gov/mads/rdf/v1#code> "li" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/lim>, <http://id.loc.gov/vocabulary/languages/lim> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ln>
+    <file://www.loc.gov/mads/rdf/v1#code> "ln" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/lin>, <http://id.loc.gov/vocabulary/languages/lin> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/lo>
+    <file://www.loc.gov/mads/rdf/v1#code> "lo" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/lao>, <http://id.loc.gov/vocabulary/languages/lao> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/lt>
+    <file://www.loc.gov/mads/rdf/v1#code> "lt" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/lit>, <http://id.loc.gov/vocabulary/languages/lit> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/lu>
+    <file://www.loc.gov/mads/rdf/v1#code> "lu" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/lub>, <http://id.loc.gov/vocabulary/languages/lub> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/lv>
+    <file://www.loc.gov/mads/rdf/v1#code> "lv" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/lav>, <http://id.loc.gov/vocabulary/languages/lav> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/mg>
+    <file://www.loc.gov/mads/rdf/v1#code> "mg" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/mlg>, <http://id.loc.gov/vocabulary/languages/mlg> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/mh>
+    <file://www.loc.gov/mads/rdf/v1#code> "mh" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/mah>, <http://id.loc.gov/vocabulary/languages/mah> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/mi>
+    <file://www.loc.gov/mads/rdf/v1#code> "mi" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/mao>, <http://id.loc.gov/vocabulary/iso639-2/mri>, <http://id.loc.gov/vocabulary/languages/mao> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/mk>
+    <file://www.loc.gov/mads/rdf/v1#code> "mk" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/mac>, <http://id.loc.gov/vocabulary/iso639-2/mkd>, <http://id.loc.gov/vocabulary/languages/mac> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ml>
+    <file://www.loc.gov/mads/rdf/v1#code> "ml" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/mal>, <http://id.loc.gov/vocabulary/languages/mal> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/mn>
+    <file://www.loc.gov/mads/rdf/v1#code> "mn" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/mon>, <http://id.loc.gov/vocabulary/languages/mon> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/mo>
+    <file://www.loc.gov/mads/rdf/v1#code> "mo" ;
+    <file://www.loc.gov/mads/rdf/v1#deprecatedLabel> "Moldavian |  Moldovan"@en, "moldave"@fr ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> """The identifiers mo and mol are deprecated, leaving ro and ron (639-2/T) and rum (639-2/B) the current language identifiers to be used for the variant of the Romanian language also known as Moldavian and Moldovan in English and moldave in French. The identifiers mo and mol will not be assigned to different items, and recordings using these identifiers will not be invalid.
+"""@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries> ;
+    a <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority>, <http://www.loc.gov/mads/rdf/v1#Language>, rdf:Resource .
+
+<http://id.loc.gov/vocabulary/iso639-1/mr>
+    <file://www.loc.gov/mads/rdf/v1#code> "mr" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/mar>, <http://id.loc.gov/vocabulary/languages/mar> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ms>
+    <file://www.loc.gov/mads/rdf/v1#code> "ms" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/may>, <http://id.loc.gov/vocabulary/iso639-2/msa>, <http://id.loc.gov/vocabulary/languages/may> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/mt>
+    <file://www.loc.gov/mads/rdf/v1#code> "mt" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/mlt>, <http://id.loc.gov/vocabulary/languages/mlt> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/my>
+    <file://www.loc.gov/mads/rdf/v1#code> "my" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/bur>, <http://id.loc.gov/vocabulary/iso639-2/mya>, <http://id.loc.gov/vocabulary/languages/bur> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/na>
+    <file://www.loc.gov/mads/rdf/v1#code> "na" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nau>, <http://id.loc.gov/vocabulary/languages/nau> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/nb>
+    <file://www.loc.gov/mads/rdf/v1#code> "nb" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nob>, <http://id.loc.gov/vocabulary/languages/nob> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/nd>
+    <file://www.loc.gov/mads/rdf/v1#code> "nd" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nde>, <http://id.loc.gov/vocabulary/languages/nde> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ne>
+    <file://www.loc.gov/mads/rdf/v1#code> "ne" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nep>, <http://id.loc.gov/vocabulary/languages/nep> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ng>
+    <file://www.loc.gov/mads/rdf/v1#code> "ng" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ndo>, <http://id.loc.gov/vocabulary/languages/ndo> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/nl>
+    <file://www.loc.gov/mads/rdf/v1#code> "nl" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/dut>, <http://id.loc.gov/vocabulary/iso639-2/nld>, <http://id.loc.gov/vocabulary/languages/dut> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/nn>
+    <file://www.loc.gov/mads/rdf/v1#code> "nn" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nno>, <http://id.loc.gov/vocabulary/languages/nno> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/no>
+    <file://www.loc.gov/mads/rdf/v1#code> "no" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nor>, <http://id.loc.gov/vocabulary/languages/nor> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/nr>
+    <file://www.loc.gov/mads/rdf/v1#code> "nr" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nbl>, <http://id.loc.gov/vocabulary/languages/nbl> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/nv>
+    <file://www.loc.gov/mads/rdf/v1#code> "nv" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nav>, <http://id.loc.gov/vocabulary/languages/nav> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ny>
+    <file://www.loc.gov/mads/rdf/v1#code> "ny" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/nya>, <http://id.loc.gov/vocabulary/languages/nya> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/oc>
+    <file://www.loc.gov/mads/rdf/v1#code> "oc" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/oci>, <http://id.loc.gov/vocabulary/languages/oci> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Provençal removed"@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/oj>
+    <file://www.loc.gov/mads/rdf/v1#code> "oj" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/oji>, <http://id.loc.gov/vocabulary/languages/oji> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/om>
+    <file://www.loc.gov/mads/rdf/v1#code> "om" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/orm>, <http://id.loc.gov/vocabulary/languages/orm> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/or>
+    <file://www.loc.gov/mads/rdf/v1#code> "or" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ori>, <http://id.loc.gov/vocabulary/languages/ori> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/os>
+    <file://www.loc.gov/mads/rdf/v1#code> "os" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/oss>, <http://id.loc.gov/vocabulary/languages/oss> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Ossetian added"@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/pa>
+    <file://www.loc.gov/mads/rdf/v1#code> "pa" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/pan>, <http://id.loc.gov/vocabulary/languages/pan> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/pi>
+    <file://www.loc.gov/mads/rdf/v1#code> "pi" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/pli>, <http://id.loc.gov/vocabulary/languages/pli> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/pl>
+    <file://www.loc.gov/mads/rdf/v1#code> "pl" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/pol>, <http://id.loc.gov/vocabulary/languages/pol> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ps>
+    <file://www.loc.gov/mads/rdf/v1#code> "ps" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/pus>, <http://id.loc.gov/vocabulary/languages/pus> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/pt>
+    <file://www.loc.gov/mads/rdf/v1#code> "pt" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/por>, <http://id.loc.gov/vocabulary/languages/por> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/qu>
+    <file://www.loc.gov/mads/rdf/v1#code> "qu" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/que>, <http://id.loc.gov/vocabulary/languages/que> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/rm>
+    <file://www.loc.gov/mads/rdf/v1#code> "rm" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/roh>, <http://id.loc.gov/vocabulary/languages/roh> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Name changed from \"Raeto-Romance\""@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/rn>
+    <file://www.loc.gov/mads/rdf/v1#code> "rn" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/run>, <http://id.loc.gov/vocabulary/languages/run> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ro>
+    <file://www.loc.gov/mads/rdf/v1#code> "ro" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ron>, <http://id.loc.gov/vocabulary/iso639-2/rum>, <http://id.loc.gov/vocabulary/languages/rum> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ru>
+    <file://www.loc.gov/mads/rdf/v1#code> "ru" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/rus>, <http://id.loc.gov/vocabulary/languages/rus> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/rw>
+    <file://www.loc.gov/mads/rdf/v1#code> "rw" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/kin>, <http://id.loc.gov/vocabulary/languages/kin> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sa>
+    <file://www.loc.gov/mads/rdf/v1#code> "sa" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/san>, <http://id.loc.gov/vocabulary/languages/san> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sc>
+    <file://www.loc.gov/mads/rdf/v1#code> "sc" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/srd>, <http://id.loc.gov/vocabulary/languages/srd> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sd>
+    <file://www.loc.gov/mads/rdf/v1#code> "sd" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/snd>, <http://id.loc.gov/vocabulary/languages/snd> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/se>
+    <file://www.loc.gov/mads/rdf/v1#code> "se" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/sme>, <http://id.loc.gov/vocabulary/languages/sme> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sg>
+    <file://www.loc.gov/mads/rdf/v1#code> "sg" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/sag>, <http://id.loc.gov/vocabulary/languages/sag> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sh>
+    <file://www.loc.gov/mads/rdf/v1#code> "sh" ;
+    <file://www.loc.gov/mads/rdf/v1#deprecatedLabel> "Serbo-Croatian"@en, "serbo-croate"@fr ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This  code was deprecated in 2000 because there were separate language codes for each individual language represented (Serbian, Croatian, and then Bosnian was added). It was published in a revision of ISO 639-1, but never was included in ISO 639-2. It is considered a macrolanguage (general name for a cluster of closely related individual languages) in ISO 639-3. Its deprecated status was reaffirmed by the ISO 639 JAC in 2005."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries> ;
+    a <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority>, <http://www.loc.gov/mads/rdf/v1#Language>, rdf:Resource .
+
+<http://id.loc.gov/vocabulary/iso639-1/si>
+    <file://www.loc.gov/mads/rdf/v1#code> "si" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/sin>, <http://id.loc.gov/vocabulary/languages/sin> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "Sinhala added"@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sk>
+    <file://www.loc.gov/mads/rdf/v1#code> "sk" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/slk>, <http://id.loc.gov/vocabulary/iso639-2/slo>, <http://id.loc.gov/vocabulary/languages/slo> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sl>
+    <file://www.loc.gov/mads/rdf/v1#code> "sl" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/slv>, <http://id.loc.gov/vocabulary/languages/slv> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sm>
+    <file://www.loc.gov/mads/rdf/v1#code> "sm" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/smo>, <http://id.loc.gov/vocabulary/languages/smo> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sn>
+    <file://www.loc.gov/mads/rdf/v1#code> "sn" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/sna>, <http://id.loc.gov/vocabulary/languages/sna> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/so>
+    <file://www.loc.gov/mads/rdf/v1#code> "so" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/som>, <http://id.loc.gov/vocabulary/languages/som> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sq>
+    <file://www.loc.gov/mads/rdf/v1#code> "sq" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/alb>, <http://id.loc.gov/vocabulary/iso639-2/sqi>, <http://id.loc.gov/vocabulary/languages/alb> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sr>
+    <file://www.loc.gov/mads/rdf/v1#code> "sr" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/srp>, <http://id.loc.gov/vocabulary/languages/srp> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ss>
+    <file://www.loc.gov/mads/rdf/v1#code> "ss" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ssw>, <http://id.loc.gov/vocabulary/languages/ssw> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/st>
+    <file://www.loc.gov/mads/rdf/v1#code> "st" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/sot>, <http://id.loc.gov/vocabulary/languages/sot> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/su>
+    <file://www.loc.gov/mads/rdf/v1#code> "su" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/sun>, <http://id.loc.gov/vocabulary/languages/sun> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sv>
+    <file://www.loc.gov/mads/rdf/v1#code> "sv" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/swe>, <http://id.loc.gov/vocabulary/languages/swe> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/sw>
+    <file://www.loc.gov/mads/rdf/v1#code> "sw" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/swa>, <http://id.loc.gov/vocabulary/languages/swa> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ta>
+    <file://www.loc.gov/mads/rdf/v1#code> "ta" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tam>, <http://id.loc.gov/vocabulary/languages/tam> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/te>
+    <file://www.loc.gov/mads/rdf/v1#code> "te" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tel>, <http://id.loc.gov/vocabulary/languages/tel> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/tg>
+    <file://www.loc.gov/mads/rdf/v1#code> "tg" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tgk>, <http://id.loc.gov/vocabulary/languages/tgk> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/th>
+    <file://www.loc.gov/mads/rdf/v1#code> "th" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tha>, <http://id.loc.gov/vocabulary/languages/tha> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ti>
+    <file://www.loc.gov/mads/rdf/v1#code> "ti" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tir>, <http://id.loc.gov/vocabulary/languages/tir> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/tk>
+    <file://www.loc.gov/mads/rdf/v1#code> "tk" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tuk>, <http://id.loc.gov/vocabulary/languages/tuk> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/tl>
+    <file://www.loc.gov/mads/rdf/v1#code> "tl" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tgl>, <http://id.loc.gov/vocabulary/languages/tgl> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/tn>
+    <file://www.loc.gov/mads/rdf/v1#code> "tn" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tsn>, <http://id.loc.gov/vocabulary/languages/tsn> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/to>
+    <file://www.loc.gov/mads/rdf/v1#code> "to" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ton>, <http://id.loc.gov/vocabulary/languages/ton> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/tr>
+    <file://www.loc.gov/mads/rdf/v1#code> "tr" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tur>, <http://id.loc.gov/vocabulary/languages/tur> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ts>
+    <file://www.loc.gov/mads/rdf/v1#code> "ts" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tso>, <http://id.loc.gov/vocabulary/languages/tso> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/tt>
+    <file://www.loc.gov/mads/rdf/v1#code> "tt" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tat>, <http://id.loc.gov/vocabulary/languages/tat> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/tw>
+    <file://www.loc.gov/mads/rdf/v1#code> "tw" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/twi>, <http://id.loc.gov/vocabulary/languages/twi> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ty>
+    <file://www.loc.gov/mads/rdf/v1#code> "ty" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/tah>, <http://id.loc.gov/vocabulary/languages/tah> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ug>
+    <file://www.loc.gov/mads/rdf/v1#code> "ug" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/uig>, <http://id.loc.gov/vocabulary/languages/uig> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/uk>
+    <file://www.loc.gov/mads/rdf/v1#code> "uk" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ukr>, <http://id.loc.gov/vocabulary/languages/ukr> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ur>
+    <file://www.loc.gov/mads/rdf/v1#code> "ur" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/urd>, <http://id.loc.gov/vocabulary/languages/urd> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/uz>
+    <file://www.loc.gov/mads/rdf/v1#code> "uz" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/uzb>, <http://id.loc.gov/vocabulary/languages/uzb> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/ve>
+    <file://www.loc.gov/mads/rdf/v1#code> "ve" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/ven>, <http://id.loc.gov/vocabulary/languages/ven> ;
+    <file://www.loc.gov/mads/rdf/v1#historyNote> "This alpha-2 ISO 639-1 code was approved in 1999 and included in ISO 639-1: 2002. It was mistakenly missing in earlier versions of the tables on the ISO639-2 web site. As of January 2003, it has been included."@en ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/vi>
+    <file://www.loc.gov/mads/rdf/v1#code> "vi" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/vie>, <http://id.loc.gov/vocabulary/languages/vie> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/vo>
+    <file://www.loc.gov/mads/rdf/v1#code> "vo" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/vol>, <http://id.loc.gov/vocabulary/languages/vol> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/wa>
+    <file://www.loc.gov/mads/rdf/v1#code> "wa" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/wln>, <http://id.loc.gov/vocabulary/languages/wln> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/wo>
+    <file://www.loc.gov/mads/rdf/v1#code> "wo" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/wol>, <http://id.loc.gov/vocabulary/languages/wol> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/xh>
+    <file://www.loc.gov/mads/rdf/v1#code> "xh" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/xho>, <http://id.loc.gov/vocabulary/languages/xho> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/yi>
+    <file://www.loc.gov/mads/rdf/v1#code> "yi" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/yid>, <http://id.loc.gov/vocabulary/languages/yid> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/vocabulary/iso639-1/ji> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/yo>
+    <file://www.loc.gov/mads/rdf/v1#code> "yo" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/yor>, <http://id.loc.gov/vocabulary/languages/yor> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/za>
+    <file://www.loc.gov/mads/rdf/v1#code> "za" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/zha>, <http://id.loc.gov/vocabulary/languages/zha> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/zh>
+    <file://www.loc.gov/mads/rdf/v1#code> "zh" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/chi>, <http://id.loc.gov/vocabulary/iso639-2/zho>, <http://id.loc.gov/vocabulary/languages/chi> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+
+<http://id.loc.gov/vocabulary/iso639-1/zu>
+    <file://www.loc.gov/mads/rdf/v1#code> "zu" ;
+    <file://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://id.loc.gov/vocabulary/iso639-2/zul>, <http://id.loc.gov/vocabulary/languages/zul> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/vocabulary/iso639-1/collection_PastPresentISO639-1Entries>, <http://id.loc.gov/vocabulary/iso639-1/collection_iso639-1> ;
+    <file://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/iso639-1> ;
+    a <http://id.loc.gov/vocabulary/iso639-1/iso639-1_Language>, <http://www.loc.gov/mads/rdf/v1#Authority>, <http://www.loc.gov/mads/rdf/v1#Language> .
+

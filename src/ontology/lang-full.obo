@@ -1,0 +1,11 @@
+format-version: 1.2
+data-version: lang/releases/2019-04-26/lang-full.obo
+ontology: lang/lang-full.obo
+property_value: http://purl.org/dc/elements/1.1/description "None" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Language Ontology" xsd:string
+property_value: http://purl.org/dc/terms/license "Unspecified" xsd:string
+
+[Term]
+id: LANG:00000000
+name: root node
+
