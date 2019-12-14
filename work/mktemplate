@@ -1,1 +1,0 @@
-robot template -vvv --prefix "LANG: http://purl.obolibrary.org/obo/LANG_" --merge-before  --input lang-annotation-header.owl --template iso-639-terms.tsv --output lang.owl

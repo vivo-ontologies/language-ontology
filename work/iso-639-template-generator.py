@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-    gen369: given fixed field data from https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab
+    iso-639-template-generator.py: given fixed field data from https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab
     create a tab separated value spreadsheet as a template to be used by robot to create ontology terms for each of the
     iso-639 languages
 """
@@ -17,7 +17,7 @@ def main():
 
     # open the template for append
 
-    output_file_name = 'iso-639-terms.tsv'
+    output_file_name = 'iso-639-template.tsv'
     ofp = open(output_file_name, 'w+')
 
     # copy the header into the template
