@@ -1,9 +1,5 @@
 format-version: 1.2
-data-version: lang/releases/2019-12-22
-ontology: lang.obo
-property_value: http://purl.org/dc/elements/1.1/description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities." xsd:string
-property_value: http://purl.org/dc/elements/1.1/title "Language Ontology" xsd:string
-property_value: http://purl.org/dc/terms/license "CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/" xsd:string
+ontology: bfo
 
 [Term]
 id: BFO:0000001
@@ -49,14 +45,4 @@ property_value: IAO:0000112 "the pdf file on your laptop, the pdf file that is a
 property_value: IAO:0000112 "the sequence of this protein molecule; the sequence that is a copy thereof in that protein molecule." xsd:string
 property_value: IAO:0000602 "(iff (GenericallyDependentContinuant a) (and (Continuant a) (exists (b t) (genericallyDependsOnAt a b t)))) // axiom label in BFO2 CLIF: [074-001] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/074-001"}
 property_value: isDefinedBy http://purl.obolibrary.org/obo/bfo.owl
-
-[Term]
-id: LANG:00000000
-name: Language
-def: "A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages. See https://en.wikipedia.org/wiki/Language" []
-is_a: BFO:0000031 ! generically dependent continuant
-property_value: IAO:0000112 "English is a subClass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English." xsd:string
-property_value: IAO:0000116 "Very early development.  Change is nearly certain." xsd:string
-property_value: IAO:0000117 "PERSON: Michael Conlon" xsd:string
-property_value: IAO:0000600 "Person x has a language disposition y realized in a language instance z. z is an instance of l.  l is a subclass of Language.  Document i written_in j. j an instance of k.  k is a subclass of Language." xsd:string
 

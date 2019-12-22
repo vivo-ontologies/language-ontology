@@ -1,4 +1,2 @@
 Level	Rule Name	Subject	Property	Value
-WARN	missing_definition	LANG:00000000	IAO:0000115		
-WARN	missing_definition	LANG:00000000	IAO:0000600		
-INFO	missing_superclass	LANG:00000000	rdfs:subClassOf		
+INFO	missing_superclass	BFO:0000031	rdfs:subClassOf		

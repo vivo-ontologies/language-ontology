@@ -1,33 +1,42 @@
-
-Prefix(:=<http://purl.obolibrary.org/obo/lang.owl#>)
+Prefix(:=<http://purl.obolibrary.org/obo/lang.owl/>)
+Prefix(dce:=<http://purl.org/dc/elements/1.1/>)
 Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
 Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
 Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
 Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
 Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
-Prefix(dce:=<http://purl.org/dc/elements/1.1/>)
 Prefix(dcterms:=<http://purl.org/dc/terms/>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/lang.owl>
-
-
-
+Import(<http://purl.obolibrary.org/obo/bfo.owl>)
+Annotation(dce:description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.")
 Annotation(dce:title "Language Ontology")
-Annotation(dcterms:license "Unspecified")
-Annotation(dce:description "None")
+Annotation(dcterms:license "CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/")
 
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000031>))
 Declaration(Class(<http://purl.obolibrary.org/obo/LANG_00000000>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000114>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000117>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000119>))
+Declaration(AnnotationProperty(dce:description))
+Declaration(AnnotationProperty(dce:title))
+Declaration(AnnotationProperty(dcterms:license))
 
 
 ############################
 #   Classes
 ############################
 
-# Class: <http://purl.obolibrary.org/obo/LANG_00000000>
+# Class: <http://purl.obolibrary.org/obo/LANG_00000000> (Language)
 
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_00000000> "root node"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_00000000> "English is a subClass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_00000000> "A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages. See https://en.wikipedia.org/wiki/Language")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_00000000> "Very early development.  Change is nearly certain."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_00000000> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_00000000> "Person x has a language disposition y realized in a language instance z. z is an instance of l.  l is a subclass of Language.  Document i written_in j. j an instance of k.  k is a subclass of Language."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_00000000> "Language"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_00000000> <http://purl.obolibrary.org/obo/BFO_0000031>)
 
 
 )
-

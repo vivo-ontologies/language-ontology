@@ -2,15 +2,12 @@ For new term requests, please provide the following information:
 
 ## Preferred term label
 
-(e.g., Asplenia)
-
 ## Synonyms
-
-(e.g., Absent spleen)
 
 ## Textual definition
 
-the definition should be understandable even for non-specialists. Include a PubMed ID to refer to any relevant article that provides additional information about the suggested term.
+The definition should be understandable for non-specialists. Include a DOI or PubMed ID to refer 
+to any relevant article that provides additional information about the suggested term.
 
 ## Suggested parent term
 

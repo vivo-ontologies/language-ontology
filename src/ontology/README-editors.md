@@ -1,4 +1,4 @@
-These notes are for the EDITORS of lang
+These notes are for EDITORS of lang
 
 This project was created using the [ontology development kit](https://github.com/INCATools/ontology-development-kit). See the site for details.
 
@@ -20,11 +20,11 @@ If you do not have one, get one from the maintainer of this repo.
 
 The editors version is [lang-edit.owl](lang-edit.owl)
 
-** DO NOT EDIT lang.obo OR lang.owl in the top level directory **
+** DO NOT EDIT lang.obo OR lang.owl in the top level directory, these are created automatically by the Makefile **
 
 [../../lang.owl](../../lang.owl) is the release version
 
-To edit, open the file in Protege. First make sure you have the repository cloned, see [the GitHub project](https://github.com/mconlon17/language-ontology) for details.
+To edit, first make sure you have the repository cloned, see [the GitHub project](https://github.com/mconlon17/language-ontology) for details. The edit [lang-edit.owl](lang-edit.owl) using Protege or other editor.
 
 You should discuss the git workflow you should use with the maintainer
 of this repo, who should document it here. If you are the maintainer,
