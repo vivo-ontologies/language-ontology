@@ -10,8 +10,8 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/lang.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/lang/releases/2019-12-22"/>
-        <dc:description>The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.</dc:description>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/lang/releases/2019-12-24"/>
+        <dc:description>The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 637.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.</dc:description>
         <dc:title>Language Ontology</dc:title>
         <terms:license>CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/</terms:license>
     </owl:Ontology>
@@ -268,9 +268,9 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/LANG_00000000 -->
+    <!-- http://purl.obolibrary.org/obo/LANG_0000001 -->
 
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_00000000">
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000001">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000031"/>
         <obo:IAO_0000112 xml:lang="en">English is a subClass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English.</obo:IAO_0000112>
         <obo:IAO_0000115>A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages. See https://en.wikipedia.org/wiki/Language</obo:IAO_0000115>

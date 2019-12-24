@@ -22,6 +22,9 @@ The editors version is [lang-edit.owl](lang-edit.owl)
 
 ** DO NOT EDIT lang.obo OR lang.owl in the top level directory, these are created automatically by the Makefile **
 
+** DO NOT EDIT the template files.  See the README in [../templates](../templates) for a description of how the 
+language classes are created from ISO-639-3 data.  They are not created by editing. ** 
+
 [../../lang.owl](../../lang.owl) is the release version
 
 To edit, first make sure you have the repository cloned, see [the GitHub project](https://github.com/mconlon17/language-ontology) for details. The edit [lang-edit.owl](lang-edit.owl) using Protege or other editor.

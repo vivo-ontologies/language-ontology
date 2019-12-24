@@ -1,7 +1,7 @@
 format-version: 1.2
-data-version: lang/releases/2019-12-22
+data-version: lang/releases/2019-12-24
 ontology: lang.obo
-property_value: http://purl.org/dc/elements/1.1/description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities." xsd:string
+property_value: http://purl.org/dc/elements/1.1/description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 637.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities." xsd:string
 property_value: http://purl.org/dc/elements/1.1/title "Language Ontology" xsd:string
 property_value: http://purl.org/dc/terms/license "CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/" xsd:string
 
@@ -51,7 +51,7 @@ property_value: IAO:0000602 "(iff (GenericallyDependentContinuant a) (and (Conti
 property_value: isDefinedBy http://purl.obolibrary.org/obo/bfo.owl
 
 [Term]
-id: LANG:00000000
+id: LANG:0000001
 name: Language
 def: "A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages. See https://en.wikipedia.org/wiki/Language" []
 is_a: BFO:0000031 ! generically dependent continuant

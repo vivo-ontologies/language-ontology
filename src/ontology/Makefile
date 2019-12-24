@@ -17,7 +17,8 @@ SRC =                       $(ONT)-edit.$(EDIT_FORMAT)
 ROBOT=                      robot
 RELEASEDIR=                 ../..
 PATTERNDIR=                 ../patterns
-REPORTDIR=                 reports
+TEMPLATEDIR=                ../templates
+REPORTDIR=                  reports
 SPARQLDIR =                 ../sparql
 REPORT_FAIL_ON =            None
 OBO_FORMAT_OPTIONS =        
@@ -81,9 +82,26 @@ SUBSET_FILES = $(foreach n,$(SUBSET_ROOTS), $(foreach f,$(FORMATS_INCL_TSV), $(n
 
 all_subsets: $(SUBSET_FILES)
 
-## -- dosdp pattern targets --
-##
 
+# -- Template targets -- 
+#
+# For each template, create a corresponding -terms.owl file
+
+TEMPLATES = iso-639
+TEMPLATE_ROOTS = $(patsubst %, $(TEMPLATEDIR)/%, $(TEMPLATES))
+TEMPLATE_FILES = $(foreach n,$(TEMPLATE_ROOTS), $(n)-template.tsv)
+TEMPLATE_OWL_FILES = $(foreach n,$(TEMPLATE_ROOTS), $(n)-terms.owl)
+
+all_templates: $(TEMPLATE_OWL_FILES)
+
+$(TEMPLATE_OWL_FILES): $(TEMPLATE_FILES)
+	robot template \
+	--prefix "LANG: http://purl.obolibrary.org/obo/LANG_" \
+	--template $^ \
+	--output $@
+
+# -- Pattern targets --
+#
 
 PATTERNS = 
 
@@ -179,7 +197,7 @@ $(ONT)-base.owl: $(SRC) $(OTHER_SRC)
 
 # Full: The full artefacts with imports merged, reasoned
 $(ONT)-full.owl: $(SRC) $(OTHER_SRC)
-	$(ROBOT) merge --input $< \
+	$(ROBOT) merge --input $< --inputs "$(TEMPLATEDIR)/*-terms.owl" \
 		reason --reasoner ELK \
 		relax \
 		reduce -r ELK \
@@ -283,7 +301,6 @@ build-docker:
 
 
 include lang.Makefile
-
 
 
 
