@@ -1,4 +1,4 @@
-# Work files for handling ISO-639 data
+# Templates files for handling ISO-639 data
 
 Data from the ISO 639 Reference Authority is downloaded here and processed using two
 steps.  These steps are executed by the `Makefile`
