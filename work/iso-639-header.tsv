@@ -1,3 +1,0 @@
-RDF Type	Class type	Parent	ID	See Also	Label	Label	Label	Label	Label	Part1	Part2L	Part2B	Part3	Comment	Definition	Editors Note	Citation
-TYPE	CLASS_TYPE	CI	ID	AI rdfs:seeAlso	AL rdfs:label@en	AL rdfs:label@es	AL rdfs:label@fr	AL rdfs:label@de	AL rdfs:label@it	A LANG:0000002	A LANG:0000003	A LANG:0000004	A  LANG:0000005	A  LANG:0000006	AL IAO:0000115@en	AL IAO:0000116@en	AL IAO:0000119@en
-owl:Class		BFO:0000031	LANG:0000001		Language	idioma	la langue	Sprache	linguaggio						"the words, their pronunciation, and the methods of combining them used and understood by a community"		Merriam-Webster https://www.merriam-webster.com/dictionary/language
