@@ -47,7 +47,7 @@ def main():
                 field: list = line.rstrip('\n').split("\t")
                 if field[6] == 'No linguistic content':  # do not include placeholder codes.  Ontology is of languages
                     continue
-                ofp.write('owl:Class\tsubclass\tLANG:0000001\tLANG:1' + str(cnt-1).zfill(6) + '\t\t' + field[6] +
+                ofp.write('owl:Class\tsubclass\tlang:0000001\tlang:1' + str(cnt-1).zfill(6) + '\t\t' + field[6] +
                           '\t' + field[3] + '\t' + field[1] + '\t' + field[2] + '\t' + field[0] + '\t' + field[4] +
                           '\t' + field[5] + '\t' + field[7]
                           + '\t' + field[6] + ' language' + '\t\t\n')
