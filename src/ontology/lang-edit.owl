@@ -10,18 +10,97 @@ Prefix(dcterms:=<http://purl.org/dc/terms/>)
 
 Ontology(<http://purl.obolibrary.org/obo/lang.owl>
 Import(<http://purl.obolibrary.org/obo/bfo.owl>)
-Annotation(dce:description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 637.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.")
+Import(<http://purl.obolibrary.org/obo/lang/releases/2020-01-02/imports/bfo_import.owl>)
+Annotation(dce:description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.")
 Annotation(dce:title "Language Ontology")
 Annotation(dcterms:license "CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/")
 
-Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000031>))
 Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000001>))
-Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000114>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000009>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000010>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000011>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000012>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000013>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000014>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000015>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000016>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000017>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000018>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000019>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000020>))
+Declaration(Class(<http://purl.obolibrary.org/obo/LANG_0000021>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000117>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000119>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LANG_0000002>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LANG_0000003>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LANG_0000004>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LANG_0000005>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LANG_0000006>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LANG_0000007>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/LANG_0000008>))
 Declaration(AnnotationProperty(dce:description))
 Declaration(AnnotationProperty(dce:title))
 Declaration(AnnotationProperty(dcterms:license))
+############################
+#   Annotation Properties
+############################
+
+# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000002> (ISO 639-1 Code)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000002> "The Part 1 code is a unique two letter code used to identify the language."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000002> "Eg: the part1 code for english is 'en'"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000002> "ISO 639-1 Code"@en)
+AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000002> xsd:string)
+AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000002> <http://purl.obolibrary.org/obo/LANG_0000001>)
+
+# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000003> (ISO 639-2L Code)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000003> "The Part 2L Code is a three letter identifier for the language in Part 2L of ISO 639"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000003> "Eg: The 2L code for english is 'eng'"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000003> "ISO 639-2L Code"@en)
+AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000003> xsd:string)
+AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000003> <http://purl.obolibrary.org/obo/LANG_0000001>)
+
+# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000004> (ISO 639-2B Code)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000004> "The Part 2B Code is a three letter identifier for the language in Part 2B of ISO 639."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000004> "Eg: The part 2b code for english is 'eng'"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000004> "ISO 639-2B Code"@en)
+AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000004> xsd:string)
+AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000004> <http://purl.obolibrary.org/obo/LANG_0000001>)
+
+# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000005> (ISO 639-3 Code)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000005> "A three letter code identifying the language in Part 3 of ISO 639."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000005> "Eg: The part 3 code for english is 'eng'"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000005> "ISO 639-3 Code"@en)
+AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000005> xsd:string)
+AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000005> <http://purl.obolibrary.org/obo/LANG_0000001>)
+
+# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000006> (ISO 639 Language Scope)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000006> "Scope indicates whether the language is individual, macro, or special"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000006> "Eg: The scope for english is 'Individual'."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000006> "ISO 639 Language Scope"@en)
+AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000006> xsd:string)
+AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000006> <http://purl.obolibrary.org/obo/LANG_0000001>)
+
+# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000007> (ISO 639 Language Type)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000007> "A language type indicates the use of the language, for example, the language might be extinct."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000007> "Eg: The language type for english is Living."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000007> "ISO 639 Language Type"@en)
+AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000007> xsd:string)
+AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000007> <http://purl.obolibrary.org/obo/LANG_0000001>)
+
+# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000008> (ISO 639 Language Comment)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000008> "Text assigned to the language by ISO 639"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000008> "Language comments are provided as part of the ISO standard.  They are not edited by ontology editors."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000008> "ISO 639 Language Comment"@en)
+AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000008> xsd:string)
+AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000008> <http://purl.obolibrary.org/obo/LANG_0000001>)
+
 
 
 ############################
@@ -30,13 +109,156 @@ Declaration(AnnotationProperty(dcterms:license))
 
 # Class: <http://purl.obolibrary.org/obo/LANG_0000001> (Language)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000001> "English is a subClass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000001> "A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages. See https://en.wikipedia.org/wiki/Language")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000001> "English is a subclass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000001> "A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000001> "Very early development.  Change is nearly certain."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_0000001> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000001> "http://en.wikipedia.org/wiki/Language")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000001> "Person x has a language disposition y realized in a language instance z. z is an instance of l.  l is a subclass of Language.  Document i written_in j. j an instance of k.  k is a subclass of Language."@en)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000001> "Language"@en)
 SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000001> <http://purl.obolibrary.org/obo/BFO_0000031>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000009> (Language Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000009> "A person has a language capability with respect to a particular language.  Another person may have capabilities in several languages.  An organization may have language capabilities in one or more languages."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000009> "The capability an entity has to communicate using a language."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000009> "Language Capability is defined as a subclass of bfo:Disposition.  BFO may add capability as a subclass of Disposition.  Langauge capability would then be a subclass of Capability."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_0000009> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000009> "https://www.coe.int/en/web/common-european-framework-reference-languages/the-cefr-descriptors"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000009> "Eg: x a Person.  y a Language Capability.  x bearer of y.  Similiarly, a an Organization, b and c Language Capabilities.  a bearer of b AND a bearer of c."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000009> "Language Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000009> <http://purl.obolibrary.org/obo/BFO_0000016>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000010> (CEFR Global Scale Proficient User Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000010> "The poet laureate of the United States is a proficient user of english."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000010> "Either C1 or C2 capability"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000010> "We might have left this class out and used only the proficiences."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_0000010> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000010> "https://www.coe.int/en/web/common-european-framework-reference-languages"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000010> "Eg: x bearer of y.  x a person.  y a CEFR Global Scale Proficient User Capability"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000010> "CEFR Global Scale Proficient User Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000010> <http://purl.obolibrary.org/obo/LANG_0000009>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000011> (CEFR Global Scale Proficient User C2 Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000011> "Barack Obama would be said to have C2 capability in english."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000011> "Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000011> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000011> "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000011> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000011> "Eg: x a person. y a CEFR Global Scale Proficient User C2 Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000011> "CEFR Global Scale Proficient User C2 Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000011> <http://purl.obolibrary.org/obo/LANG_0000010>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000012> (CEFR Global Scale Proficient User C1 Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000012> "Elizabeth is quite fluent in french, but has some concerns at the opera."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000012> "Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express him/herself fluently and spontaneously without much obvious searching for expressions. Can use language flexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_0000012> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000012> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000012> "Eg: x a person. y a CEFR Global Scale Proficient User C1 Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000012> "CEFR Global Scale Proficient User C1 Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000012> <http://purl.obolibrary.org/obo/LANG_0000010>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000013> (CEFR Global Scale Independent User Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000013> "Edward can participate in conversations about his work.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000013> "Either B1 or B2 capability, or B1+ or B2+ capability.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000013> "We might have left this class out and used only the proficiencies.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_0000013> "PERSON: Michael Conlon")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000013> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"^^xsd:anyURI)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000013> "Eg: x a person.  y a CEFR Global Scale Independent User Capability.  x bearer of y.  z a language.  y concretizes z."^^xsd:anyURI)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000013> "CEFR Global Scale Independent User Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000013> <http://purl.obolibrary.org/obo/LANG_0000009>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000014> (CEFR Global Scale Independent User B2+ Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000014> "Some of our colleagues have B2+ capability in english."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000014> "Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. Plus."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000014> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000014> "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions.  We do not have a definition of B2+.  The definition here is for B2.  We presume B2+ is more proficient than B2, but not at the capability of C1."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000014> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000014> "Eg: x a person. y a CEFR Global Scale Independent User B2+ Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000014> "CEFR Global Scale Independent User B2+ Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000014> <http://purl.obolibrary.org/obo/LANG_0000013>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000015> (CEFR Global Scale Independent User B2 Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000015> "Some of our colleagues have B2 capability in english."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000015> "Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000015> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000015> "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000015> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000015> "Eg: x a person. y a CEFR Global Scale Independent User B2 Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000015> "CEFR Global Scale Independent User B2 Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000015> <http://purl.obolibrary.org/obo/LANG_0000013>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000016> (CEFR Global Scale Independent User B1+ Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000016> "Some of our colleagues have B1+ capability in english."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000016> "Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans. Plus."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000016> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000016> "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions. We do not have a definition of B1+.  The definition here is for B1.  We presume B1+ is more proficient than B1, but not at the capability of B2."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000016> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000016> "Eg: x a person. y a CEFR Global Scale Independent User B1+ Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000016> "CEFR Global Scale Independent User B1+ Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000016> <http://purl.obolibrary.org/obo/LANG_0000013>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000017> (CEFR Global Scale Independent User B1 Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000017> "Some of our colleagues have B1 capability in english.  Sometimes we need to help them understand details of the topic."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000017> "Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000017> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000017> "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000017> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000017> "Eg: x a person. y a CEFR Global Scale Independent User B1 Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000017> "CEFR Global Scale Independent User B1 Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000017> <http://purl.obolibrary.org/obo/LANG_0000013>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000018> (CEFR Global Scale Basic User Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000018> "Margeritte has some conversational capabilities in english.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000018> "One of A2+, A2 or A1 capability.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000018> "We might have left this class out and used only the proficiencies.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_0000018> "PERSON: Michael Conlon")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000018> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"^^xsd:anyURI)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000018> "Eg: x a person.  y a CEFR Global Scale Basic User Capability.  x bearer of y.  z a language.  y concretizes z."^^xsd:anyURI)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000018> "CEFR Global Scale Basic User Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000018> <http://purl.obolibrary.org/obo/LANG_0000009>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000019> (CEFR Global Scale Basic User A2+ Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000019> "Some of our colleagues have A2+ capability in english.  They will need to learn more to participate in technical work."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000019> "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need. Plus."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000019> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000019> "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions. We do not have a definition of A2+.  The definition here is for A2.  We presume A2+ is more proficient than A2, but not at the capability of B1."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000019> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000019> "Eg: x a person. y a CEFR Global Scale Independent User A2+ Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000019> "CEFR Global Scale Basic User A2+ Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000019> <http://purl.obolibrary.org/obo/LANG_0000018>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000020> (CEFR Global Scale Basic User A2 Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000020> "Some of our colleagues have A2 capability in english.  They will need to learn more to participate in technical work."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000020> "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000020> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000020> "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000020> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000020> "Eg: x a person. y a CEFR Global Scale Independent User A2 Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000020> "CEFR Global Scale Basic User A2 Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000020> <http://purl.obolibrary.org/obo/LANG_0000018>)
+
+# Class: <http://purl.obolibrary.org/obo/LANG_0000021> (CEFR Global Scale Basic User A1 Capability)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000021> "I have A1 capability, just getting started.  I need to learn more to get around."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000021> "Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000021> "PERSON: Michael Conlon"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000021> "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions."@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000021> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000021> "Eg: x a person. y a CEFR Global Scale Independent User A1 Capability. z a Language.  We say: x bearer of y. y concretizes z."@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000021> "CEFR Global Scale Basic User A1 Capability"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000021> <http://purl.obolibrary.org/obo/LANG_0000018>)
 
 
 )

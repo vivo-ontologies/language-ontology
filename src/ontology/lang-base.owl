@@ -10,8 +10,8 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/lang/lang-base.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/lang/releases/2019-12-24/lang-base.owl"/>
-        <dc:description>The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 637.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.</dc:description>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/lang/releases/2020-01-03/lang-base.owl"/>
+        <dc:description>The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.</dc:description>
         <dc:title>Language Ontology</dc:title>
         <terms:license>CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/</terms:license>
     </owl:Ontology>
@@ -32,12 +32,6 @@
     <!-- http://purl.obolibrary.org/obo/IAO_0000112 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000112"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/IAO_0000114 -->
-
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000114"/>
     
 
 
@@ -68,6 +62,90 @@
     <!-- http://purl.obolibrary.org/obo/IAO_0000600 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000600"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000002 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/LANG_0000002">
+        <obo:IAO_0000115 xml:lang="en">The Part 1 code is a unique two letter code used to identify the language.</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">Eg: the part1 code for english is &apos;en&apos;</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">ISO 639-1 Code</rdfs:label>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/LANG_0000001"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000003 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/LANG_0000003">
+        <obo:IAO_0000115 xml:lang="en">The Part 2L Code is a three letter identifier for the language in Part 2L of ISO 639</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">Eg: The 2L code for english is &apos;eng&apos;</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">ISO 639-2L Code</rdfs:label>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/LANG_0000001"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000004 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/LANG_0000004">
+        <obo:IAO_0000115 xml:lang="en">The Part 2B Code is a three letter identifier for the language in Part 2B of ISO 639.</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">Eg: The part 2b code for english is &apos;eng&apos;</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">ISO 639-2B Code</rdfs:label>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/LANG_0000001"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000005 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/LANG_0000005">
+        <obo:IAO_0000115 xml:lang="en">A three letter code identifying the language in Part 3 of ISO 639.</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">Eg: The part 3 code for english is &apos;eng&apos;</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">ISO 639-3 Code</rdfs:label>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/LANG_0000001"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000006 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/LANG_0000006">
+        <obo:IAO_0000115 xml:lang="en">Scope indicates whether the language is individual, macro, or special</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">Eg: The scope for english is &apos;Individual&apos;.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">ISO 639 Language Scope</rdfs:label>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/LANG_0000001"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000007 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/LANG_0000007">
+        <obo:IAO_0000115 xml:lang="en">A language type indicates the use of the language, for example, the language might be extinct.</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">Eg: The language type for english is Living.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">ISO 639 Language Type</rdfs:label>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/LANG_0000001"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000008 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/LANG_0000008">
+        <obo:IAO_0000115 xml:lang="en">Text assigned to the language by ISO 639</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">Language comments are provided as part of the ISO standard.  They are not edited by ontology editors.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">ISO 639 Language Comment</rdfs:label>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/LANG_0000001"/>
+    </owl:AnnotationProperty>
     
 
 
@@ -103,12 +181,206 @@
     <!-- http://purl.obolibrary.org/obo/LANG_0000001 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000001">
-        <obo:IAO_0000112 xml:lang="en">English is a subClass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English.</obo:IAO_0000112>
-        <obo:IAO_0000115>A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages. See https://en.wikipedia.org/wiki/Language</obo:IAO_0000115>
+        <obo:IAO_0000112 xml:lang="en">English is a subclass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages.</obo:IAO_0000115>
         <obo:IAO_0000116 xml:lang="en">Very early development.  Change is nearly certain.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000117>
+        <obo:IAO_0000119>http://en.wikipedia.org/wiki/Language</obo:IAO_0000119>
         <obo:IAO_0000600 xml:lang="en">Person x has a language disposition y realized in a language instance z. z is an instance of l.  l is a subclass of Language.  Document i written_in j. j an instance of k.  k is a subclass of Language.</obo:IAO_0000600>
         <rdfs:label xml:lang="en">Language</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000009">
+        <obo:IAO_0000112 xml:lang="en">A person has a language capability with respect to a particular language.  Another person may have capabilities in several languages.  An organization may have language capabilities in one or more languages.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">The capability an entity has to communicate using a language.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">Language Capability is defined as a subclass of bfo:Disposition.  BFO may add capability as a subclass of Disposition.  Langauge capability would then be a subclass of Capability.</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/the-cefr-descriptors</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a Person.  y a Language Capability.  x bearer of y.  Similiarly, a an Organization, b and c Language Capabilities.  a bearer of b AND a bearer of c.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">Language Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000010 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000010">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000009"/>
+        <obo:IAO_0000112 xml:lang="en">The poet laureate of the United States is a proficient user of english.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Either C1 or C2 capability</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">We might have left this class out and used only the proficiences.</obo:IAO_0000116>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x bearer of y.  x a person.  y a CEFR Global Scale Proficient User Capability</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Proficient User Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000011 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000011">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000010"/>
+        <obo:IAO_0000112 xml:lang="en">Barack Obama would be said to have C2 capability in english.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions.</obo:IAO_0000116>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Proficient User C2 Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Proficient User C2 Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000012 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000012">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000010"/>
+        <obo:IAO_0000112 xml:lang="en">Elizabeth is quite fluent in french, but has some concerns at the opera.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express him/herself fluently and spontaneously without much obvious searching for expressions. Can use language flexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Proficient User C1 Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Proficient User C1 Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000013 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000013">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000009"/>
+        <obo:IAO_0000112>Edward can participate in conversations about his work.</obo:IAO_0000112>
+        <obo:IAO_0000115>Either B1 or B2 capability, or B1+ or B2+ capability.</obo:IAO_0000115>
+        <obo:IAO_0000116>We might have left this class out and used only the proficiencies.</obo:IAO_0000116>
+        <obo:IAO_0000117>PERSON: Michael Conlon</obo:IAO_0000117>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">Eg: x a person.  y a CEFR Global Scale Independent User Capability.  x bearer of y.  z a language.  y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Independent User Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000014 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000014">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000013"/>
+        <obo:IAO_0000112 xml:lang="en">Some of our colleagues have B2+ capability in english.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. Plus.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions.  We do not have a definition of B2+.  The definition here is for B2.  We presume B2+ is more proficient than B2, but not at the capability of C1.</obo:IAO_0000116>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Independent User B2+ Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Independent User B2+ Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000015 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000015">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000013"/>
+        <obo:IAO_0000112 xml:lang="en">Some of our colleagues have B2 capability in english.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions.</obo:IAO_0000116>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Independent User B2 Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Independent User B2 Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000016 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000016">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000013"/>
+        <obo:IAO_0000112 xml:lang="en">Some of our colleagues have B1+ capability in english.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes &amp; ambitions and briefly give reasons and explanations for opinions and plans. Plus.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions. We do not have a definition of B1+.  The definition here is for B1.  We presume B1+ is more proficient than B1, but not at the capability of B2.</obo:IAO_0000116>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Independent User B1+ Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Independent User B1+ Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000017 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000017">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000013"/>
+        <obo:IAO_0000112 xml:lang="en">Some of our colleagues have B1 capability in english.  Sometimes we need to help them understand details of the topic.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes &amp; ambitions and briefly give reasons and explanations for opinions and plans.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions.</obo:IAO_0000116>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Independent User B1 Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Independent User B1 Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000018 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000018">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000009"/>
+        <obo:IAO_0000112>Margeritte has some conversational capabilities in english.</obo:IAO_0000112>
+        <obo:IAO_0000115>One of A2+, A2 or A1 capability.</obo:IAO_0000115>
+        <obo:IAO_0000116>We might have left this class out and used only the proficiencies.</obo:IAO_0000116>
+        <obo:IAO_0000117>PERSON: Michael Conlon</obo:IAO_0000117>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">Eg: x a person.  y a CEFR Global Scale Basic User Capability.  x bearer of y.  z a language.  y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Basic User Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000019 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000019">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000018"/>
+        <obo:IAO_0000112 xml:lang="en">Some of our colleagues have A2+ capability in english.  They will need to learn more to participate in technical work.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need. Plus.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions. We do not have a definition of A2+.  The definition here is for A2.  We presume A2+ is more proficient than A2, but not at the capability of B1.</obo:IAO_0000116>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Independent User A2+ Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Basic User A2+ Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000020 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000020">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000018"/>
+        <obo:IAO_0000112 xml:lang="en">Some of our colleagues have A2 capability in english.  They will need to learn more to participate in technical work.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions.</obo:IAO_0000116>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Independent User A2 Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Basic User A2 Capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/LANG_0000021 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000021">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000018"/>
+        <obo:IAO_0000112 xml:lang="en">I have A1 capability, just getting started.  I need to learn more to get around.</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">PERSON: Michael Conlon</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions.</obo:IAO_0000116>
+        <obo:IAO_0000119 xml:lang="en">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
+        <obo:IAO_0000600 xml:lang="en">Eg: x a person. y a CEFR Global Scale Independent User A1 Capability. z a Language.  We say: x bearer of y. y concretizes z.</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">CEFR Global Scale Basic User A1 Capability</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 

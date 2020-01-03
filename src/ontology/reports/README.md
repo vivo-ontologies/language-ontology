@@ -1,3 +1,3 @@
 # Reports folder
 
-Files are added to this during the release process
+Files are added to this folder during the release process

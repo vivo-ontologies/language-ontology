@@ -1,2 +1,15 @@
 ?cls	?pred	?val	?synType
+<http://purl.obolibrary.org/obo/LANG_0000020>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Basic User A2 Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000018>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Basic User Capability"@en	
 <http://purl.obolibrary.org/obo/LANG_0000001>	<http://www.w3.org/2000/01/rdf-schema#label>	"Language"@en	
+<http://purl.obolibrary.org/obo/LANG_0000010>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Proficient User Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000009>	<http://www.w3.org/2000/01/rdf-schema#label>	"Language Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000016>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Independent User B1+ Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000013>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Independent User Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000015>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Independent User B2 Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000014>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Independent User B2+ Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000019>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Basic User A2+ Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000012>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Proficient User C1 Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000021>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Basic User A1 Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000011>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Proficient User C2 Capability"@en	
+<http://purl.obolibrary.org/obo/LANG_0000017>	<http://www.w3.org/2000/01/rdf-schema#label>	"CEFR Global Scale Independent User B1 Capability"@en	

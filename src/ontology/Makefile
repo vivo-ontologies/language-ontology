@@ -17,7 +17,6 @@ SRC =                       $(ONT)-edit.$(EDIT_FORMAT)
 ROBOT=                      robot
 RELEASEDIR=                 ../..
 PATTERNDIR=                 ../patterns
-TEMPLATEDIR=                ../templates
 REPORTDIR=                  reports
 SPARQLDIR =                 ../sparql
 REPORT_FAIL_ON =            None
@@ -37,7 +36,7 @@ RELEASE_ARTEFACTS = $(sort  full base base full)
 # ----------------------------------------
 
 .PHONY: .FORCE
-all: all_imports all_main all_subsets sparql_test all_reports all_assets
+all: all_imports all_templates all_main all_subsets sparql_test all_reports all_assets
 test: sparql_test all_reports
 	$(ROBOT) reason --input $(SRC) --reasoner ELK --output test.owl && rm test.owl && echo "Success"
 
@@ -88,7 +87,7 @@ all_subsets: $(SUBSET_FILES)
 # For each template, create a corresponding -terms.owl file
 
 TEMPLATES = iso-639
-TEMPLATE_ROOTS = $(patsubst %, $(TEMPLATEDIR)/%, $(TEMPLATES))
+TEMPLATE_ROOTS = $(patsubst %, templates/%, $(TEMPLATES))
 TEMPLATE_FILES = $(foreach n,$(TEMPLATE_ROOTS), $(n)-template.tsv)
 TEMPLATE_OWL_FILES = $(foreach n,$(TEMPLATE_ROOTS), $(n)-terms.owl)
 
@@ -96,7 +95,7 @@ all_templates: $(TEMPLATE_OWL_FILES)
 
 $(TEMPLATE_OWL_FILES): $(TEMPLATE_FILES)
 	robot template \
-	--prefix "LANG: http://purl.obolibrary.org/obo/LANG_" \
+	--prefix "lang: http://purl.obolibrary.org/obo/LANG_" \
 	--template $^ \
 	--output $@
 
@@ -123,6 +122,7 @@ all_reports: all_reports_onestep $(REPORT_FILES)
 
 ASSETS = \
   $(IMPORT_FILES) \
+  $(TEMPLATE_FILES) \
   $(MAIN_FILES) \
   $(REPORT_FILES) \
   $(SUBSET_FILES)
@@ -184,12 +184,6 @@ $(ONTOLOGYTERMS): $(SRC) all_imports
 
  
 
- 
-
-
-
-
-
 # base: OTHER sources of interest, such as definitions owl
 $(ONT)-base.owl: $(SRC) $(OTHER_SRC)
 	$(ROBOT) remove --input $< --select imports \
@@ -197,7 +191,10 @@ $(ONT)-base.owl: $(SRC) $(OTHER_SRC)
 
 # Full: The full artefacts with imports merged, reasoned
 $(ONT)-full.owl: $(SRC) $(OTHER_SRC)
-	$(ROBOT) merge --input $< --inputs "$(TEMPLATEDIR)/*-terms.owl" \
+	$(ROBOT) merge --include-annotations true \
+                --input $< \
+                --input imports/bfo_import.owl \
+                --input templates/iso-639-terms.owl \
 		reason --reasoner ELK \
 		relax \
 		reduce -r ELK \

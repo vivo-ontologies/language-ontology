@@ -1,16 +1,158 @@
 format-version: 1.2
-data-version: lang/releases/2019-12-24/lang-base.obo
+data-version: lang/releases/2020-01-03/lang-base.obo
 ontology: lang/lang-base.obo
-property_value: http://purl.org/dc/elements/1.1/description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 637.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities and language processes.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities." xsd:string
+property_value: http://purl.org/dc/elements/1.1/description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities." xsd:string
 property_value: http://purl.org/dc/elements/1.1/title "Language Ontology" xsd:string
 property_value: http://purl.org/dc/terms/license "CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/" xsd:string
 
 [Term]
 id: LANG:0000001
 name: Language
-def: "A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages. See https://en.wikipedia.org/wiki/Language" []
-property_value: IAO:0000112 "English is a subClass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English." xsd:string
+def: "A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages." []
+property_value: IAO:0000112 "English is a subclass of Language.  A person has a disposition (capability) with respect to an instance of language for that person.  If two people speak english, they speak instances of english (not identical) that are each instances of the class English." xsd:string
 property_value: IAO:0000116 "Very early development.  Change is nearly certain." xsd:string
 property_value: IAO:0000117 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000119 http://en.wikipedia.org/wiki/Language xsd:string
 property_value: IAO:0000600 "Person x has a language disposition y realized in a language instance z. z is an instance of l.  l is a subclass of Language.  Document i written_in j. j an instance of k.  k is a subclass of Language." xsd:string
+
+[Term]
+id: LANG:0000009
+name: Language Capability
+def: "The capability an entity has to communicate using a language." []
+property_value: IAO:0000112 "A person has a language capability with respect to a particular language.  Another person may have capabilities in several languages.  An organization may have language capabilities in one or more languages." xsd:string
+property_value: IAO:0000116 "Language Capability is defined as a subclass of bfo:Disposition.  BFO may add capability as a subclass of Disposition.  Langauge capability would then be a subclass of Capability." xsd:string
+property_value: IAO:0000117 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/the-cefr-descriptors xsd:string
+property_value: IAO:0000600 "Eg: x a Person.  y a Language Capability.  x bearer of y.  Similiarly, a an Organization, b and c Language Capabilities.  a bearer of b AND a bearer of c." xsd:string
+
+[Term]
+id: LANG:0000010
+name: CEFR Global Scale Proficient User Capability
+def: "Either C1 or C2 capability" []
+is_a: LANG:0000009 ! Language Capability
+property_value: IAO:0000112 "The poet laureate of the United States is a proficient user of english." xsd:string
+property_value: IAO:0000116 "We might have left this class out and used only the proficiences." xsd:string
+property_value: IAO:0000117 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages xsd:string
+property_value: IAO:0000600 "Eg: x bearer of y.  x a person.  y a CEFR Global Scale Proficient User Capability" xsd:string
+
+[Term]
+id: LANG:0000011
+name: CEFR Global Scale Proficient User C2 Capability
+def: "Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations." []
+is_a: LANG:0000010 ! CEFR Global Scale Proficient User Capability
+property_value: IAO:0000112 "Barack Obama would be said to have C2 capability in english." xsd:string
+property_value: IAO:0000116 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000116 "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions." xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Proficient User C2 Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
+
+[Term]
+id: LANG:0000012
+name: CEFR Global Scale Proficient User C1 Capability
+def: "Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express him/herself fluently and spontaneously without much obvious searching for expressions. Can use language flexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices." []
+is_a: LANG:0000010 ! CEFR Global Scale Proficient User Capability
+property_value: IAO:0000112 "Elizabeth is quite fluent in french, but has some concerns at the opera." xsd:string
+property_value: IAO:0000117 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Proficient User C1 Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
+
+[Term]
+id: LANG:0000013
+name: CEFR Global Scale Independent User Capability
+def: "Either B1 or B2 capability, or B1+ or B2+ capability." []
+is_a: LANG:0000009 ! Language Capability
+property_value: IAO:0000112 "Edward can participate in conversations about his work." xsd:string
+property_value: IAO:0000116 "We might have left this class out and used only the proficiencies." xsd:string
+property_value: IAO:0000117 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:anyURI
+property_value: IAO:0000600 "Eg: x a person.  y a CEFR Global Scale Independent User Capability.  x bearer of y.  z a language.  y concretizes z." xsd:anyURI
+
+[Term]
+id: LANG:0000014
+name: CEFR Global Scale Independent User B2+ Capability
+def: "Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. Plus." []
+is_a: LANG:0000013 ! CEFR Global Scale Independent User Capability
+property_value: IAO:0000112 "Some of our colleagues have B2+ capability in english." xsd:string
+property_value: IAO:0000116 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000116 "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions.  We do not have a definition of B2+.  The definition here is for B2.  We presume B2+ is more proficient than B2, but not at the capability of C1." xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent User B2+ Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
+
+[Term]
+id: LANG:0000015
+name: CEFR Global Scale Independent User B2 Capability
+def: "Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options." []
+is_a: LANG:0000013 ! CEFR Global Scale Independent User Capability
+property_value: IAO:0000112 "Some of our colleagues have B2 capability in english." xsd:string
+property_value: IAO:0000116 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000116 "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions." xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent User B2 Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
+
+[Term]
+id: LANG:0000016
+name: CEFR Global Scale Independent User B1+ Capability
+def: "Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans. Plus." []
+is_a: LANG:0000013 ! CEFR Global Scale Independent User Capability
+property_value: IAO:0000112 "Some of our colleagues have B1+ capability in english." xsd:string
+property_value: IAO:0000116 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000116 "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions. We do not have a definition of B1+.  The definition here is for B1.  We presume B1+ is more proficient than B1, but not at the capability of B2." xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent User B1+ Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
+
+[Term]
+id: LANG:0000017
+name: CEFR Global Scale Independent User B1 Capability
+def: "Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans." []
+is_a: LANG:0000013 ! CEFR Global Scale Independent User Capability
+property_value: IAO:0000112 "Some of our colleagues have B1 capability in english.  Sometimes we need to help them understand details of the topic." xsd:string
+property_value: IAO:0000116 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000116 "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions." xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent User B1 Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
+
+[Term]
+id: LANG:0000018
+name: CEFR Global Scale Basic User Capability
+def: "One of A2+, A2 or A1 capability." []
+is_a: LANG:0000009 ! Language Capability
+property_value: IAO:0000112 "Margeritte has some conversational capabilities in english." xsd:string
+property_value: IAO:0000116 "We might have left this class out and used only the proficiencies." xsd:string
+property_value: IAO:0000117 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:anyURI
+property_value: IAO:0000600 "Eg: x a person.  y a CEFR Global Scale Basic User Capability.  x bearer of y.  z a language.  y concretizes z." xsd:anyURI
+
+[Term]
+id: LANG:0000019
+name: CEFR Global Scale Basic User A2+ Capability
+def: "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need. Plus." []
+is_a: LANG:0000018 ! CEFR Global Scale Basic User Capability
+property_value: IAO:0000112 "Some of our colleagues have A2+ capability in english.  They will need to learn more to participate in technical work." xsd:string
+property_value: IAO:0000116 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000116 "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions. We do not have a definition of A2+.  The definition here is for A2.  We presume A2+ is more proficient than A2, but not at the capability of B1." xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent User A2+ Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
+
+[Term]
+id: LANG:0000020
+name: CEFR Global Scale Basic User A2 Capability
+def: "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need." []
+is_a: LANG:0000018 ! CEFR Global Scale Basic User Capability
+property_value: IAO:0000112 "Some of our colleagues have A2 capability in english.  They will need to learn more to participate in technical work." xsd:string
+property_value: IAO:0000116 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000116 "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions." xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent User A2 Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
+
+[Term]
+id: LANG:0000021
+name: CEFR Global Scale Basic User A1 Capability
+def: "Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help." []
+is_a: LANG:0000018 ! CEFR Global Scale Basic User Capability
+property_value: IAO:0000112 "I have A1 capability, just getting started.  I need to learn more to get around." xsd:string
+property_value: IAO:0000116 "PERSON: Michael Conlon" xsd:string
+property_value: IAO:0000116 "The intent is to represent each of the CEFR Common Reference Levels as BFO dispositions." xsd:string
+property_value: IAO:0000119 https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale xsd:string
+property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent User A1 Capability. z a Language.  We say: x bearer of y. y concretizes z." xsd:string
 

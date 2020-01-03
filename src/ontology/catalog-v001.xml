@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/lang/releases/2020-01-02/imports/bfo_import.owl" uri="imports/bfo_import.owl"/>
     <uri id="Imports Wizard Entry" name="http://www.w3.org/2002/07/owl" uri="templates/lang-terms.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bfo.owl" uri="imports/bfo_import.owl"/>
     <group id="Folder Repository, directory=, recursive=false, Auto-Update=false, version=2" prefer="public" xml:base=""/>

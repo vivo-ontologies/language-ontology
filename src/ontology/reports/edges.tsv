@@ -1,2 +1,13 @@
 ?x	?p	?y
-<http://purl.obolibrary.org/obo/LANG_0000001>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/BFO_0000031>
+<http://purl.obolibrary.org/obo/LANG_0000020>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000018>
+<http://purl.obolibrary.org/obo/LANG_0000019>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000018>
+<http://purl.obolibrary.org/obo/LANG_0000021>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000018>
+<http://purl.obolibrary.org/obo/LANG_0000012>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000010>
+<http://purl.obolibrary.org/obo/LANG_0000011>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000010>
+<http://purl.obolibrary.org/obo/LANG_0000018>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000009>
+<http://purl.obolibrary.org/obo/LANG_0000010>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000009>
+<http://purl.obolibrary.org/obo/LANG_0000013>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000009>
+<http://purl.obolibrary.org/obo/LANG_0000016>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000013>
+<http://purl.obolibrary.org/obo/LANG_0000015>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000013>
+<http://purl.obolibrary.org/obo/LANG_0000014>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000013>
+<http://purl.obolibrary.org/obo/LANG_0000017>	<http://www.w3.org/2000/01/rdf-schema#subClassOf>	<http://purl.obolibrary.org/obo/LANG_0000013>

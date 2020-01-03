@@ -1,5 +1,6 @@
 format-version: 1.2
-ontology: bfo
+data-version: lang/releases/2020-01-02/imports/bfo_import.owl
+ontology: lang/imports/bfo_import
 
 [Term]
 id: BFO:0000001
@@ -31,6 +32,63 @@ property_value: IAO:0000602 "(forall (x y) (if (and (Continuant x) (exists (t) (
 property_value: IAO:0000602 "(forall (x y) (if (and (Continuant x) (exists (t) (hasContinuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [126-001] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/126-001"}
 property_value: IAO:0000602 "(forall (x) (if (Continuant x) (Entity x))) // axiom label in BFO2 CLIF: [008-002] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/008-002"}
 property_value: IAO:0000602 "(forall (x) (if (Material Entity x) (exists (t) (and (TemporalRegion t) (existsAt x t))))) // axiom label in BFO2 CLIF: [011-002] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/011-002"}
+property_value: isDefinedBy http://purl.obolibrary.org/obo/bfo.owl
+
+[Term]
+id: BFO:0000016
+name: disposition
+is_a: BFO:0000017 ! realizable entity
+property_value: BFO:0000179 "disposition" xsd:string
+property_value: BFO:0000180 "Disposition" xsd:string
+property_value: IAO:0000112 "an atom of element X has the disposition to decay to an atom of element Y" xsd:string
+property_value: IAO:0000112 "certain people have a predisposition to colon cancer" xsd:string
+property_value: IAO:0000112 "children are innately disposed to categorize objects in certain ways." xsd:string
+property_value: IAO:0000112 "the cell wall is disposed to filter chemicals in endocytosis and exocytosis" xsd:string
+property_value: IAO:0000116 "BFO 2 Reference: Dispositions exist along a strength continuum. Weaker forms of disposition are realized in only a fraction of triggering cases. These forms occur in a significant number of cases of a similar type." xsd:string
+property_value: IAO:0000600 "b is a disposition means: b is a realizable entity & b’s bearer is some material entity & b is such that if it ceases to exist, then its bearer is physically changed, & b’s realization occurs when and because this bearer is in some special physical circumstances, & this realization occurs in virtue of the bearer’s physical make-up. (axiom label in BFO2 Reference: [062-002])" xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/062-002"}
+property_value: IAO:0000601 "If b is a realizable entity then for all t at which b exists, b s-depends_on some material entity at t. (axiom label in BFO2 Reference: [063-002])" xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/063-002"}
+property_value: IAO:0000602 "(forall (x t) (if (and (RealizableEntity x) (existsAt x t)) (exists (y) (and (MaterialEntity y) (specificallyDepends x y t))))) // axiom label in BFO2 CLIF: [063-002] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/063-002"}
+property_value: IAO:0000602 "(forall (x) (if (Disposition x) (and (RealizableEntity x) (exists (y) (and (MaterialEntity y) (bearerOfAt x y t)))))) // axiom label in BFO2 CLIF: [062-002] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/062-002"}
+property_value: isDefinedBy http://purl.obolibrary.org/obo/bfo.owl
+
+[Term]
+id: BFO:0000017
+name: realizable entity
+is_a: BFO:0000020 ! specifically dependent continuant
+property_value: BFO:0000179 "realizable" xsd:string
+property_value: BFO:0000180 "RealizableEntity" xsd:string
+property_value: IAO:0000112 "the disposition of this piece of metal to conduct electricity." xsd:string
+property_value: IAO:0000112 "the disposition of your blood to coagulate" xsd:string
+property_value: IAO:0000112 "the function of your reproductive organs" xsd:string
+property_value: IAO:0000112 "the role of being a doctor" xsd:string
+property_value: IAO:0000112 "the role of this boundary to delineate where Utah and Colorado meet" xsd:string
+property_value: IAO:0000600 "To say that b is a realizable entity is to say that b is a specifically dependent continuant that inheres in some independent continuant which is not a spatial region and is of a type instances of which are realized in processes of a correlated type. (axiom label in BFO2 Reference: [058-002])" xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/058-002"}
+property_value: IAO:0000601 "All realizable dependent continuants have independent continuants that are not spatial regions as their bearers. (axiom label in BFO2 Reference: [060-002])" xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/060-002"}
+property_value: IAO:0000602 "(forall (x t) (if (RealizableEntity x) (exists (y) (and (IndependentContinuant y) (not (SpatialRegion y)) (bearerOfAt y x t))))) // axiom label in BFO2 CLIF: [060-002] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/060-002"}
+property_value: IAO:0000602 "(forall (x) (if (RealizableEntity x) (and (SpecificallyDependentContinuant x) (exists (y) (and (IndependentContinuant y) (not (SpatialRegion y)) (inheresIn x y)))))) // axiom label in BFO2 CLIF: [058-002] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/058-002"}
+property_value: isDefinedBy http://purl.obolibrary.org/obo/bfo.owl
+
+[Term]
+id: BFO:0000020
+name: specifically dependent continuant
+def: "b is a specifically dependent continuant = Def. b is a continuant & there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])" [] {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/050-003"}
+is_a: BFO:0000002 ! continuant
+disjoint_from: BFO:0000031 ! generically dependent continuant
+property_value: BFO:0000179 "sdc" xsd:string
+property_value: BFO:0000180 "SpecificallyDependentContinuant" xsd:string
+property_value: IAO:0000112 "of one-sided specifically dependent continuants: the mass of this tomato" xsd:string
+property_value: IAO:0000112 "of relational dependent continuants (multiple bearers): John’s love for Mary, the ownership relation between John and this statue, the relation of authority between John and his subordinates." xsd:string
+property_value: IAO:0000112 "Reciprocal specifically dependent continuants: the function of this key to open this lock and the mutually dependent disposition of this lock: to be opened by this key" xsd:string
+property_value: IAO:0000112 "the disposition of this fish to decay" xsd:string
+property_value: IAO:0000112 "the function of this heart: to pump blood" xsd:string
+property_value: IAO:0000112 "the mutual dependence of proton donors and acceptors in chemical reactions [79" xsd:string
+property_value: IAO:0000112 "the mutual dependence of the role predator and the role prey as played by two organisms in a given interaction" xsd:string
+property_value: IAO:0000112 "the pink color of a medium rare piece of grilled filet mignon at its center" xsd:string
+property_value: IAO:0000112 "the role of being a doctor" xsd:string
+property_value: IAO:0000112 "the shape of this hole." xsd:string
+property_value: IAO:0000112 "the smell of this portion of mozzarella" xsd:string
+property_value: IAO:0000116 "Specifically dependent continuant doesn't have a closure axiom because the subclasses don't necessarily exhaust all possibilites. We're not sure what else will develop here, but for example there are questions such as what are promises, obligation, etc." xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/0000005", comment="per discussion with Barry Smith"}
+property_value: IAO:0000602 "(iff (SpecificallyDependentContinuant a) (and (Continuant a) (forall (t) (if (existsAt a t) (exists (b) (and (IndependentContinuant b) (not (SpatialRegion b)) (specificallyDependsOnAt a b t))))))) // axiom label in BFO2 CLIF: [050-003] " xsd:string {http://purl.obolibrary.org/obo/IAO_0010000="http://purl.obolibrary.org/obo/bfo/axiom/050-003"}
 property_value: isDefinedBy http://purl.obolibrary.org/obo/bfo.owl
 
 [Term]
