@@ -80,9 +80,9 @@
     <!-- http://purl.obolibrary.org/obo/LANG_0000003 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/LANG_0000003">
-        <obo:IAO_0000115 xml:lang="en">The Part 2L Code is a three letter identifier for the language in Part 2L of ISO 639</obo:IAO_0000115>
-        <obo:IAO_0000600 xml:lang="en">Eg: The 2L code for english is &apos;eng&apos;</obo:IAO_0000600>
-        <rdfs:label xml:lang="en">ISO 639-2L Code</rdfs:label>
+        <obo:IAO_0000115 xml:lang="en">The Part 2T Code is a three letter identifier for the language in Part 2L of ISO 639</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">Eg: The 2T code for english is &apos;eng&apos;</obo:IAO_0000600>
+        <rdfs:label xml:lang="en">ISO 639-2T Code</rdfs:label>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
         <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/LANG_0000001"/>
     </owl:AnnotationProperty>

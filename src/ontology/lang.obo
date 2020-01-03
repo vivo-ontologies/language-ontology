@@ -389,6 +389,8 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1000015
 name: Afar
+name: afar
+name: Danakil-Sprache
 def: "Afar language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "aa" xsd:string
@@ -544,6 +546,8 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1000032
+name: Abchasisch
+name: abkhaze
 name: Abkhazian
 def: "Abkhazian language" []
 is_a: LANG:0000001 ! Language
@@ -718,6 +722,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000051
+name: aceh
+name: Aceh-Sprache
 name: Achinese
 def: "Achinese language" []
 is_a: LANG:0000001 ! Language
@@ -738,7 +744,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000053
+name: Acholi-Sprache
 name: Acoli
+name: acoli
 def: "Acoli language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ach" xsd:string
@@ -894,6 +902,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000070
 name: Adangme
+name: adangme
+name: Adangme-Sprache
 def: "Adangme language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ada" xsd:string
@@ -1067,6 +1077,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000089
 name: Adyghe
+name: adyghé
+name: Adygisch
 def: "Adyghe language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ady" xsd:string
@@ -1267,6 +1279,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000111
 name: Afrihili
+name: afrihili
 def: "Afrihili language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "afh" xsd:string
@@ -1323,6 +1336,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000117
 name: Afrikaans
+name: afrikaans
 def: "Afrikaans language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "af" xsd:string
@@ -1839,6 +1853,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000174
 name: Ainu (Japan)
+name: Ainu-Sprache
+name: aïnou
 def: "Ainu (Japan) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ain" xsd:string
@@ -2003,6 +2019,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000192
 name: Akan
+name: akan
+name: Akan-Sprache
 def: "Akan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ak" xsd:string
@@ -2096,6 +2114,8 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1000202
 name: Akkadian
+name: akkadien
+name: Akkadisch
 def: "Akkadian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "akk" xsd:string
@@ -2260,6 +2280,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000220
 name: Aleut
+name: Aleutisch
+name: aléoute
 def: "Aleut language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ale" xsd:string
@@ -2387,6 +2409,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000234
+name: altai du Sud
+name: Altaisch
 name: Southern Altai
 def: "Southern Altai language" []
 is_a: LANG:0000001 ! Language
@@ -2498,6 +2522,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000246
 name: Amharic
+name: amharique
+name: Amharisch
 def: "Amharic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "am" xsd:string
@@ -2725,6 +2751,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000271
+name: Altenglisch
+name: anglo-saxon (ca.450-1100)
 name: Old English (ca. 450-1100)
 def: "Old English (ca. 450-1100) language" []
 is_a: LANG:0000001 ! Language
@@ -2808,7 +2836,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000280
+name: Anga-Sprache
 name: Angika
+name: angika
 def: "Angika language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "anp" xsd:string
@@ -3395,7 +3425,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000345
+name: arabe
 name: Arabic
+name: Arabisch
 def: "Arabic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ar" xsd:string
@@ -3416,6 +3448,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000347
+name: Aramäisch
+name: araméen d'empire (700-300 BCE)
 name: Official Aramaic (700-300 BCE)
 def: "Official Aramaic (700-300 BCE) language" []
 is_a: LANG:0000001 ! Language
@@ -3445,7 +3479,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000350
+name: aragonais
 name: Aragonese
+name: Aragonesisch
 def: "Aragonese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "an" xsd:string
@@ -3502,7 +3538,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000356
+name: Arauka-Sprachen
 name: Mapudungun
+name: mapudungun | mapuche | mapuce
 def: "Mapudungun language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "arn" xsd:string
@@ -3523,6 +3561,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000358
 name: Arapaho
+name: arapaho
+name: Arapaho-Sprache
 def: "Arapaho language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "arp" xsd:string
@@ -3579,6 +3619,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000364
 name: Arawak
+name: arawak
+name: Arawak-Sprachen
 def: "Arawak language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "arw" xsd:string
@@ -3715,7 +3757,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000379
+name: assamais
 name: Assamese
+name: Assamesisch
 def: "Assamese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "as" xsd:string
@@ -3782,6 +3826,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000386
 name: Asturian
+name: asturien | bable | léonais | asturoléonais
+name: Asturisch
 def: "Asturian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ast" xsd:string
@@ -4260,7 +4306,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000439
+name: avar
 name: Avaric
+name: Awarisch
 def: "Avaric language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "av" xsd:string
@@ -4291,6 +4339,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000442
 name: Avestan
+name: avestique
+name: Avestisch
 def: "Avestan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ae" xsd:string
@@ -4393,6 +4443,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000453
 name: Awadhi
+name: awadhi
 def: "Awadhi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "awa" xsd:string
@@ -4719,6 +4770,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000489
 name: Aymara
+name: aymara
+name: Aymará-Sprache
 def: "Aymara language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ay" xsd:string
@@ -4847,7 +4900,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000503
+name: Aserbeidschanisch
 name: Azerbaijani
+name: azéri
 def: "Azerbaijani language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "az" xsd:string
@@ -4994,6 +5049,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000519
+name: bachkir
+name: Baschkirisch
 name: Bashkir
 def: "Bashkir language" []
 is_a: LANG:0000001 ! Language
@@ -5006,7 +5063,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000520
+name: baloutchi
 name: Baluchi
+name: Belutschisch
 def: "Baluchi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "bal" xsd:string
@@ -5018,6 +5077,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000521
 name: Bambara
+name: bambara
+name: Bambara-Sprache
 def: "Bambara language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "bm" xsd:string
@@ -5029,7 +5090,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000522
+name: balinais
 name: Balinese
+name: Balinesisch
 def: "Balinese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ban" xsd:string
@@ -5067,7 +5130,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000526
+name: basa
 name: Basa (Cameroon)
+name: Basaa-Sprache
 def: "Basa (Cameroon) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "bas" xsd:string
@@ -5897,6 +5962,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000618
+name: Bedauye
+name: bedja
 name: Beja
 def: "Beja language" []
 is_a: LANG:0000001 ! Language
@@ -5918,6 +5985,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000620
 name: Belarusian
+name: biélorusse
+name: Weißrussisch
 def: "Belarusian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "be" xsd:string
@@ -5929,7 +5998,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000621
+name: bemba
 name: Bemba (Zambia)
+name: Bemba-Sprache
 def: "Bemba (Zambia) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "bem" xsd:string
@@ -5941,6 +6012,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000622
 name: Bengali
+name: bengali
 def: "Bengali language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "bn" xsd:string
@@ -6610,6 +6682,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000696
 name: Bhojpuri
+name: bhojpuri
 def: "Bhojpuri language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "bho" xsd:string
@@ -6792,6 +6865,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000716
 name: Bikol
+name: bikol
+name: Bikol-Sprache
 def: "Bikol language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "bik" xsd:string
@@ -6821,6 +6896,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000719
 name: Bini
+name: bini | edo
+name: Edo-Sprache
 def: "Bini language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "bin" xsd:string
@@ -6867,6 +6944,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000724
+name: Beach-la-mar
+name: bichlamar
 name: Bislama
 def: "Bislama language" []
 is_a: LANG:0000001 ! Language
@@ -7374,6 +7453,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1000780
+name: blackfoot
+name: Blackfoot-Sprache
 name: Siksika
 def: "Siksika language" []
 is_a: LANG:0000001 ! Language
@@ -8061,6 +8142,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000856
 name: Tibetan
+name: Tibetisch
+name: tibétain
 def: "Tibetan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "bo" xsd:string
@@ -8199,6 +8282,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000871
 name: Bosnian
+name: bosniaque
+name: Bosnisch
 def: "Bosnian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "bs" xsd:string
@@ -8706,6 +8791,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000927
 name: Braj
+name: braj
+name: Braj-Bhakha
 def: "Braj language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "bra" xsd:string
@@ -8744,6 +8831,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1000931
 name: Breton
+name: breton
+name: Bretonisch
 def: "Breton language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "br" xsd:string
@@ -9367,7 +9456,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001000
+name: bouriate
 name: Buriat
+name: Burjatisch
 def: "Buriat language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "bua" xsd:string
@@ -9423,6 +9514,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001006
+name: bugi
+name: Bugi-Sprache
 name: Buginese
 def: "Buginese language" []
 is_a: LANG:0000001 ! Language
@@ -9470,7 +9563,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001011
+name: bulgare
 name: Bulgarian
+name: Bulgarisch
 def: "Bulgarian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "bg" xsd:string
@@ -10374,6 +10469,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001111
 name: Bilin
+name: Bilin-Sprache
+name: blin | bilen
 def: "Bilin language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "byn" xsd:string
@@ -10736,6 +10833,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001151
 name: Caddo
+name: caddo
+name: Caddo-Sprachen
 def: "Caddo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "cad" xsd:string
@@ -10855,6 +10954,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001164
 name: Galibi Carib
+name: karib | galibi | carib
+name: Karibische Sprachen
 def: "Galibi Carib language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "car" xsd:string
@@ -10875,6 +10976,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001166
 name: Catalan
+name: catalan | valencien
+name: Katalanisch
 def: "Catalan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ca" xsd:string
@@ -11337,6 +11440,7 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1001217
 name: Cebuano
+name: cebuano
 def: "Cebuano language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ceb" xsd:string
@@ -11375,6 +11479,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001221
 name: Czech
+name: tchèque
+name: Tschechisch
 def: "Czech language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "cs" xsd:string
@@ -11477,6 +11583,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001232
 name: Chamorro
+name: chamorro
+name: Chamorro-Sprache
 def: "Chamorro language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ch" xsd:string
@@ -11489,6 +11597,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001233
 name: Chibcha
+name: chibcha
+name: Chibcha-Sprachen
 def: "Chibcha language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "chb" xsd:string
@@ -11518,6 +11628,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001236
 name: Chechen
+name: tchétchène
+name: Tschetschenisch
 def: "Chechen language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ce" xsd:string
@@ -11539,6 +11651,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001238
 name: Chagatai
+name: djaghataï
+name: Tschagataisch
 def: "Chagatai language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "chg" xsd:string
@@ -11567,7 +11681,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001241
+name: chuuk
 name: Chuukese
+name: Trukesisch
 def: "Chuukese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "chk" xsd:string
@@ -11587,7 +11703,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001243
+name: mari
 name: Mari (Russia)
+name: Tscheremissisch
 def: "Mari (Russia) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "chm" xsd:string
@@ -11599,6 +11717,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001244
 name: Chinook jargon
+name: chinook, jargon
+name: Chinook-Jargon
 def: "Chinook jargon language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "chn" xsd:string
@@ -11610,6 +11730,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001245
 name: Choctaw
+name: choctaw
+name: Choctaw-Sprache
 def: "Choctaw language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "cho" xsd:string
@@ -11621,6 +11743,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001246
 name: Chipewyan
+name: chipewyan
+name: Chipewyan-Sprache
 def: "Chipewyan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "chp" xsd:string
@@ -11641,6 +11765,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001248
 name: Cherokee
+name: cherokee
+name: Cherokee-Sprache
 def: "Cherokee language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "chr" xsd:string
@@ -11661,6 +11787,8 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1001250
 name: Church Slavic
+name: Kirchenslawisch
+name: slavon d'église | vieux slave | slavon liturgique | vieux bulgare
 def: "Church Slavic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "cu" xsd:string
@@ -11673,6 +11801,8 @@ property_value: LANG:0000007 "A" xsd:string
 [Term]
 id: LANG:1001251
 name: Chuvash
+name: tchouvache
+name: Tschuwaschisch
 def: "Chuvash language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "cv" xsd:string
@@ -11703,6 +11833,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001254
 name: Cheyenne
+name: cheyenne
+name: Cheyenne-Sprache
 def: "Cheyenne language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "chy" xsd:string
@@ -12389,6 +12521,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001330
 name: Montenegrin
+name: Montenegrinisch
+name: monténégrin
 def: "Montenegrin language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "cnr" xsd:string
@@ -12570,7 +12704,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001350
+name: copte
 name: Coptic
+name: Koptisch
 def: "Coptic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "cop" xsd:string
@@ -12590,7 +12726,9 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1001352
+name: cornique
 name: Cornish
+name: Kornisch
 def: "Cornish language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "kw" xsd:string
@@ -12602,7 +12740,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001353
+name: corse
 name: Corsican
+name: Korsisch
 def: "Corsican language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "co" xsd:string
@@ -12813,6 +12953,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001376
 name: Cree
+name: cree
+name: Cree-Sprache
 def: "Cree language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "cr" xsd:string
@@ -12843,6 +12985,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001379
 name: Crimean Tatar
+name: Krimtatarisch
+name: tatar de Crimé
 def: "Crimean Tatar language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "crh" xsd:string
@@ -13006,6 +13150,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001397
+name: kachoube
+name: Kaschubisch
 name: Kashubian
 def: "Kashubian language" []
 is_a: LANG:0000001 ! Language
@@ -13602,6 +13748,8 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1001463
+name: gallois
+name: Kymrisch
 name: Welsh
 def: "Welsh language" []
 is_a: LANG:0000001 ! Language
@@ -13741,6 +13889,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001478
 name: Dakota
+name: dakota
+name: Dakota-Sprache
 def: "Dakota language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "dak" xsd:string
@@ -13770,6 +13920,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001481
 name: Danish
+name: danois
+name: Dänisch
 def: "Danish language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "da" xsd:string
@@ -13799,7 +13951,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001484
+name: Darginisch
 name: Dargwa
+name: dargwa
 def: "Dargwa language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "dar" xsd:string
@@ -14234,6 +14388,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001532
 name: Delaware
+name: delaware
+name: Delaware-Sprache
 def: "Delaware language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "del" xsd:string
@@ -14253,7 +14409,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001534
+name: esclave (athapascan)
 name: Slave (Athapascan)
+name: Slave-Sprache
 def: "Slave (Athapascan) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "den" xsd:string
@@ -14300,6 +14458,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001539
+name: allemand
+name: Deutsch
 name: German
 def: "German language" []
 is_a: LANG:0000001 ! Language
@@ -14439,6 +14599,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001554
 name: Dogrib
+name: dogrib
+name: Dogrib-Sprache
 def: "Dogrib language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "dgr" xsd:string
@@ -14729,6 +14891,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001586
 name: Dinka
+name: dinka
+name: Dinka-Sprache
 def: "Dinka language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "din" xsd:string
@@ -14794,6 +14958,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001593
 name: Dhivehi
+name: maldivien
+name: Maledivisch
 def: "Dhivehi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "dv" xsd:string
@@ -15399,6 +15565,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001660
+name: Dogri
+name: dogri
 name: Dogri (macrolanguage)
 def: "Dogri (macrolanguage) language" []
 is_a: LANG:0000001 ! Language
@@ -15680,7 +15848,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001691
+name: bas-sorabe
 name: Lower Sorbian
+name: Niedersorbisch
 def: "Lower Sorbian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "dsb" xsd:string
@@ -15889,7 +16059,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001714
+name: douala
 name: Duala
+name: Duala-Sprachen
 def: "Duala language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "dua" xsd:string
@@ -15982,6 +16154,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001724
 name: Middle Dutch (ca. 1050-1350)
+name: Mittelniederländisch
+name: néerlandais moyen (ca. 1050-1350)
 def: "Middle Dutch (ca. 1050-1350) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "dum" xsd:string
@@ -16244,7 +16418,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001753
+name: dioula
 name: Dyula
+name: Dyula-Sprache
 def: "Dyula language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "dyu" xsd:string
@@ -16310,6 +16486,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001760
 name: Dzongkha
+name: dzongkha
 def: "Dzongkha language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "dz" xsd:string
@@ -16430,6 +16607,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001773
 name: Efik
+name: efik
 def: "Efik language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "efi" xsd:string
@@ -16468,6 +16646,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001777
 name: Egyptian (Ancient)
+name: Ägyptisch
+name: égyptien
 def: "Egyptian (Ancient) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "egy" xsd:string
@@ -16524,6 +16704,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001783
 name: Ekajuk
+name: ekajuk
 def: "Ekajuk language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "eka" xsd:string
@@ -16669,7 +16850,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001799
+name: grec moderne (après 1453)
 name: Modern Greek (1453-)
+name: Neugriechisch
 def: "Modern Greek (1453-) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "el" xsd:string
@@ -16708,7 +16891,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001803
+name: Elamisch
 name: Elamite
+name: élamite
 def: "Elamite language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "elx" xsd:string
@@ -16890,6 +17075,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001823
+name: anglais
+name: Englisch
 name: English
 def: "English language" []
 is_a: LANG:0000001 ! Language
@@ -16920,7 +17107,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001826
+name: anglais moyen (1100-1500)
 name: Middle English (1100-1500)
+name: Mittelenglisch
 def: "Middle English (1100-1500) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "enm" xsd:string
@@ -17022,6 +17211,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001837
 name: Esperanto
+name: espéranto
 def: "Esperanto language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "eo" xsd:string
@@ -17222,7 +17412,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001859
+name: Estnisch
 name: Estonian
+name: estonien
 def: "Estonian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "et" xsd:string
@@ -17351,7 +17543,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001873
+name: Baskisch
 name: Basque
+name: basque
 def: "Basque language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "eu" xsd:string
@@ -17391,6 +17585,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001877
 name: Ewe
+name: Ewe-Sprache
+name: éwé
 def: "Ewe language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ee" xsd:string
@@ -17403,6 +17599,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001878
 name: Ewondo
+name: éwondo
 def: "Ewondo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ewo" xsd:string
@@ -17557,7 +17754,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001895
+name: fang
 name: Fang (Equatorial Guinea)
+name: Pangwe-Sprache
 def: "Fang (Equatorial Guinea) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "fan" xsd:string
@@ -17569,6 +17768,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001896
 name: Faroese
+name: Färöisch
+name: féroïen
 def: "Faroese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "fo" xsd:string
@@ -17598,7 +17799,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001899
+name: persan
 name: Persian
+name: Persisch
 def: "Persian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "fa" xsd:string
@@ -17610,7 +17813,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001900
+name: Fante-Sprache
 name: Fanti
+name: fanti
 def: "Fanti language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "fat" xsd:string
@@ -17729,6 +17934,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001913
+name: fidjien
+name: Fidschi-Sprache
 name: Fijian
 def: "Fijian language" []
 is_a: LANG:0000001 ! Language
@@ -17742,6 +17949,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001914
 name: Filipino
+name: filipino | pilipino
+name: Pilipino
 def: "Filipino language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "fil" xsd:string
@@ -17752,7 +17961,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001915
+name: Finnisch
 name: Finnish
+name: finnois
 def: "Finnish language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "fi" xsd:string
@@ -17954,6 +18165,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001937
 name: Fon
+name: fon
+name: Fon-Sprache
 def: "Fon language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "fon" xsd:string
@@ -18000,6 +18213,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001942
+name: Französisch
+name: français
 name: French
 def: "French language" []
 is_a: LANG:0000001 ! Language
@@ -18039,7 +18254,9 @@ property_value: LANG:0000007 "H" xsd:string
 
 [Term]
 id: LANG:1001946
+name: français moyen (1400-1600)
 name: Middle French (ca. 1400-1600)
+name: Mittelfranzösisch
 def: "Middle French (ca. 1400-1600) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "frm" xsd:string
@@ -18050,6 +18267,8 @@ property_value: LANG:0000007 "H" xsd:string
 
 [Term]
 id: LANG:1001947
+name: Altfranzösisch
+name: français ancien (842-ca.1400)
 name: Old French (842-ca. 1400)
 def: "Old French (842-ca. 1400) language" []
 is_a: LANG:0000001 ! Language
@@ -18079,6 +18298,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001950
+name: frison septentrional
+name: Nordfriesisch
 name: Northern Frisian
 def: "Northern Frisian language" []
 is_a: LANG:0000001 ! Language
@@ -18091,6 +18312,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001951
 name: Eastern Frisian
+name: frison oriental
+name: Ostfriesisch
 def: "Eastern Frisian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "frs" xsd:string
@@ -18110,6 +18333,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001953
+name: Friesisch
+name: frison occidental
 name: Western Frisian
 def: "Western Frisian language" []
 is_a: LANG:0000001 ! Language
@@ -18221,7 +18446,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001965
+name: Ful
 name: Fulah
+name: peul
 def: "Fulah language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ff" xsd:string
@@ -18260,7 +18487,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1001969
+name: frioulan
 name: Friulian
+name: Friulisch
 def: "Friulian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "fur" xsd:string
@@ -18335,6 +18564,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1001977
 name: Ga
+name: ga
+name: Ga-Sprache
 def: "Ga language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gaa" xsd:string
@@ -18544,6 +18775,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002000
 name: Gayo
+name: gayo
+name: Gayo-Sprache
 def: "Gayo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gay" xsd:string
@@ -18563,7 +18796,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002002
+name: gbaya
 name: Gbaya (Central African Republic)
+name: Gbaya-Sprache
 def: "Gbaya (Central African Republic) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gba" xsd:string
@@ -19186,7 +19421,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002071
+name: Altäthiopisch
 name: Geez
+name: guèze
 def: "Geez language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gez" xsd:string
@@ -19468,6 +19705,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002102
 name: Gilbertese
+name: Gilbertesisch
+name: kiribati
 def: "Gilbertese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gil" xsd:string
@@ -19703,6 +19942,8 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1002128
+name: gaélique | gaélique écossais
+name: Gälisch-Schottisch
 name: Scottish Gaelic
 def: "Scottish Gaelic language" []
 is_a: LANG:0000001 ! Language
@@ -19733,7 +19974,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002131
+name: Irisch
 name: Irish
+name: irlandais
 def: "Irish language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ga" xsd:string
@@ -19746,6 +19989,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002132
 name: Galician
+name: galicien
+name: Galicisch
 def: "Galician language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "gl" xsd:string
@@ -19830,6 +20075,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002141
 name: Manx
+name: manx | mannois
 def: "Manx language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "gv" xsd:string
@@ -19895,7 +20141,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002148
+name: allemand, moyen haut (ca. 1050-1500)
 name: Middle High German (ca. 1050-1500)
+name: Mittelhochdeutsch
 def: "Middle High German (ca. 1050-1500) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gmh" xsd:string
@@ -20221,6 +20469,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002184
+name: allemand, vieux haut (ca. 750-1050)
+name: Althochdeutsch
 name: Old High German (ca. 750-1050)
 def: "Old High German (ca. 750-1050) language" []
 is_a: LANG:0000001 ! Language
@@ -20277,7 +20527,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002190
+name: gond
 name: Gondi
+name: Gondi-Sprache
 def: "Gondi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gon" xsd:string
@@ -20315,7 +20567,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002194
+name: Gorontalesisch
 name: Gorontalo
+name: gorontalo
 def: "Gorontalo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gor" xsd:string
@@ -20336,6 +20590,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002196
 name: Gothic
+name: gothique
+name: Gotisch
 def: "Gothic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "got" xsd:string
@@ -20473,6 +20729,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002211
 name: Grebo
+name: grebo
+name: Grebo-Sprache
 def: "Grebo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "grb" xsd:string
@@ -20484,6 +20742,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002212
 name: Ancient Greek (to 1453)
+name: grec ancien (jusqu'à 1453)
+name: Griechisch
 def: "Ancient Greek (to 1453) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "grc" xsd:string
@@ -20549,6 +20809,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002219
 name: Guarani
+name: guarani
+name: Guaraní-Sprache
 def: "Guarani language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "gn" xsd:string
@@ -20731,6 +20993,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002239
+name: Schweizerdeutsch
+name: suisse alémanique | alémanique | alsacien
 name: Swiss German
 def: "Swiss German language" []
 is_a: LANG:0000001 ! Language
@@ -20841,7 +21105,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002251
+name: goudjrati
 name: Gujarati
+name: Gujarati-Sprache
 def: "Gujarati language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "gu" xsd:string
@@ -21159,7 +21425,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002286
+name: gwich'in
 name: Gwichʼin
+name: Kutchin-Sprache
 def: "Gwichʼin language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "gwi" xsd:string
@@ -21468,6 +21736,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002320
 name: Haida
+name: haida
+name: Haida-Sprache
 def: "Haida language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "hai" xsd:string
@@ -21569,6 +21839,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002331
 name: Haitian
+name: Haïtien (Haiti-Kreolisch)
+name: haïtien | créole haïtien
 def: "Haitian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ht" xsd:string
@@ -21580,7 +21852,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002332
+name: haoussa
 name: Hausa
+name: Haussa-Sprache
 def: "Hausa language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ha" xsd:string
@@ -21602,6 +21876,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002334
 name: Hawaiian
+name: Hawaiisch
+name: hawaïen
 def: "Hawaiian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "haw" xsd:string
@@ -21750,6 +22026,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002350
 name: Hebrew
+name: Hebräisch
+name: hébreu
 def: "Hebrew language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "he" xsd:string
@@ -21807,6 +22085,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002356
 name: Herero
+name: herero
+name: Herero-Sprache
 def: "Herero language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "hz" xsd:string
@@ -21945,6 +22225,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002371
 name: Hiligaynon
+name: hiligaynon
+name: Hiligaynon-Sprache
 def: "Hiligaynon language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "hil" xsd:string
@@ -21956,6 +22238,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002372
 name: Hindi
+name: hindi
 def: "Hindi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "hi" xsd:string
@@ -21985,7 +22268,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002375
+name: Hethitisch
 name: Hittite
+name: hittite
 def: "Hittite language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "hit" xsd:string
@@ -22240,6 +22525,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002403
 name: Hmong
+name: hmong
+name: Miao-Sprachen
 def: "Hmong language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "hmn" xsd:string
@@ -22251,6 +22538,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002404
 name: Hiri Motu
+name: hiri motu
+name: Hiri-Motu
 def: "Hiri Motu language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ho" xsd:string
@@ -22712,7 +23001,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002455
+name: croate
 name: Croatian
+name: Kroatisch
 def: "Croatian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "hr" xsd:string
@@ -22751,6 +23042,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002459
+name: haut-sorabe
+name: Obersorbisch
 name: Upper Sorbian
 def: "Upper Sorbian language" []
 is_a: LANG:0000001 ! Language
@@ -22951,7 +23244,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002481
+name: hongrois
 name: Hungarian
+name: Ungarisch
 def: "Hungarian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "hu" xsd:string
@@ -22973,6 +23268,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002483
 name: Hupa
+name: hupa
+name: Hupa-Sprache
 def: "Hupa language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "hup" xsd:string
@@ -23155,6 +23452,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002503
 name: Armenian
+name: Armenisch
+name: arménien
 def: "Armenian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "hy" xsd:string
@@ -23203,6 +23502,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002508
 name: Iban
+name: iban
+name: Iban-Sprache
 def: "Iban language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "iba" xsd:string
@@ -23285,7 +23586,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002517
+name: Ibo-Sprache
 name: Igbo
+name: igbo
 def: "Igbo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ig" xsd:string
@@ -23415,6 +23718,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002531
 name: Ido
+name: ido
 def: "Ido language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "io" xsd:string
@@ -23651,7 +23955,9 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1002557
+name: Lalo-Sprache
 name: Sichuan Yi
+name: yi de Sichuan
 def: "Sichuan Yi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ii" xsd:string
@@ -23799,6 +24105,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002573
 name: Inuktitut
+name: inuktitut
 def: "Inuktitut language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "iu" xsd:string
@@ -23865,6 +24172,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002580
 name: Interlingue
+name: interlingue
 def: "Interlingue language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ie" xsd:string
@@ -23912,6 +24220,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002585
+name: ilocano
+name: Ilokano-Sprache
 name: Iloko
 def: "Iloko language" []
 is_a: LANG:0000001 ! Language
@@ -24031,7 +24341,9 @@ property_value: LANG:0000007 "A" xsd:string
 
 [Term]
 id: LANG:1002598
+name: Interlingua
 name: Interlingua (International Auxiliary Language Association)
+name: interlingua (langue auxiliaire internationale)
 def: "Interlingua (International Auxiliary Language Association) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ia" xsd:string
@@ -24052,7 +24364,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002600
+name: Bahasa Indonesia
 name: Indonesian
+name: indonésien
 def: "Indonesian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "id" xsd:string
@@ -24073,6 +24387,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002602
+name: ingouche
+name: Inguschisch
 name: Ingush
 def: "Ingush language" []
 is_a: LANG:0000001 ! Language
@@ -24202,6 +24518,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002616
 name: Inupiaq
+name: inupiaq
+name: Inupik
 def: "Inupiaq language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ik" xsd:string
@@ -24394,6 +24712,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002637
 name: Icelandic
+name: islandais
+name: Isländisch
 def: "Icelandic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "is" xsd:string
@@ -24460,6 +24780,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002644
 name: Italian
+name: italien
+name: Italienisch
 def: "Italian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "it" xsd:string
@@ -24903,7 +25225,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002693
+name: javanais
 name: Javanese
+name: Javanisch
 def: "Javanese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "jv" xsd:string
@@ -24988,6 +25312,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002702
 name: Lojban
+name: lojban
 def: "Lojban language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "jbo" xsd:string
@@ -25683,6 +26008,8 @@ property_value: LANG:0000007 "H" xsd:string
 [Term]
 id: LANG:1002779
 name: Japanese
+name: Japanisch
+name: japonais
 def: "Japanese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ja" xsd:string
@@ -25695,6 +26022,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002780
 name: Judeo-Persian
+name: judéo-persan
+name: Jüdisch-Persisch
 def: "Judeo-Persian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "jpr" xsd:string
@@ -25724,6 +26053,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002783
 name: Judeo-Arabic
+name: judéo-arabe
+name: Jüdisch-Arabisch
 def: "Judeo-Arabic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "jrb" xsd:string
@@ -25987,6 +26318,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002812
 name: Kara-Kalpak
+name: karakalpak
+name: Karakalpakisch
 def: "Kara-Kalpak language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kaa" xsd:string
@@ -25998,6 +26331,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002813
 name: Kabyle
+name: kabyle
+name: Kabylisch
 def: "Kabyle language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kab" xsd:string
@@ -26009,6 +26344,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002814
 name: Kachin
+name: kachin | jingpho
+name: Kachin-Sprache
 def: "Kachin language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kac" xsd:string
@@ -26091,6 +26428,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002823
+name: groenlandais
+name: Grönländisch
 name: Kalaallisut
 def: "Kalaallisut language" []
 is_a: LANG:0000001 ! Language
@@ -26103,7 +26442,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002824
+name: kamba
 name: Kamba (Kenya)
+name: Kamba-Sprache
 def: "Kamba (Kenya) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kam" xsd:string
@@ -26115,6 +26456,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002825
 name: Kannada
+name: kannada
 def: "Kannada language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "kn" xsd:string
@@ -26153,7 +26495,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002829
+name: Kaschmiri
 name: Kashmiri
+name: kashmiri
 def: "Kashmiri language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ks" xsd:string
@@ -26166,6 +26510,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002830
 name: Georgian
+name: Georgisch
+name: géorgien
 def: "Georgian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ka" xsd:string
@@ -26177,7 +26523,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002831
+name: kanouri
 name: Kanuri
+name: Kanuri-Sprache
 def: "Kanuri language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "kr" xsd:string
@@ -26199,6 +26547,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002833
 name: Kawi
+name: kawi
 def: "Kawi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kaw" xsd:string
@@ -26227,7 +26576,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002836
+name: Kasachisch
 name: Kazakh
+name: kazakh
 def: "Kazakh language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "kk" xsd:string
@@ -26267,6 +26618,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002840
 name: Kabardian
+name: kabardien
+name: Kabardinisch
 def: "Kabardian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kbd" xsd:string
@@ -27565,6 +27918,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1002984
 name: Khasi
+name: khasi
+name: Khasi-Sprache
 def: "Khasi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kha" xsd:string
@@ -27665,7 +28020,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002995
+name: Kambodschanisch
 name: Khmer
+name: khmer central
 def: "Khmer language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "km" xsd:string
@@ -27686,7 +28043,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1002997
+name: khotanais | sakan
 name: Khotanese
+name: Sakisch
 def: "Khotanese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kho" xsd:string
@@ -27887,6 +28246,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003019
 name: Kikuyu
+name: kikuyu
+name: Kikuyu-Sprache
 def: "Kikuyu language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ki" xsd:string
@@ -27917,6 +28278,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003022
 name: Kinyarwanda
+name: rwanda
+name: Rwanda-Sprache
 def: "Kinyarwanda language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "rw" xsd:string
@@ -27956,6 +28319,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003026
 name: Kirghiz
+name: kirghiz
+name: Kirgisisch
 def: "Kirghiz language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ky" xsd:string
@@ -28742,6 +29107,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003113
 name: Kimbundu
+name: kimbundu
+name: Kimbundu-Sprache
 def: "Kimbundu language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kmb" xsd:string
@@ -29265,6 +29632,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003171
+name: Konkani
+name: konkani
 name: Konkani (macrolanguage)
 def: "Konkani (macrolanguage) language" []
 is_a: LANG:0000001 ! Language
@@ -29285,7 +29654,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003173
+name: kom
 name: Komi
+name: Komi-Sprache
 def: "Komi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "kv" xsd:string
@@ -29298,6 +29669,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003174
 name: Kongo
+name: kongo
+name: Kongo-Sprache
 def: "Kongo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "kg" xsd:string
@@ -29336,7 +29709,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003178
+name: coréen
 name: Korean
+name: Koreanisch
 def: "Korean language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ko" xsd:string
@@ -29348,7 +29723,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003179
+name: kosrae
 name: Kosraean
+name: Kosraeanisch
 def: "Kosraean language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kos" xsd:string
@@ -29450,6 +29827,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003190
 name: Kpelle
+name: Kpelle-Sprache
+name: kpellé
 def: "Kpelle language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kpe" xsd:string
@@ -29893,6 +30272,8 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1003239
 name: Karachay-Balkar
+name: karatchai balkar
+name: Karatschaiisch-Balkarisch
 def: "Karachay-Balkar language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "krc" xsd:string
@@ -29966,7 +30347,9 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1003247
+name: carélien
 name: Karelian
+name: Karelisch
 def: "Karelian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "krl" xsd:string
@@ -30023,6 +30406,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003253
 name: Kurukh
+name: kurukh
+name: Oraon-Sprache
 def: "Kurukh language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kru" xsd:string
@@ -30538,6 +30923,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003310
 name: Kuanyama
+name: kuanyama | kwanyama
+name: Kwanyama-Sprache
 def: "Kuanyama language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "kj" xsd:string
@@ -30648,7 +31035,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003322
+name: koumyk
 name: Kumyk
+name: Kumükisch
 def: "Kumyk language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kum" xsd:string
@@ -30695,6 +31084,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003327
+name: kurde
+name: Kurdisch
 name: Kurdish
 def: "Kurdish language" []
 is_a: LANG:0000001 ! Language
@@ -30717,6 +31108,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003329
 name: Kutenai
+name: kutenai
+name: Kutenai-Sprache
 def: "Kutenai language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "kut" xsd:string
@@ -31915,6 +32308,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003462
+name: Judenspanisch
+name: judéo-espagnol
 name: Ladino
 def: "Ladino language" []
 is_a: LANG:0000001 ! Language
@@ -31954,6 +32349,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003466
 name: Lahnda
+name: lahnda
 def: "Lahnda language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "lah" xsd:string
@@ -32001,6 +32397,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003471
 name: Lamba
+name: lamba
+name: Lamba-Sprache (Bantusprache)
 def: "Lamba language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "lam" xsd:string
@@ -32021,6 +32419,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003473
 name: Lao
+name: lao
+name: Laotisch
 def: "Lao language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "lo" xsd:string
@@ -32068,7 +32468,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003478
+name: Latein
 name: Latin
+name: latin
 def: "Latin language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "la" xsd:string
@@ -32090,6 +32492,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003480
 name: Latvian
+name: Lettisch
+name: letton
 def: "Latvian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "lv" xsd:string
@@ -32767,7 +33171,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003555
+name: Lesgisch
 name: Lezghian
+name: lezghien
 def: "Lezghian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "lez" xsd:string
@@ -33111,7 +33517,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003593
+name: limbourgeois
 name: Limburgan
+name: Limburgisch
 def: "Limburgan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "li" xsd:string
@@ -33124,6 +33532,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003594
 name: Lingala
+name: lingala
 def: "Lingala language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ln" xsd:string
@@ -33180,7 +33589,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003600
+name: Litauisch
 name: Lithuanian
+name: lituanien
 def: "Lithuanian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "lt" xsd:string
@@ -34066,6 +34477,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003698
 name: Mongo
+name: mongo
+name: Mongo-Sprache
 def: "Mongo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "lol" xsd:string
@@ -34194,6 +34607,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003712
 name: Lozi
+name: lozi
+name: Rotse-Sprache
 def: "Lozi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "loz" xsd:string
@@ -34582,7 +34997,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003755
+name: luxembourgeois
 name: Luxembourgish
+name: Luxemburgisch
 def: "Luxembourgish language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "lb" xsd:string
@@ -34595,6 +35012,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003756
 name: Luba-Lulua
+name: luba-lulua
+name: Lulua-Sprache
 def: "Luba-Lulua language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "lua" xsd:string
@@ -34606,6 +35025,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003757
 name: Luba-Katanga
+name: luba-katanga
+name: Luba-Katanga-Sprache
 def: "Luba-Katanga language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "lu" xsd:string
@@ -34654,6 +35075,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003762
 name: Ganda
+name: ganda
+name: Ganda-Sprache
 def: "Ganda language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "lg" xsd:string
@@ -34666,6 +35089,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003763
 name: Luiseno
+name: luiseno
+name: Luiseño-Sprache
 def: "Luiseno language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "lui" xsd:string
@@ -34713,6 +35138,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003768
 name: Lunda
+name: lunda
+name: Lunda-Sprache
 def: "Lunda language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "lun" xsd:string
@@ -34724,6 +35151,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003769
 name: Luo (Kenya and Tanzania)
+name: luo (Kenya et Tanzanie)
+name: Luo-Sprache
 def: "Luo (Kenya and Tanzania) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "luo" xsd:string
@@ -34762,6 +35191,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003773
 name: Lushai
+name: lushai
+name: Lushai-Sprache
 def: "Lushai language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "lus" xsd:string
@@ -35051,7 +35482,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003805
+name: madourais
 name: Madurese
+name: Maduresisch
 def: "Madurese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mad" xsd:string
@@ -35080,7 +35513,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003808
+name: Khotta
 name: Magahi
+name: magahi
 def: "Magahi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mag" xsd:string
@@ -35091,6 +35526,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003809
+name: Marschallesisch
+name: marshall
 name: Marshallese
 def: "Marshallese language" []
 is_a: LANG:0000001 ! Language
@@ -35104,6 +35541,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003810
 name: Maithili
+name: maithili
 def: "Maithili language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mai" xsd:string
@@ -35124,6 +35562,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003812
 name: Makasar
+name: makassar
+name: Makassarisch
 def: "Makasar language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mak" xsd:string
@@ -35135,6 +35575,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003813
 name: Malayalam
+name: malayalam
 def: "Malayalam language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ml" xsd:string
@@ -35155,7 +35596,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003815
+name: Malinke-Sprache
 name: Mandingo
+name: mandingue
 def: "Mandingo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "man" xsd:string
@@ -35175,6 +35618,7 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003817
+name: marathe
 name: Marathi
 def: "Marathi language" []
 is_a: LANG:0000001 ! Language
@@ -35188,6 +35632,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003818
 name: Masai
+name: Massai-Sprache
+name: massaï
 def: "Masai language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mas" xsd:string
@@ -35756,6 +36202,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003881
+name: moksa
+name: Mokscha-Sprache
 name: Moksha
 def: "Moksha language" []
 is_a: LANG:0000001 ! Language
@@ -35858,6 +36306,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1003892
 name: Mandar
+name: mandar
+name: Mandaresisch
 def: "Mandar language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mdr" xsd:string
@@ -36049,6 +36499,8 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1003913
 name: Mende (Sierra Leone)
+name: Mende-Sprache
+name: mendé
 def: "Mende (Sierra Leone) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "men" xsd:string
@@ -36392,7 +36844,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1003951
+name: irlandais moyen (900-1200)
 name: Middle Irish (900-1200)
+name: Mittelirisch
 def: "Middle Irish (900-1200) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mga" xsd:string
@@ -36854,6 +37308,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004002
 name: Mi'kmaq
+name: mi'kmaq | micmac
+name: Micmac-Sprache
 def: "Mi'kmaq language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mic" xsd:string
@@ -36955,6 +37411,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004013
 name: Minangkabau
+name: minangkabau
+name: Minangkabau-Sprache
 def: "Minangkabau language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "min" xsd:string
@@ -37001,6 +37459,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004018
+name: Einzelne andere Sprachen
+name: langues non codées
 name: Uncoded languages
 def: "Uncoded languages language" []
 is_a: LANG:0000001 ! Language
@@ -37310,6 +37770,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004052
 name: Macedonian
+name: macédonien
+name: Makedonisch
 def: "Macedonian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "mk" xsd:string
@@ -37555,7 +38017,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004079
+name: Malagassi-Sprache
 name: Malagasy
+name: malgache
 def: "Malagasy language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "mg" xsd:string
@@ -37675,7 +38139,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004092
+name: maltais
 name: Maltese
+name: Maltesisch
 def: "Maltese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "mt" xsd:string
@@ -37976,6 +38442,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004125
 name: Manchu
+name: mandchou
+name: Mandschurisch
 def: "Manchu language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mnc" xsd:string
@@ -38032,6 +38500,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004131
 name: Manipuri
+name: manipuri
+name: Meithei-Sprache
 def: "Manipuri language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mni" xsd:string
@@ -38223,6 +38693,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004152
 name: Mohawk
+name: mohawk
+name: Mohawk-Sprache
 def: "Mohawk language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "moh" xsd:string
@@ -38269,7 +38741,9 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1004157
+name: mongol
 name: Mongolian
+name: Mongolisch
 def: "Mongolian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "mn" xsd:string
@@ -38317,7 +38791,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004162
+name: moré
 name: Mossi
+name: Mossi-Sprache
 def: "Mossi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mos" xsd:string
@@ -38914,6 +39390,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004228
 name: Maori
+name: maori
+name: Maori-Sprache
 def: "Maori language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "mi" xsd:string
@@ -39078,6 +39556,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004246
+name: Malaiisch
+name: malais
 name: Malay (macrolanguage)
 def: "Malay (macrolanguage) language" []
 is_a: LANG:0000001 ! Language
@@ -39621,6 +40101,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004306
+name: Mehrere Sprachen
+name: multilingue
 name: Multiple languages
 def: "Multiple languages language" []
 is_a: LANG:0000001 ! Language
@@ -39678,6 +40160,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004312
 name: Creek
+name: muskogee
+name: Muskogisch
 def: "Creek language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mus" xsd:string
@@ -40039,7 +40523,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004352
+name: mirandais
 name: Mirandese
+name: Mirandesisch
 def: "Mirandese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "mwl" xsd:string
@@ -40095,6 +40581,7 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004358
+name: marvari
 name: Marwari
 def: "Marwari language" []
 is_a: LANG:0000001 ! Language
@@ -40394,6 +40881,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004391
+name: birman
+name: Birmanisch
 name: Burmese
 def: "Burmese language" []
 is_a: LANG:0000001 ! Language
@@ -40541,6 +41030,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004407
+name: erza
+name: Erza-Mordwinisch
 name: Erzya
 def: "Erzya language" []
 is_a: LANG:0000001 ! Language
@@ -40921,6 +41412,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004449
+name: napolitain
+name: Neapel / Mundart
 name: Neapolitan
 def: "Neapolitan language" []
 is_a: LANG:0000001 ! Language
@@ -40969,6 +41462,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004454
 name: Nauru
+name: nauruan
+name: Nauruanisch
 def: "Nauru language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "na" xsd:string
@@ -40980,7 +41475,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004455
+name: navaho
 name: Navajo
+name: Navajo-Sprache
 def: "Navajo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "nv" xsd:string
@@ -41118,6 +41615,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004470
+name: Ndebele-Sprache (Transvaal)
+name: ndébélé du Sud
 name: South Ndebele
 def: "South Ndebele language" []
 is_a: LANG:0000001 ! Language
@@ -41472,6 +41971,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004509
+name: Ndebele-Sprache (Simbabwe)
+name: ndébélé du Nord
 name: North Ndebele
 def: "North Ndebele language" []
 is_a: LANG:0000001 ! Language
@@ -41566,6 +42067,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004519
 name: Ndonga
+name: ndonga
 def: "Ndonga language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ng" xsd:string
@@ -41604,7 +42106,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004523
+name: bas allemand | bas saxon | allemand, bas | saxon, bas
 name: Low German
+name: Niederdeutsch
 def: "Low German language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nds" xsd:string
@@ -41804,7 +42308,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004545
+name: Nepali
 name: Nepali (macrolanguage)
+name: népalais
 def: "Nepali (macrolanguage) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ne" xsd:string
@@ -41870,6 +42376,7 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004552
+name: nepal bhasa | newari
 name: Newari
 def: "Newari language" []
 is_a: LANG:0000001 ! Language
@@ -42386,6 +42893,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004609
 name: Nias
+name: nias
+name: Nias-Sprache
 def: "Nias language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nia" xsd:string
@@ -42549,7 +43058,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004627
+name: Niue-Sprache
 name: Niuean
+name: niué
 def: "Niuean language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "niu" xsd:string
@@ -42993,6 +43504,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004676
 name: Dutch
+name: Niederländisch
+name: néerlandais | flamand
 def: "Dutch language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "nl" xsd:string
@@ -43499,7 +44012,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004732
+name: norvégien nynorsk | nynorsk, norvégien
 name: Norwegian Nynorsk
+name: Nynorsk
 def: "Norwegian Nynorsk language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "nn" xsd:string
@@ -43601,6 +44116,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004743
+name: Bokmål
+name: norvégien bokmål
 name: Norwegian Bokmål
 def: "Norwegian Bokmål language" []
 is_a: LANG:0000001 ! Language
@@ -43650,6 +44167,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004748
 name: Nogai
+name: Nogaisch
+name: nogaï | nogay
 def: "Nogai language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nog" xsd:string
@@ -43714,6 +44233,8 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1004755
+name: Altnorwegisch
+name: norrois, vieux
 name: Old Norse
 def: "Old Norse language" []
 is_a: LANG:0000001 ! Language
@@ -43743,7 +44264,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004758
+name: norvégien
 name: Norwegian
+name: Norwegisch
 def: "Norwegian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "no" xsd:string
@@ -43972,6 +44495,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004783
 name: N'Ko
+name: n'ko
 def: "N'Ko language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nqo" xsd:string
@@ -44262,6 +44786,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004815
 name: Pedi
+name: pedi | sepedi | sotho du Nord
+name: Pedi-Sprache
 def: "Pedi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nso" xsd:string
@@ -44776,7 +45302,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004872
+name: Alt-Newari
 name: Classical Newari
+name: newari classique
 def: "Classical Newari language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nwc" xsd:string
@@ -44985,7 +45513,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004895
+name: chichewa | chewa | nyanja
 name: Nyanja
+name: Nyanja-Sprache
 def: "Nyanja language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ny" xsd:string
@@ -45097,6 +45627,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004907
 name: Nyamwezi
+name: nyamwezi
+name: Nyamwezi-Sprache
 def: "Nyamwezi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nym" xsd:string
@@ -45107,7 +45639,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004908
+name: Nkole-Sprache
 name: Nyankole
+name: nyankolé
 def: "Nyankole language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nyn" xsd:string
@@ -45119,6 +45653,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004909
 name: Nyoro
+name: nyoro
+name: Nyoro-Sprache
 def: "Nyoro language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nyo" xsd:string
@@ -45246,7 +45782,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1004923
+name: nzema
 name: Nzima
+name: Nzima-Sprache
 def: "Nzima language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "nzi" xsd:string
@@ -45437,7 +45975,9 @@ property_value: LANG:0000007 "A" xsd:string
 
 [Term]
 id: LANG:1004944
+name: occitan (après 1500)
 name: Occitan (post 1500)
+name: Okzitanisch
 def: "Occitan (post 1500) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "oc" xsd:string
@@ -45648,6 +46188,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1004967
 name: Ojibwa
+name: ojibwa
+name: Ojibwa-Sprache
 def: "Ojibwa language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "oj" xsd:string
@@ -46361,7 +46903,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005046
+name: oriya
 name: Oriya (macrolanguage)
+name: Oriya-Sprache
 def: "Oriya (macrolanguage) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "or" xsd:string
@@ -46373,6 +46917,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005047
+name: galla
+name: Galla-Sprache
 name: Oromo
 def: "Oromo language" []
 is_a: LANG:0000001 ! Language
@@ -46485,6 +47031,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005059
 name: Osage
+name: osage
+name: Osage-Sprache
 def: "Osage language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "osa" xsd:string
@@ -46532,6 +47080,8 @@ property_value: LANG:0000007 "H" xsd:string
 [Term]
 id: LANG:1005064
 name: Ossetian
+name: Ossetisch
+name: ossète
 def: "Ossetian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "os" xsd:string
@@ -46570,7 +47120,9 @@ property_value: LANG:0000007 "H" xsd:string
 
 [Term]
 id: LANG:1005068
+name: Osmanisch
 name: Ottoman Turkish (1500-1928)
+name: turc ottoman (1500-1928)
 def: "Ottoman Turkish (1500-1928) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ota" xsd:string
@@ -46897,6 +47449,8 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1005104
 name: Pangasinan
+name: pangasinan
+name: Pangasinan-Sprache
 def: "Pangasinan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "pag" xsd:string
@@ -46934,7 +47488,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005108
+name: Mittelpersisch
 name: Pahlavi
+name: pahlavi
 def: "Pahlavi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "pal" xsd:string
@@ -46946,6 +47502,8 @@ property_value: LANG:0000007 "A" xsd:string
 [Term]
 id: LANG:1005109
 name: Pampanga
+name: pampangan
+name: Pampanggan-Sprache
 def: "Pampanga language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "pam" xsd:string
@@ -46956,7 +47514,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005110
+name: Pandschabi-Sprache
 name: Panjabi
+name: pendjabi
 def: "Panjabi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "pa" xsd:string
@@ -46978,6 +47538,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005112
 name: Papiamento
+name: papiamento
 def: "Papiamento language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "pap" xsd:string
@@ -47024,6 +47585,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005117
+name: palau
+name: Palau-Sprache
 name: Palauan
 def: "Palauan language" []
 is_a: LANG:0000001 ! Language
@@ -47557,7 +48120,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005176
+name: Altpersisch
 name: Old Persian (ca. 600-400 B.C.)
+name: perse, vieux (ca. 600-400 av. J.-C.)
 def: "Old Persian (ca. 600-400 B.C.) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "peo" xsd:string
@@ -47812,6 +48377,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005204
 name: Phoenician
+name: phénicien
+name: Phönikisch
 def: "Phoenician language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "phn" xsd:string
@@ -48282,6 +48849,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005256
 name: Pali
+name: pali
 def: "Pali language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "pi" xsd:string
@@ -48906,6 +49474,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005325
 name: Polish
+name: Polnisch
+name: polonais
 def: "Polish language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "pl" xsd:string
@@ -48926,7 +49496,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005327
+name: pohnpei
 name: Pohnpeian
+name: Ponapeanisch
 def: "Pohnpeian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "pon" xsd:string
@@ -48964,6 +49536,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005331
+name: portugais
+name: Portugiesisch
 name: Portuguese
 def: "Portuguese language" []
 is_a: LANG:0000001 ! Language
@@ -49255,7 +49829,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005363
+name: Altokzitanisch
 name: Old Provençal (to 1500)
+name: provençal ancien (jusqu'à 1500) | occitan ancien (jusqu'à 1500)
 def: "Old Provençal (to 1500) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "pro" xsd:string
@@ -49761,6 +50337,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005419
+name: pachto
+name: Paschtu
 name: Pushto
 def: "Pushto language" []
 is_a: LANG:0000001 ! Language
@@ -50017,6 +50595,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005447
 name: Quechua
+name: quechua
+name: Quechua-Sprache
 def: "Quechua language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "qu" xsd:string
@@ -50578,6 +51158,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005509
 name: Rajasthani
+name: rajasthani
 def: "Rajasthani language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "raj" xsd:string
@@ -50633,7 +51214,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005515
+name: Osterinsel-Sprache
 name: Rapanui
+name: rapanui
 def: "Rapanui language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "rap" xsd:string
@@ -50653,7 +51236,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005517
+name: rarotonga | maori des îles Cook
 name: Rarotongan
+name: Rarotonganisch
 def: "Rarotongan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "rar" xsd:string
@@ -51483,7 +52068,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005609
+name: romanche
 name: Romansh
+name: Rätoromanisch
 def: "Romansh language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "rm" xsd:string
@@ -51504,7 +52091,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005611
+name: Romani (Sprache)
 name: Romany
+name: tsigane
 def: "Romany language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "rom" xsd:string
@@ -51516,6 +52105,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005612
 name: Romanian
+name: roumain | moldave
+name: Rumänisch
 def: "Romanian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ro" xsd:string
@@ -51762,6 +52353,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005639
 name: Rundi
+name: rundi
+name: Rundi-Sprache
 def: "Rundi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "rn" xsd:string
@@ -51782,6 +52375,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005641
+name: Aromunisch
+name: aroumain | macédo-roumain
 name: Macedo-Romanian
 def: "Macedo-Romanian language" []
 is_a: LANG:0000001 ! Language
@@ -51802,7 +52397,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005643
+name: russe
 name: Russian
+name: Russisch
 def: "Russian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ru" xsd:string
@@ -51977,6 +52574,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005662
 name: Sandawe
+name: sandawe
+name: Sandawe-Sprache
 def: "Sandawe language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sad" xsd:string
@@ -52006,6 +52605,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005665
 name: Sango
+name: sango
+name: Sango-Sprache
 def: "Sango language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sg" xsd:string
@@ -52017,6 +52618,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005666
+name: iakoute
+name: Jakutisch
 name: Yakut
 def: "Yakut language" []
 is_a: LANG:0000001 ! Language
@@ -52046,7 +52649,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005669
+name: samaritain
 name: Samaritan Aramaic
+name: Samaritanisch
 def: "Samaritan Aramaic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sam" xsd:string
@@ -52058,6 +52663,7 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1005670
 name: Sanskrit
+name: sanskrit
 def: "Sanskrit language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sa" xsd:string
@@ -52097,6 +52703,7 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1005674
 name: Sasak
+name: sasak
 def: "Sasak language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sas" xsd:string
@@ -52107,6 +52714,7 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005675
+name: santal
 name: Santali
 def: "Santali language" []
 is_a: LANG:0000001 ! Language
@@ -52479,6 +53087,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005716
 name: Sicilian
+name: sicilien
+name: Sizilianisch
 def: "Sicilian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "scn" xsd:string
@@ -52489,7 +53099,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005717
+name: Schottisch
 name: Scots
+name: écossais
 def: "Scots language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sco" xsd:string
@@ -52851,7 +53463,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005757
+name: selkoupe
 name: Selkup
+name: Selkupisch
 def: "Selkup language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sel" xsd:string
@@ -53015,6 +53629,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005775
+name: Altirisch
+name: irlandais ancien (jusqu'à 900)
 name: Old Irish (to 900)
 def: "Old Irish (to 900) language" []
 is_a: LANG:0000001 ! Language
@@ -53305,6 +53921,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005807
+name: chan
+name: Schan-Sprache
 name: Shan
 def: "Shan language" []
 is_a: LANG:0000001 ! Language
@@ -53443,6 +54061,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005822
 name: Sidamo
+name: sidamo
+name: Sidamo-Sprache
 def: "Sidamo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sid" xsd:string
@@ -53534,6 +54154,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005832
+name: singhalais
+name: Singhalesisch
 name: Sinhala
 def: "Sinhala language" []
 is_a: LANG:0000001 ! Language
@@ -54069,6 +54691,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005891
 name: Slovak
+name: slovaque
+name: Slowakisch
 def: "Slovak language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sk" xsd:string
@@ -54162,6 +54786,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005901
 name: Slovenian
+name: slovène
+name: Slowenisch
 def: "Slovenian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sl" xsd:string
@@ -54209,7 +54835,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005906
+name: sami du Sud
 name: Southern Sami
+name: Südsaamisch
 def: "Southern Sami language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sma" xsd:string
@@ -54247,7 +54875,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005910
+name: Nordsaamisch
 name: Northern Sami
+name: sami du Nord
 def: "Northern Sami language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "se" xsd:string
@@ -54287,6 +54917,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005914
 name: Lule Sami
+name: Lulesaamisch
+name: sami de Lule
 def: "Lule Sami language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "smj" xsd:string
@@ -54325,6 +54957,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005918
 name: Inari Sami
+name: Inarisaamisch
+name: sami d'Inari
 def: "Inari Sami language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "smn" xsd:string
@@ -54336,6 +54970,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005919
 name: Samoan
+name: samoan
+name: Samoanisch
 def: "Samoan language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sm" xsd:string
@@ -54374,7 +55010,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005923
+name: sami skolt
 name: Skolt Sami
+name: Skoltsaamisch
 def: "Skolt Sami language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sms" xsd:string
@@ -54448,7 +55086,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005931
+name: Schona-Sprache
 name: Shona
+name: shona
 def: "Shona language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sn" xsd:string
@@ -54479,6 +55119,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005934
 name: Sindhi
+name: sindhi
+name: Sindhi-Sprache
 def: "Sindhi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sd" xsd:string
@@ -54536,6 +55178,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005940
 name: Soninke
+name: Soninke-Sprache
+name: soninké
 def: "Soninke language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "snk" xsd:string
@@ -54718,6 +55362,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005960
 name: Sogdian
+name: sogdien
+name: Sogdisch
 def: "Sogdian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sog" xsd:string
@@ -54774,6 +55420,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1005966
 name: Somali
+name: somali
 def: "Somali language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "so" xsd:string
@@ -54830,7 +55477,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005972
+name: sotho du Sud
 name: Southern Sotho
+name: Süd-Sotho-Sprache
 def: "Southern Sotho language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "st" xsd:string
@@ -54896,6 +55545,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1005979
+name: espagnol | castillan
+name: Spanisch
 name: Spanish
 def: "Spanish language" []
 is_a: LANG:0000001 ! Language
@@ -55106,7 +55757,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006002
+name: albanais
 name: Albanian
+name: Albanisch
 def: "Albanian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sq" xsd:string
@@ -55226,7 +55879,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006015
+name: sarde
 name: Sardinian
+name: Sardisch
 def: "Sardinian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sc" xsd:string
@@ -55311,6 +55966,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006024
 name: Sranan Tongo
+name: sranan tongo
+name: Sranantongo
 def: "Sranan Tongo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "srn" xsd:string
@@ -55330,7 +55987,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006026
+name: serbe
 name: Serbian
+name: Serbisch
 def: "Serbian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "sr" xsd:string
@@ -55352,6 +56011,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006028
 name: Serer
+name: Serer-Sprache
+name: sérère
 def: "Serer language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "srr" xsd:string
@@ -55623,7 +56284,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006058
+name: Swasi-Sprache
 name: Swati
+name: swati
 def: "Swati language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ss" xsd:string
@@ -55933,6 +56596,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006092
 name: Sukuma
+name: sukuma
+name: Sukuma-Sprache
 def: "Sukuma language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "suk" xsd:string
@@ -55943,7 +56608,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006093
+name: soundanais
 name: Sundanese
+name: Sundanesisch
 def: "Sundanese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "su" xsd:string
@@ -55973,6 +56640,7 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006096
+name: soussou
 name: Susu
 def: "Susu language" []
 is_a: LANG:0000001 ! Language
@@ -56012,6 +56680,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006100
 name: Sumerian
+name: Sumerisch
+name: sumérien
 def: "Sumerian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "sux" xsd:string
@@ -56112,6 +56782,8 @@ property_value: LANG:0000007 "H" xsd:string
 
 [Term]
 id: LANG:1006111
+name: Swahili
+name: swahili
 name: Swahili (macrolanguage)
 def: "Swahili (macrolanguage) language" []
 is_a: LANG:0000001 ! Language
@@ -56142,6 +56814,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006114
+name: Schwedisch
+name: suédois
 name: Swedish
 def: "Swedish language" []
 is_a: LANG:0000001 ! Language
@@ -56470,6 +57144,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006150
 name: Classical Syriac
+name: syriaque classique
+name: Syrisch
 def: "Classical Syriac language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "syc" xsd:string
@@ -56534,7 +57210,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006157
+name: Neuostaramäisch
 name: Syriac
+name: syriaque
 def: "Syriac language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "syr" xsd:string
@@ -56762,6 +57440,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006182
 name: Tahitian
+name: tahitien
+name: Tahitisch
 def: "Tahitian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ty" xsd:string
@@ -56801,6 +57481,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006186
 name: Tamil
+name: tamoul
 def: "Tamil language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ta" xsd:string
@@ -56867,6 +57548,8 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1006193
 name: Tatar
+name: tatar
+name: Tatarisch
 def: "Tatar language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "tt" xsd:string
@@ -57653,6 +58336,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006280
 name: Telugu
+name: Telugu-Sprache
+name: télougou
 def: "Telugu language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "te" xsd:string
@@ -57664,6 +58349,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006281
+name: temne
+name: Temne-Sprache
 name: Timne
 def: "Timne language" []
 is_a: LANG:0000001 ! Language
@@ -57712,6 +58399,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006286
 name: Tereno
+name: tereno
+name: Tereno-Sprache
 def: "Tereno language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "ter" xsd:string
@@ -57732,6 +58421,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006288
 name: Tetum
+name: tetum
+name: Tetum-Sprache
 def: "Tetum language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tet" xsd:string
@@ -57922,6 +58613,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006309
+name: tadjik
+name: Tadschikisch
 name: Tajik
 def: "Tajik language" []
 is_a: LANG:0000001 ! Language
@@ -57935,6 +58628,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006310
 name: Tagalog
+name: tagalog
 def: "Tagalog language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "tl" xsd:string
@@ -58064,6 +58758,8 @@ property_value: LANG:0000007 "E" xsd:string
 [Term]
 id: LANG:1006324
 name: Thai
+name: Thailändisch
+name: thaï
 def: "Thai language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "th" xsd:string
@@ -58274,6 +58970,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006347
 name: Tigre
+name: Tigre-Sprache
+name: tigré
 def: "Tigre language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tig" xsd:string
@@ -58374,6 +59072,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006358
+name: tigrigna
+name: Tigrinja-Sprache
 name: Tigrinya
 def: "Tigrinya language" []
 is_a: LANG:0000001 ! Language
@@ -58414,6 +59114,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006362
 name: Tiv
+name: tiv
+name: Tiv-Sprache
 def: "Tiv language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tiv" xsd:string
@@ -58623,6 +59325,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006385
 name: Tokelau
+name: tokelau
+name: Tokelauanisch
 def: "Tokelau language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tkl" xsd:string
@@ -58796,6 +59500,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006404
 name: Klingon
+name: klingon
+name: Klingonisch
 def: "Klingon language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tlh" xsd:string
@@ -58807,6 +59513,8 @@ property_value: LANG:0000007 "C" xsd:string
 [Term]
 id: LANG:1006405
 name: Tlingit
+name: tlingit
+name: Tlingit-Sprache
 def: "Tlingit language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tli" xsd:string
@@ -59015,7 +59723,9 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1006428
+name: tamacheq
 name: Tamashek
+name: Tamaeq
 def: "Tamashek language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tmh" xsd:string
@@ -59413,7 +60123,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006472
+name: Tonga (Bantusprache, Sambia)
 name: Tonga (Nyasa)
+name: tonga (Nyasa)
 def: "Tonga (Nyasa) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tog" xsd:string
@@ -59470,6 +60182,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006478
 name: Tonga (Tonga Islands)
+name: Tongaisch
+name: tongan (Îles Tonga)
 def: "Tonga (Tonga Islands) language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "to" xsd:string
@@ -59625,7 +60339,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006495
+name: Neumelanesisch
 name: Tok Pisin
+name: tok pisin
 def: "Tok Pisin language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tpi" xsd:string
@@ -60168,6 +60884,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006555
 name: Tsimshian
+name: tsimshian
+name: Tsimshian-Sprache
 def: "Tsimshian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tsi" xsd:string
@@ -60215,6 +60933,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006560
 name: Tswana
+name: tswana
+name: Tswana-Sprache
 def: "Tswana language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "tn" xsd:string
@@ -60227,6 +60947,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006561
 name: Tsonga
+name: tsonga
+name: Tsonga-Sprache
 def: "Tsonga language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ts" xsd:string
@@ -60653,6 +61375,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006608
 name: Turkmen
+name: Turkmenisch
+name: turkmène
 def: "Turkmen language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "tk" xsd:string
@@ -60674,6 +61398,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006610
 name: Tumbuka
+name: tumbuka
+name: Tumbuka-Sprache
 def: "Tumbuka language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tum" xsd:string
@@ -60711,7 +61437,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006614
+name: turc
 name: Turkish
+name: Türkisch
 def: "Turkish language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "tr" xsd:string
@@ -60813,7 +61541,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006625
+name: Elliceanisch
 name: Tuvalu
+name: tuvalu
 def: "Tuvalu language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tvl" xsd:string
@@ -60978,6 +61708,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006643
 name: Twi
+name: twi
+name: Twi-Sprache
 def: "Twi language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "tw" xsd:string
@@ -61367,7 +62099,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006686
+name: touva
 name: Tuvinian
+name: Tuwinisch
 def: "Tuvinian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "tyv" xsd:string
@@ -61603,7 +62337,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006712
+name: oudmourte
 name: Udmurt
+name: Udmurtisch
 def: "Udmurt language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "udm" xsd:string
@@ -61641,7 +62377,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006716
+name: ougaritique
 name: Ugaritic
+name: Ugaritisch
 def: "Ugaritic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "uga" xsd:string
@@ -61715,7 +62453,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006724
+name: ouïgour
 name: Uighur
+name: Uigurisch
 def: "Uighur language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ug" xsd:string
@@ -61818,6 +62558,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006735
 name: Ukrainian
+name: ukrainien
+name: Ukrainisch
 def: "Ukrainian language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "uk" xsd:string
@@ -61982,7 +62724,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006753
+name: Mbundu-Sprache
 name: Umbundu
+name: umbundu
 def: "Umbundu language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "umb" xsd:string
@@ -62101,6 +62845,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006766
+name: indéterminée
+name: Nicht zu entscheiden
 name: Undetermined
 def: "Undetermined language" []
 is_a: LANG:0000001 ! Language
@@ -62238,6 +62984,7 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1006781
+name: ourdou
 name: Urdu
 def: "Urdu language" []
 is_a: LANG:0000001 ! Language
@@ -62619,6 +63366,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006823
+name: ouszbek
+name: Usbekisch
 name: Uzbek
 def: "Uzbek language" []
 is_a: LANG:0000001 ! Language
@@ -62695,6 +63444,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006831
 name: Vai
+name: Vai-Sprache
+name: vaï
 def: "Vai language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "vai" xsd:string
@@ -62859,6 +63610,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006849
 name: Venda
+name: venda
+name: Venda-Sprache
 def: "Venda language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "ve" xsd:string
@@ -62934,6 +63687,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006857
 name: Vietnamese
+name: Vietnamesisch
+name: vietnamien
 def: "Vietnamese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "vi" xsd:string
@@ -63351,6 +64106,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006903
 name: Volapük
+name: volapük
 def: "Volapük language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "vo" xsd:string
@@ -63371,7 +64127,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006905
+name: vote
 name: Votic
+name: Wotisch
 def: "Votic language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "vot" xsd:string
@@ -63580,6 +64338,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006928
+name: Walamo-Sprache
+name: wolaitta | wolaytta
 name: Wolaytta
 def: "Wolaytta language" []
 is_a: LANG:0000001 ! Language
@@ -63636,6 +64396,8 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1006934
+name: Waray
+name: waray
 name: Waray (Philippines)
 def: "Waray (Philippines) language" []
 is_a: LANG:0000001 ! Language
@@ -63648,6 +64410,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1006935
 name: Washo
+name: washo
+name: Washo-Sprache
 def: "Washo language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "was" xsd:string
@@ -64486,6 +65250,8 @@ property_value: LANG:0000007 "H" xsd:string
 
 [Term]
 id: LANG:1007028
+name: wallon
+name: Wallonisch
 name: Walloon
 def: "Walloon language" []
 is_a: LANG:0000001 ! Language
@@ -64904,6 +65670,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007074
 name: Wolof
+name: wolof
+name: Wolof-Sprache
 def: "Wolof language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "wo" xsd:string
@@ -65608,7 +66376,9 @@ property_value: LANG:0000007 "E" xsd:string
 
 [Term]
 id: LANG:1007152
+name: kalmouk | oïrat
 name: Kalmyk
+name: Kalmückisch
 def: "Kalmyk language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "xal" xsd:string
@@ -66277,6 +67047,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007226
 name: Xhosa
+name: xhosa
+name: Xhosa-Sprache
 def: "Xhosa language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "xh" xsd:string
@@ -68395,6 +69167,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007461
 name: Yao
+name: yao
+name: Yao-Sprache (Bantusprache)
 def: "Yao language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "yao" xsd:string
@@ -68406,6 +69180,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007462
 name: Yapese
+name: Yapesisch
+name: yapois
 def: "Yapese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "yap" xsd:string
@@ -68938,7 +69714,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1007521
+name: Jiddisch
 name: Yiddish
+name: yiddish
 def: "Yiddish language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "yi" xsd:string
@@ -69653,6 +70431,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007600
 name: Yoruba
+name: yoruba
+name: Yoruba-Sprache
 def: "Yoruba language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "yo" xsd:string
@@ -70520,6 +71300,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007696
 name: Zapotec
+name: Zapotekisch
+name: zapotèque
 def: "Zapotec language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "zap" xsd:string
@@ -70638,7 +71420,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1007709
+name: Bliss-Symbol
 name: Blissymbols
+name: symboles Bliss | Bliss
 def: "Blissymbols language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "zbl" xsd:string
@@ -70722,6 +71506,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007718
 name: Zenaga
+name: zenaga
 def: "Zenaga language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "zen" xsd:string
@@ -70750,6 +71535,7 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1007721
+name: amazighe standard marocain
 name: Standard Moroccan Tamazight
 def: "Standard Moroccan Tamazight language" []
 is_a: LANG:0000001 ! Language
@@ -70789,6 +71575,7 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007725
 name: Zhuang
+name: zhuang | chuang
 def: "Zhuang language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "za" xsd:string
@@ -70837,6 +71624,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007730
 name: Chinese
+name: Chinesisch
+name: chinois
 def: "Chinese language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "zh" xsd:string
@@ -71919,7 +72708,9 @@ property_value: LANG:0000007 "L" xsd:string
 
 [Term]
 id: LANG:1007850
+name: zoulou
 name: Zulu
+name: Zulu-Sprache
 def: "Zulu language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000002 "zu" xsd:string
@@ -71941,6 +72732,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007852
 name: Zuni
+name: zuni
+name: Zuñi-Sprache
 def: "Zuni language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "zun" xsd:string
@@ -72015,6 +72808,8 @@ property_value: LANG:0000007 "L" xsd:string
 [Term]
 id: LANG:1007861
 name: Zaza
+name: zaza | dimili | dimli | kirdki | kirmanjki | zazaki
+name: Zazaki
 def: "Zaza language" []
 is_a: LANG:0000001 ! Language
 property_value: LANG:0000003 "zza" xsd:string

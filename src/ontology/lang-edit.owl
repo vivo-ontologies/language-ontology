@@ -53,11 +53,11 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000002> "IS
 AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000002> xsd:string)
 AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000002> <http://purl.obolibrary.org/obo/LANG_0000001>)
 
-# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000003> (ISO 639-2L Code)
+# Annotation Property: <http://purl.obolibrary.org/obo/LANG_0000003> (ISO 639-2T Code)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000003> "The Part 2L Code is a three letter identifier for the language in Part 2L of ISO 639"@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000003> "Eg: The 2L code for english is 'eng'"@en)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000003> "ISO 639-2L Code"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000003> "The Part 2T Code is a three letter identifier for the language in Part 2L of ISO 639"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/LANG_0000003> "Eg: The 2T code for english is 'eng'"@en)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/LANG_0000003> "ISO 639-2T Code"@en)
 AnnotationPropertyRange(<http://purl.obolibrary.org/obo/LANG_0000003> xsd:string)
 AnnotationPropertyDomain(<http://purl.obolibrary.org/obo/LANG_0000003> <http://purl.obolibrary.org/obo/LANG_0000001>)
 

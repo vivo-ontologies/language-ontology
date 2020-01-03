@@ -195,6 +195,7 @@ $(ONT)-full.owl: $(SRC) $(OTHER_SRC)
                 --input $< \
                 --input imports/bfo_import.owl \
                 --input templates/iso-639-terms.owl \
+                --input i18n/iso-639-i18n.nt \
 		reason --reasoner ELK \
 		relax \
 		reduce -r ELK \
