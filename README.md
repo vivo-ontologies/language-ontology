@@ -12,10 +12,9 @@ http://obofoundry.org/ontology/lang
 For background regarding this work, see [Early Thoughts on Representing
 Languages and Language Capabilities](http://bit.ly/2RPYrY4)
 
-The **work** directory contains dowloaded data regarding ISO 639 and scripts for
-creating [robot templates](http://robot.obolibrary.org/template) for inclusion
-of languages in the Language Ontology.  Individual languages are not
-hand-edited.
+The **src/ontology/templates** directory contains data from the ISO 639 registration authorities used to make templates for the OBO robot tool.
+
+The **src/ontology/i18n** directory contains assertions for adding definitions and labels in additional languages to the Language Ontology.
 
 ## Versions
 ### Stable release versions
