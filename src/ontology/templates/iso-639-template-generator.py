@@ -10,7 +10,7 @@
 __author__ = "Michael Conlon"
 __copyright__ = "Copyright (c) 2019 Michael Conlon"
 __license__ = "Apache-2"
-__version__ = "0.0.0"
+__version__ = "0.2.0"
 
 
 def main():
@@ -41,18 +41,27 @@ def main():
     #      Comment    varchar(150) NULL)       -- Comment relating to one or more of the columns
 
     input_file_name = 'iso-639-3.tab'
+    loc_uri_base_1 = 'http://id.loc.gov/vocabulary/iso639-1/'
+    loc_uri_base_2 = 'http://id.loc.gov/vocabulary/iso639-2/'
+
     with open(input_file_name) as fp:
         for cnt, line in enumerate(fp):
             if cnt > 1:
                 field: list = line.rstrip('\n').split("\t")
                 if field[6] == 'No linguistic content':  # do not include placeholder codes.  Ontology is of languages
                     continue
+
+                ref1 = loc_uri_base_2 + field[1] if field[1] != '' else ''
+                ref2 = loc_uri_base_2 + field[2] if field[2] != '' and field[1] != field[2] else ''
+                ref3 = loc_uri_base_1 + field[3] if field[3] != '' else ''
+
                 ofp.write('owl:Class\tsubclass\tlang:0000001\tlang:1' + str(cnt-1).zfill(6) + '\t\t' + field[6] +
                           '\t' + field[3] + '\t' + field[1] + '\t' + field[2] + '\t' + field[0] + '\t' + field[4] +
-                          '\t' + field[5] + '\t' + field[7]
-                          + '\t' + field[6] + ' language' + '\t\t\n')
+                          '\t' + field[5] + '\t' + field[7] + '\t' + ref1 + '\t' + ref2 + '\t' + ref3 +
+                          '\t' + field[6] + ' language' + '\t\t\n')
+
                 if field[3] != '':
-                    print(field[6])
+                    print(field[6])  # show progress
     ofp.close()
     return
 

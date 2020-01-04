@@ -1,838 +1,838 @@
-<http://purl.obolibrary.org/obo/LANG_1005901> <http://www.w3.org/2000/01/rdf-schema#label> "Slowenisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005960> <http://www.w3.org/2000/01/rdf-schema#label> "Sogdisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005176> <http://www.w3.org/2000/01/rdf-schema#label> "perse, vieux (ca. 600-400 av. J.-C.)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003593> <http://www.w3.org/2000/01/rdf-schema#label> "Limburgisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000719> <http://www.w3.org/2000/01/rdf-schema#label> "bini | edo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002000> <http://www.w3.org/2000/01/rdf-schema#label> "Gayo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005612> <http://www.w3.org/2000/01/rdf-schema#label> "roumain | moldave"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006608> <http://www.w3.org/2000/01/rdf-schema#label> "Turkmenisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001946> <http://www.w3.org/2000/01/rdf-schema#label> "fran\u00E7ais moyen (1400-1600)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003817> <http://www.w3.org/2000/01/rdf-schema#label> "Marathi"@de .
-<http://purl.obolibrary.org/obo/LANG_1000271> <http://www.w3.org/2000/01/rdf-schema#label> "Altenglisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001353> <http://www.w3.org/2000/01/rdf-schema#label> "Korsisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003805> <http://www.w3.org/2000/01/rdf-schema#label> "madourais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006111> <http://www.w3.org/2000/01/rdf-schema#label> "Swahili"@de .
-<http://purl.obolibrary.org/obo/LANG_1005757> <http://www.w3.org/2000/01/rdf-schema#label> "selkoupe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005325> <http://www.w3.org/2000/01/rdf-schema#label> "Polnisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006385> <http://www.w3.org/2000/01/rdf-schema#label> "Tokelauanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006610> <http://www.w3.org/2000/01/rdf-schema#label> "Tumbuka-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004907> <http://www.w3.org/2000/01/rdf-schema#label> "nyamwezi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006347> <http://www.w3.org/2000/01/rdf-schema#label> "Tigre-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003466> <http://www.w3.org/2000/01/rdf-schema#label> "Lahnda"@de .
-<http://purl.obolibrary.org/obo/LANG_1003757> <http://www.w3.org/2000/01/rdf-schema#label> "Luba-Katanga-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003756> <http://www.w3.org/2000/01/rdf-schema#label> "luba-lulua"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003253> <http://www.w3.org/2000/01/rdf-schema#label> "Oraon-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002141> <http://www.w3.org/2000/01/rdf-schema#label> "Manx"@de .
-<http://purl.obolibrary.org/obo/LANG_1003179> <http://www.w3.org/2000/01/rdf-schema#label> "kosrae"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004013> <http://www.w3.org/2000/01/rdf-schema#label> "Minangkabau-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002831> <http://www.w3.org/2000/01/rdf-schema#label> "Kanuri-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000089> <http://www.w3.org/2000/01/rdf-schema#label> "adygh\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006428> <http://www.w3.org/2000/01/rdf-schema#label> "Tama\u009Aeq"@de .
-<http://purl.obolibrary.org/obo/LANG_1003755> <http://www.w3.org/2000/01/rdf-schema#label> "Luxemburgisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000350> <http://www.w3.org/2000/01/rdf-schema#label> "Aragonesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002823> <http://www.w3.org/2000/01/rdf-schema#label> "Gr\u00F6nl\u00E4ndisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006555> <http://www.w3.org/2000/01/rdf-schema#label> "Tsimshian-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002459> <http://www.w3.org/2000/01/rdf-schema#label> "Obersorbisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003812> <http://www.w3.org/2000/01/rdf-schema#label> "makassar"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005117> <http://www.w3.org/2000/01/rdf-schema#label> "Palau-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000053> <http://www.w3.org/2000/01/rdf-schema#label> "acoli"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007074> <http://www.w3.org/2000/01/rdf-schema#label> "Wolof-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001011> <http://www.w3.org/2000/01/rdf-schema#label> "Bulgarisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002984> <http://www.w3.org/2000/01/rdf-schema#label> "Khasi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004895> <http://www.w3.org/2000/01/rdf-schema#label> "Nyanja-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002481> <http://www.w3.org/2000/01/rdf-schema#label> "Ungarisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004967> <http://www.w3.org/2000/01/rdf-schema#label> "Ojibwa-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003026> <http://www.w3.org/2000/01/rdf-schema#label> "kirghiz"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001899> <http://www.w3.org/2000/01/rdf-schema#label> "persan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004944> <http://www.w3.org/2000/01/rdf-schema#label> "occitan (apr\u00E8s 1500)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006288> <http://www.w3.org/2000/01/rdf-schema#label> "tetum"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003812> <http://www.w3.org/2000/01/rdf-schema#label> "Makassarisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006405> <http://www.w3.org/2000/01/rdf-schema#label> "tlingit"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001977> <http://www.w3.org/2000/01/rdf-schema#label> "Ga-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004732> <http://www.w3.org/2000/01/rdf-schema#label> "Nynorsk"@de .
-<http://purl.obolibrary.org/obo/LANG_1002824> <http://www.w3.org/2000/01/rdf-schema#label> "kamba"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004519> <http://www.w3.org/2000/01/rdf-schema#label> "Ndonga"@de .
-<http://purl.obolibrary.org/obo/LANG_1007600> <http://www.w3.org/2000/01/rdf-schema#label> "yoruba"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004052> <http://www.w3.org/2000/01/rdf-schema#label> "Makedonisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001353> <http://www.w3.org/2000/01/rdf-schema#label> "corse"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004552> <http://www.w3.org/2000/01/rdf-schema#label> "Newari"@de .
-<http://purl.obolibrary.org/obo/LANG_1002644> <http://www.w3.org/2000/01/rdf-schema#label> "Italienisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000489> <http://www.w3.org/2000/01/rdf-schema#label> "Aymar\u00E1-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006478> <http://www.w3.org/2000/01/rdf-schema#label> "Tongaisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006404> <http://www.w3.org/2000/01/rdf-schema#label> "klingon"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002585> <http://www.w3.org/2000/01/rdf-schema#label> "Ilokano-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001251> <http://www.w3.org/2000/01/rdf-schema#label> "Tschuwaschisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003712> <http://www.w3.org/2000/01/rdf-schema#label> "lozi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003712> <http://www.w3.org/2000/01/rdf-schema#label> "Rotse-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005609> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00E4toromanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1007696> <http://www.w3.org/2000/01/rdf-schema#label> "Zapotekisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1007861> <http://www.w3.org/2000/01/rdf-schema#label> "Zazaki"@de .
-<http://purl.obolibrary.org/obo/LANG_1005047> <http://www.w3.org/2000/01/rdf-schema#label> "galla"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007521> <http://www.w3.org/2000/01/rdf-schema#label> "yiddish"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001251> <http://www.w3.org/2000/01/rdf-schema#label> "tchouvache"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001534> <http://www.w3.org/2000/01/rdf-schema#label> "esclave (athapascan)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006281> <http://www.w3.org/2000/01/rdf-schema#label> "Temne-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001895> <http://www.w3.org/2000/01/rdf-schema#label> "fang"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001164> <http://www.w3.org/2000/01/rdf-schema#label> "karib | galibi | carib"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006193> <http://www.w3.org/2000/01/rdf-schema#label> "Tatarisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005923> <http://www.w3.org/2000/01/rdf-schema#label> "Skoltsaamisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1007461> <http://www.w3.org/2000/01/rdf-schema#label> "yao"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005674> <http://www.w3.org/2000/01/rdf-schema#label> "sasak"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001946> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelfranz\u00F6sisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000117> <http://www.w3.org/2000/01/rdf-schema#label> "afrikaans"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001953> <http://www.w3.org/2000/01/rdf-schema#label> "Friesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003763> <http://www.w3.org/2000/01/rdf-schema#label> "luiseno"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001006> <http://www.w3.org/2000/01/rdf-schema#label> "bugi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000724> <http://www.w3.org/2000/01/rdf-schema#label> "bichlamar"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004002> <http://www.w3.org/2000/01/rdf-schema#label> "mi'kmaq | micmac"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002455> <http://www.w3.org/2000/01/rdf-schema#label> "Kroatisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002573> <http://www.w3.org/2000/01/rdf-schema#label> "Inuktitut"@de .
-<http://purl.obolibrary.org/obo/LANG_1004519> <http://www.w3.org/2000/01/rdf-schema#label> "ndonga"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000192> <http://www.w3.org/2000/01/rdf-schema#label> "akan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005934> <http://www.w3.org/2000/01/rdf-schema#label> "sindhi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005447> <http://www.w3.org/2000/01/rdf-schema#label> "quechua"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006058> <http://www.w3.org/2000/01/rdf-schema#label> "swati"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004352> <http://www.w3.org/2000/01/rdf-schema#label> "mirandais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003755> <http://www.w3.org/2000/01/rdf-schema#label> "luxembourgeois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004246> <http://www.w3.org/2000/01/rdf-schema#label> "malais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005515> <http://www.w3.org/2000/01/rdf-schema#label> "Osterinsel-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001900> <http://www.w3.org/2000/01/rdf-schema#label> "Fante-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002131> <http://www.w3.org/2000/01/rdf-schema#label> "irlandais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002148> <http://www.w3.org/2000/01/rdf-schema#label> "allemand, moyen haut (ca. 1050-1500)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000526> <http://www.w3.org/2000/01/rdf-schema#label> "Basaa-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002102> <http://www.w3.org/2000/01/rdf-schema#label> "kiribati"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002002> <http://www.w3.org/2000/01/rdf-schema#label> "Gbaya-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002600> <http://www.w3.org/2000/01/rdf-schema#label> "Bahasa Indonesia"@de .
-<http://purl.obolibrary.org/obo/LANG_1004783> <http://www.w3.org/2000/01/rdf-schema#label> "N'Ko"@de .
-<http://purl.obolibrary.org/obo/LANG_1004125> <http://www.w3.org/2000/01/rdf-schema#label> "mandchou"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000032> <http://www.w3.org/2000/01/rdf-schema#label> "Abchasisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005662> <http://www.w3.org/2000/01/rdf-schema#label> "Sandawe-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003805> <http://www.w3.org/2000/01/rdf-schema#label> "Maduresisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006288> <http://www.w3.org/2000/01/rdf-schema#label> "Tetum-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001254> <http://www.w3.org/2000/01/rdf-schema#label> "cheyenne"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003810> <http://www.w3.org/2000/01/rdf-schema#label> "maithili"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006849> <http://www.w3.org/2000/01/rdf-schema#label> "venda"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002194> <http://www.w3.org/2000/01/rdf-schema#label> "Gorontalesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005675> <http://www.w3.org/2000/01/rdf-schema#label> "Santali"@de .
-<http://purl.obolibrary.org/obo/LANG_1002779> <http://www.w3.org/2000/01/rdf-schema#label> "Japanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003815> <http://www.w3.org/2000/01/rdf-schema#label> "mandingue"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004523> <http://www.w3.org/2000/01/rdf-schema#label> "bas allemand | bas saxon | allemand, bas | saxon, bas"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005966> <http://www.w3.org/2000/01/rdf-schema#label> "Somali"@de .
-<http://purl.obolibrary.org/obo/LANG_1004783> <http://www.w3.org/2000/01/rdf-schema#label> "n'ko"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006560> <http://www.w3.org/2000/01/rdf-schema#label> "tswana"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005914> <http://www.w3.org/2000/01/rdf-schema#label> "sami de Lule"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006024> <http://www.w3.org/2000/01/rdf-schema#label> "sranan tongo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001243> <http://www.w3.org/2000/01/rdf-schema#label> "Tscheremissisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006157> <http://www.w3.org/2000/01/rdf-schema#label> "syriaque"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002286> <http://www.w3.org/2000/01/rdf-schema#label> "gwich'in"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000620> <http://www.w3.org/2000/01/rdf-schema#label> "bi\u00E9lorusse"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006716> <http://www.w3.org/2000/01/rdf-schema#label> "ougaritique"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001463> <http://www.w3.org/2000/01/rdf-schema#label> "Kymrisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006735> <http://www.w3.org/2000/01/rdf-schema#label> "ukrainien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006928> <http://www.w3.org/2000/01/rdf-schema#label> "wolaitta | wolaytta"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000621> <http://www.w3.org/2000/01/rdf-schema#label> "bemba"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003471> <http://www.w3.org/2000/01/rdf-schema#label> "Lamba-Sprache (Bantusprache)"@de .
-<http://purl.obolibrary.org/obo/LANG_1005910> <http://www.w3.org/2000/01/rdf-schema#label> "sami du Nord"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000174> <http://www.w3.org/2000/01/rdf-schema#label> "Ainu-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003773> <http://www.w3.org/2000/01/rdf-schema#label> "Lushai-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006724> <http://www.w3.org/2000/01/rdf-schema#label> "Uigurisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004013> <http://www.w3.org/2000/01/rdf-schema#label> "minangkabau"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001714> <http://www.w3.org/2000/01/rdf-schema#label> "Duala-Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1000442> <http://www.w3.org/2000/01/rdf-schema#label> "avestique"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003762> <http://www.w3.org/2000/01/rdf-schema#label> "Ganda-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003818> <http://www.w3.org/2000/01/rdf-schema#label> "massa\u00EF"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002239> <http://www.w3.org/2000/01/rdf-schema#label> "Schweizerdeutsch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005064> <http://www.w3.org/2000/01/rdf-schema#label> "Ossetisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000070> <http://www.w3.org/2000/01/rdf-schema#label> "adangme"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007226> <http://www.w3.org/2000/01/rdf-schema#label> "xhosa"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006905> <http://www.w3.org/2000/01/rdf-schema#label> "vote"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000280> <http://www.w3.org/2000/01/rdf-schema#label> "angika"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005047> <http://www.w3.org/2000/01/rdf-schema#label> "Galla-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003310> <http://www.w3.org/2000/01/rdf-schema#label> "kuanyama | kwanyama"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004092> <http://www.w3.org/2000/01/rdf-schema#label> "Maltesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002184> <http://www.w3.org/2000/01/rdf-schema#label> "Althochdeutsch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005517> <http://www.w3.org/2000/01/rdf-schema#label> "rarotonga | maori des \u00EEles Cook"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003171> <http://www.w3.org/2000/01/rdf-schema#label> "Konkani"@de .
-<http://purl.obolibrary.org/obo/LANG_1006614> <http://www.w3.org/2000/01/rdf-schema#label> "T\u00FCrkisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006472> <http://www.w3.org/2000/01/rdf-schema#label> "tonga (Nyasa)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006857> <http://www.w3.org/2000/01/rdf-schema#label> "vietnamien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001878> <http://www.w3.org/2000/01/rdf-schema#label> "Ewondo"@de .
-<http://purl.obolibrary.org/obo/LANG_1005662> <http://www.w3.org/2000/01/rdf-schema#label> "sandawe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005923> <http://www.w3.org/2000/01/rdf-schema#label> "sami skolt"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005775> <http://www.w3.org/2000/01/rdf-schema#label> "irlandais ancien (jusqu'\u00E0 900)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000622> <http://www.w3.org/2000/01/rdf-schema#label> "bengali"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000347> <http://www.w3.org/2000/01/rdf-schema#label> "aram\u00E9en d'empire (700-300 BCE)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005665> <http://www.w3.org/2000/01/rdf-schema#label> "Sango-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001217> <http://www.w3.org/2000/01/rdf-schema#label> "Cebuano"@de .
-<http://purl.obolibrary.org/obo/LANG_1007696> <http://www.w3.org/2000/01/rdf-schema#label> "zapot\u00E8que"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001965> <http://www.w3.org/2000/01/rdf-schema#label> "Ful"@de .
-<http://purl.obolibrary.org/obo/LANG_1002836> <http://www.w3.org/2000/01/rdf-schema#label> "Kasachisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006385> <http://www.w3.org/2000/01/rdf-schema#label> "tokelau"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006100> <http://www.w3.org/2000/01/rdf-schema#label> "sum\u00E9rien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007462> <http://www.w3.org/2000/01/rdf-schema#label> "Yapesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001484> <http://www.w3.org/2000/01/rdf-schema#label> "dargwa"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005327> <http://www.w3.org/2000/01/rdf-schema#label> "pohnpei"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006309> <http://www.w3.org/2000/01/rdf-schema#label> "tadjik"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001950> <http://www.w3.org/2000/01/rdf-schema#label> "frison septentrional"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001914> <http://www.w3.org/2000/01/rdf-schema#label> "filipino | pilipino"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004609> <http://www.w3.org/2000/01/rdf-schema#label> "Nias-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006150> <http://www.w3.org/2000/01/rdf-schema#label> "syriaque classique"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005979> <http://www.w3.org/2000/01/rdf-schema#label> "espagnol | castillan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005609> <http://www.w3.org/2000/01/rdf-schema#label> "romanche"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002132> <http://www.w3.org/2000/01/rdf-schema#label> "Galicisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002350> <http://www.w3.org/2000/01/rdf-schema#label> "h\u00E9breu"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001724> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelniederl\u00E4ndisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003913> <http://www.w3.org/2000/01/rdf-schema#label> "mend\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004743> <http://www.w3.org/2000/01/rdf-schema#label> "Bokm\u00E5l"@de .
-<http://purl.obolibrary.org/obo/LANG_1006849> <http://www.w3.org/2000/01/rdf-schema#label> "Venda-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002644> <http://www.w3.org/2000/01/rdf-schema#label> "italien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007521> <http://www.w3.org/2000/01/rdf-schema#label> "Jiddisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002371> <http://www.w3.org/2000/01/rdf-schema#label> "Hiligaynon-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001942> <http://www.w3.org/2000/01/rdf-schema#label> "fran\u00E7ais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003813> <http://www.w3.org/2000/01/rdf-schema#label> "malayalam"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006478> <http://www.w3.org/2000/01/rdf-schema#label> "tongan (\u00CEles Tonga)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000070> <http://www.w3.org/2000/01/rdf-schema#label> "Adangme-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002371> <http://www.w3.org/2000/01/rdf-schema#label> "hiligaynon"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005918> <http://www.w3.org/2000/01/rdf-schema#label> "sami d'Inari"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004470> <http://www.w3.org/2000/01/rdf-schema#label> "nd\u00E9b\u00E9l\u00E9 du Sud"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001977> <http://www.w3.org/2000/01/rdf-schema#label> "ga"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006643> <http://www.w3.org/2000/01/rdf-schema#label> "Twi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005256> <http://www.w3.org/2000/01/rdf-schema#label> "Pali"@de .
-<http://purl.obolibrary.org/obo/LANG_1005612> <http://www.w3.org/2000/01/rdf-schema#label> "Rum\u00E4nisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004748> <http://www.w3.org/2000/01/rdf-schema#label> "noga\u00EF | nogay"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001877> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9w\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002190> <http://www.w3.org/2000/01/rdf-schema#label> "Gondi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000364> <http://www.w3.org/2000/01/rdf-schema#label> "Arawak-Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1007850> <http://www.w3.org/2000/01/rdf-schema#label> "zoulou"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000192> <http://www.w3.org/2000/01/rdf-schema#label> "Akan-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006753> <http://www.w3.org/2000/01/rdf-schema#label> "umbundu"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001899> <http://www.w3.org/2000/01/rdf-schema#label> "Persisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002372> <http://www.w3.org/2000/01/rdf-schema#label> "Hindi"@de .
-<http://purl.obolibrary.org/obo/LANG_1005906> <http://www.w3.org/2000/01/rdf-schema#label> "S\u00FCdsaamisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004815> <http://www.w3.org/2000/01/rdf-schema#label> "pedi | sepedi | sotho du Nord"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001799> <http://www.w3.org/2000/01/rdf-schema#label> "grec moderne (apr\u00E8s 1453)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000503> <http://www.w3.org/2000/01/rdf-schema#label> "Aserbeidschanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002212> <http://www.w3.org/2000/01/rdf-schema#label> "Griechisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005104> <http://www.w3.org/2000/01/rdf-schema#label> "pangasinan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001823> <http://www.w3.org/2000/01/rdf-schema#label> "Englisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005447> <http://www.w3.org/2000/01/rdf-schema#label> "Quechua-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002833> <http://www.w3.org/2000/01/rdf-schema#label> "Kawi"@de .
-<http://purl.obolibrary.org/obo/LANG_1006092> <http://www.w3.org/2000/01/rdf-schema#label> "sukuma"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006157> <http://www.w3.org/2000/01/rdf-schema#label> "Neuostaram\u00E4isch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000780> <http://www.w3.org/2000/01/rdf-schema#label> "Blackfoot-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004079> <http://www.w3.org/2000/01/rdf-schema#label> "malgache"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002356> <http://www.w3.org/2000/01/rdf-schema#label> "Herero-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006935> <http://www.w3.org/2000/01/rdf-schema#label> "Washo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002196> <http://www.w3.org/2000/01/rdf-schema#label> "gothique"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002331> <http://www.w3.org/2000/01/rdf-schema#label> "Ha\u00EFtien (Haiti-Kreolisch)"@de .
-<http://purl.obolibrary.org/obo/LANG_1006280> <http://www.w3.org/2000/01/rdf-schema#label> "t\u00E9lougou"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002825> <http://www.w3.org/2000/01/rdf-schema#label> "kannada"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001241> <http://www.w3.org/2000/01/rdf-schema#label> "chuuk"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000364> <http://www.w3.org/2000/01/rdf-schema#label> "arawak"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005611> <http://www.w3.org/2000/01/rdf-schema#label> "Romani (Sprache)"@de .
-<http://purl.obolibrary.org/obo/LANG_1005109> <http://www.w3.org/2000/01/rdf-schema#label> "pampangan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003769> <http://www.w3.org/2000/01/rdf-schema#label> "Luo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000522> <http://www.w3.org/2000/01/rdf-schema#label> "balinais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002831> <http://www.w3.org/2000/01/rdf-schema#label> "kanouri"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001151> <http://www.w3.org/2000/01/rdf-schema#label> "Caddo-Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1002372> <http://www.w3.org/2000/01/rdf-schema#label> "hindi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006934> <http://www.w3.org/2000/01/rdf-schema#label> "waray"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001481> <http://www.w3.org/2000/01/rdf-schema#label> "D\u00E4nisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001232> <http://www.w3.org/2000/01/rdf-schema#label> "Chamorro-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000927> <http://www.w3.org/2000/01/rdf-schema#label> "Braj-Bhakha"@de .
-<http://purl.obolibrary.org/obo/LANG_1001837> <http://www.w3.org/2000/01/rdf-schema#label> "esp\u00E9ranto"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000696> <http://www.w3.org/2000/01/rdf-schema#label> "Bhojpuri"@de .
-<http://purl.obolibrary.org/obo/LANG_1007709> <http://www.w3.org/2000/01/rdf-schema#label> "symboles Bliss | Bliss"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001913> <http://www.w3.org/2000/01/rdf-schema#label> "fidjien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007600> <http://www.w3.org/2000/01/rdf-schema#label> "Yoruba-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006625> <http://www.w3.org/2000/01/rdf-schema#label> "Elliceanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005717> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9cossais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000520> <http://www.w3.org/2000/01/rdf-schema#label> "Belutschisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002602> <http://www.w3.org/2000/01/rdf-schema#label> "ingouche"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001586> <http://www.w3.org/2000/01/rdf-schema#label> "dinka"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000202> <http://www.w3.org/2000/01/rdf-schema#label> "akkadien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004391> <http://www.w3.org/2000/01/rdf-schema#label> "Birmanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005670> <http://www.w3.org/2000/01/rdf-schema#label> "sanskrit"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004358> <http://www.w3.org/2000/01/rdf-schema#label> "marvari"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005832> <http://www.w3.org/2000/01/rdf-schema#label> "singhalais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003763> <http://www.w3.org/2000/01/rdf-schema#label> "Luise\u00F1o-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004509> <http://www.w3.org/2000/01/rdf-schema#label> "nd\u00E9b\u00E9l\u00E9 du Nord"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006428> <http://www.w3.org/2000/01/rdf-schema#label> "tamacheq"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007028> <http://www.w3.org/2000/01/rdf-schema#label> "Wallonisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002573> <http://www.w3.org/2000/01/rdf-schema#label> "inuktitut"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001352> <http://www.w3.org/2000/01/rdf-schema#label> "Kornisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005934> <http://www.w3.org/2000/01/rdf-schema#label> "Sindhi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003322> <http://www.w3.org/2000/01/rdf-schema#label> "koumyk"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005643> <http://www.w3.org/2000/01/rdf-schema#label> "russe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002829> <http://www.w3.org/2000/01/rdf-schema#label> "kashmiri"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000246> <http://www.w3.org/2000/01/rdf-schema#label> "amharique"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005940> <http://www.w3.org/2000/01/rdf-schema#label> "Soninke-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006093> <http://www.w3.org/2000/01/rdf-schema#label> "soundanais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003698> <http://www.w3.org/2000/01/rdf-schema#label> "Mongo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004352> <http://www.w3.org/2000/01/rdf-schema#label> "Mirandesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000521> <http://www.w3.org/2000/01/rdf-schema#label> "Bambara-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002102> <http://www.w3.org/2000/01/rdf-schema#label> "Gilbertesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003239> <http://www.w3.org/2000/01/rdf-schema#label> "Karatschaiisch-Balkarisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002693> <http://www.w3.org/2000/01/rdf-schema#label> "javanais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006096> <http://www.w3.org/2000/01/rdf-schema#label> "Susu"@de .
-<http://purl.obolibrary.org/obo/LANG_1001942> <http://www.w3.org/2000/01/rdf-schema#label> "Franz\u00F6sisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001241> <http://www.w3.org/2000/01/rdf-schema#label> "Trukesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003462> <http://www.w3.org/2000/01/rdf-schema#label> "Judenspanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001244> <http://www.w3.org/2000/01/rdf-schema#label> "Chinook-Jargon"@de .
-<http://purl.obolibrary.org/obo/LANG_1004523> <http://www.w3.org/2000/01/rdf-schema#label> "Niederdeutsch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000015> <http://www.w3.org/2000/01/rdf-schema#label> "afar"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006358> <http://www.w3.org/2000/01/rdf-schema#label> "Tigrinja-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004157> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003327> <http://www.w3.org/2000/01/rdf-schema#label> "kurde"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004449> <http://www.w3.org/2000/01/rdf-schema#label> "napolitain"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005204> <http://www.w3.org/2000/01/rdf-schema#label> "Ph\u00F6nikisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1007461> <http://www.w3.org/2000/01/rdf-schema#label> "Yao-Sprache (Bantusprache)"@de .
-<http://purl.obolibrary.org/obo/LANG_1004312> <http://www.w3.org/2000/01/rdf-schema#label> "Muskogisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000871> <http://www.w3.org/2000/01/rdf-schema#label> "Bosnisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000453> <http://www.w3.org/2000/01/rdf-schema#label> "Awadhi"@de .
-<http://purl.obolibrary.org/obo/LANG_1002141> <http://www.w3.org/2000/01/rdf-schema#label> "manx | mannois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001895> <http://www.w3.org/2000/01/rdf-schema#label> "Pangwe-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001233> <http://www.w3.org/2000/01/rdf-schema#label> "chibcha"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002836> <http://www.w3.org/2000/01/rdf-schema#label> "kazakh"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001896> <http://www.w3.org/2000/01/rdf-schema#label> "f\u00E9ro\u00EFen"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002637> <http://www.w3.org/2000/01/rdf-schema#label> "islandais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000117> <http://www.w3.org/2000/01/rdf-schema#label> "Afrikaans"@de .
-<http://purl.obolibrary.org/obo/LANG_1004944> <http://www.w3.org/2000/01/rdf-schema#label> "Okzitanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002356> <http://www.w3.org/2000/01/rdf-schema#label> "herero"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001250> <http://www.w3.org/2000/01/rdf-schema#label> "slavon d'\u00E9glise | vieux slave | slavon liturgique | vieux bulgare"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003026> <http://www.w3.org/2000/01/rdf-schema#label> "Kirgisisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003913> <http://www.w3.org/2000/01/rdf-schema#label> "Mende-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002830> <http://www.w3.org/2000/01/rdf-schema#label> "Georgisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005639> <http://www.w3.org/2000/01/rdf-schema#label> "Rundi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1007718> <http://www.w3.org/2000/01/rdf-schema#label> "Zenaga"@de .
-<http://purl.obolibrary.org/obo/LANG_1004306> <http://www.w3.org/2000/01/rdf-schema#label> "multilingue"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000453> <http://www.w3.org/2000/01/rdf-schema#label> "awadhi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002211> <http://www.w3.org/2000/01/rdf-schema#label> "grebo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002585> <http://www.w3.org/2000/01/rdf-schema#label> "ilocano"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003762> <http://www.w3.org/2000/01/rdf-schema#label> "ganda"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004306> <http://www.w3.org/2000/01/rdf-schema#label> "Mehrere Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1000350> <http://www.w3.org/2000/01/rdf-schema#label> "aragonais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005717> <http://www.w3.org/2000/01/rdf-schema#label> "Schottisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001397> <http://www.w3.org/2000/01/rdf-schema#label> "Kaschubisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003756> <http://www.w3.org/2000/01/rdf-schema#label> "Lulua-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001478> <http://www.w3.org/2000/01/rdf-schema#label> "Dakota-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004018> <http://www.w3.org/2000/01/rdf-schema#label> "Einzelne andere Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1007861> <http://www.w3.org/2000/01/rdf-schema#label> "zaza | dimili | dimli | kirdki | kirmanjki | zazaki"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001111> <http://www.w3.org/2000/01/rdf-schema#label> "Bilin-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006560> <http://www.w3.org/2000/01/rdf-schema#label> "Tswana-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003173> <http://www.w3.org/2000/01/rdf-schema#label> "kom"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005918> <http://www.w3.org/2000/01/rdf-schema#label> "Inarisaamisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003462> <http://www.w3.org/2000/01/rdf-schema#label> "jud\u00E9o-espagnol"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006286> <http://www.w3.org/2000/01/rdf-schema#label> "tereno"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004052> <http://www.w3.org/2000/01/rdf-schema#label> "mac\u00E9donien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001164> <http://www.w3.org/2000/01/rdf-schema#label> "Karibische Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1003022> <http://www.w3.org/2000/01/rdf-schema#label> "Rwanda-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1007850> <http://www.w3.org/2000/01/rdf-schema#label> "Zulu-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005331> <http://www.w3.org/2000/01/rdf-schema#label> "Portugiesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004758> <http://www.w3.org/2000/01/rdf-schema#label> "norv\u00E9gien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005670> <http://www.w3.org/2000/01/rdf-schema#label> "Sanskrit"@de .
-<http://purl.obolibrary.org/obo/LANG_1003808> <http://www.w3.org/2000/01/rdf-schema#label> "Khotta"@de .
-<http://purl.obolibrary.org/obo/LANG_1005901> <http://www.w3.org/2000/01/rdf-schema#label> "slov\u00E8ne"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003174> <http://www.w3.org/2000/01/rdf-schema#label> "Kongo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001969> <http://www.w3.org/2000/01/rdf-schema#label> "frioulan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002350> <http://www.w3.org/2000/01/rdf-schema#label> "Hebr\u00E4isch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000174> <http://www.w3.org/2000/01/rdf-schema#label> "a\u00EFnou"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006712> <http://www.w3.org/2000/01/rdf-schema#label> "Udmurtisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006608> <http://www.w3.org/2000/01/rdf-schema#label> "turkm\u00E8ne"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003555> <http://www.w3.org/2000/01/rdf-schema#label> "lezghien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003809> <http://www.w3.org/2000/01/rdf-schema#label> "Marschallesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001753> <http://www.w3.org/2000/01/rdf-schema#label> "dioula"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001915> <http://www.w3.org/2000/01/rdf-schema#label> "finnois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006781> <http://www.w3.org/2000/01/rdf-schema#label> "ourdou"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003600> <http://www.w3.org/2000/01/rdf-schema#label> "Litauisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004162> <http://www.w3.org/2000/01/rdf-schema#label> "mor\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003178> <http://www.w3.org/2000/01/rdf-schema#label> "Koreanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003329> <http://www.w3.org/2000/01/rdf-schema#label> "Kutenai-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002531> <http://www.w3.org/2000/01/rdf-schema#label> "Ido"@de .
-<http://purl.obolibrary.org/obo/LANG_1000356> <http://www.w3.org/2000/01/rdf-schema#label> "Arauka-Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1002219> <http://www.w3.org/2000/01/rdf-schema#label> "guarani"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005669> <http://www.w3.org/2000/01/rdf-schema#label> "samaritain"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000519> <http://www.w3.org/2000/01/rdf-schema#label> "Baschkirisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002580> <http://www.w3.org/2000/01/rdf-schema#label> "interlingue"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001248> <http://www.w3.org/2000/01/rdf-schema#label> "Cherokee-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005611> <http://www.w3.org/2000/01/rdf-schema#label> "tsigane"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005757> <http://www.w3.org/2000/01/rdf-schema#label> "Selkupisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001554> <http://www.w3.org/2000/01/rdf-schema#label> "dogrib"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007028> <http://www.w3.org/2000/01/rdf-schema#label> "wallon"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002239> <http://www.w3.org/2000/01/rdf-schema#label> "suisse al\u00E9manique | al\u00E9manique | alsacien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001232> <http://www.w3.org/2000/01/rdf-schema#label> "chamorro"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000053> <http://www.w3.org/2000/01/rdf-schema#label> "Acholi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003322> <http://www.w3.org/2000/01/rdf-schema#label> "Kum\u00FCkisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005906> <http://www.w3.org/2000/01/rdf-schema#label> "sami du Sud"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001376> <http://www.w3.org/2000/01/rdf-schema#label> "cree"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002190> <http://www.w3.org/2000/01/rdf-schema#label> "gond"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001238> <http://www.w3.org/2000/01/rdf-schema#label> "djaghata\u00EF"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004676> <http://www.w3.org/2000/01/rdf-schema#label> "Niederl\u00E4ndisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002531> <http://www.w3.org/2000/01/rdf-schema#label> "ido"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002814> <http://www.w3.org/2000/01/rdf-schema#label> "kachin | jingpho"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001379> <http://www.w3.org/2000/01/rdf-schema#label> "Krimtatarisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003881> <http://www.w3.org/2000/01/rdf-schema#label> "Mokscha-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000089> <http://www.w3.org/2000/01/rdf-schema#label> "Adygisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004125> <http://www.w3.org/2000/01/rdf-schema#label> "Mandschurisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004732> <http://www.w3.org/2000/01/rdf-schema#label> "norv\u00E9gien nynorsk | nynorsk, norv\u00E9gien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005822> <http://www.w3.org/2000/01/rdf-schema#label> "Sidamo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003190> <http://www.w3.org/2000/01/rdf-schema#label> "Kpelle-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001777> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C4gyptisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005666> <http://www.w3.org/2000/01/rdf-schema#label> "iakoute"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002783> <http://www.w3.org/2000/01/rdf-schema#label> "jud\u00E9o-arabe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001950> <http://www.w3.org/2000/01/rdf-schema#label> "Nordfriesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000246> <http://www.w3.org/2000/01/rdf-schema#label> "Amharisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002840> <http://www.w3.org/2000/01/rdf-schema#label> "kabardien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002598> <http://www.w3.org/2000/01/rdf-schema#label> "interlingua (langue auxiliaire internationale)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000345> <http://www.w3.org/2000/01/rdf-schema#label> "Arabisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004391> <http://www.w3.org/2000/01/rdf-schema#label> "birman"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000871> <http://www.w3.org/2000/01/rdf-schema#label> "bosniaque"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003310> <http://www.w3.org/2000/01/rdf-schema#label> "Kwanyama-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000622> <http://www.w3.org/2000/01/rdf-schema#label> "Bengali"@de .
-<http://purl.obolibrary.org/obo/LANG_1006404> <http://www.w3.org/2000/01/rdf-schema#label> "Klingonisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001914> <http://www.w3.org/2000/01/rdf-schema#label> "Pilipino"@de .
-<http://purl.obolibrary.org/obo/LANG_1005919> <http://www.w3.org/2000/01/rdf-schema#label> "samoan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003600> <http://www.w3.org/2000/01/rdf-schema#label> "lituanien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001773> <http://www.w3.org/2000/01/rdf-schema#label> "Efik"@de .
-<http://purl.obolibrary.org/obo/LANG_1006186> <http://www.w3.org/2000/01/rdf-schema#label> "tamoul"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003179> <http://www.w3.org/2000/01/rdf-schema#label> "Kosraeanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006182> <http://www.w3.org/2000/01/rdf-schema#label> "tahitien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002997> <http://www.w3.org/2000/01/rdf-schema#label> "Sakisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004872> <http://www.w3.org/2000/01/rdf-schema#label> "Alt-Newari"@de .
-<http://purl.obolibrary.org/obo/LANG_1007152> <http://www.w3.org/2000/01/rdf-schema#label> "kalmouk | o\u00EFrat"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001724> <http://www.w3.org/2000/01/rdf-schema#label> "n\u00E9erlandais moyen (ca. 1050-1350)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005059> <http://www.w3.org/2000/01/rdf-schema#label> "Osage-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001783> <http://www.w3.org/2000/01/rdf-schema#label> "ekajuk"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001481> <http://www.w3.org/2000/01/rdf-schema#label> "danois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002148> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelhochdeutsch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005112> <http://www.w3.org/2000/01/rdf-schema#label> "papiamento"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006058> <http://www.w3.org/2000/01/rdf-schema#label> "Swasi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002334> <http://www.w3.org/2000/01/rdf-schema#label> "Hawaiisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006935> <http://www.w3.org/2000/01/rdf-schema#label> "washo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004627> <http://www.w3.org/2000/01/rdf-schema#label> "niu\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003329> <http://www.w3.org/2000/01/rdf-schema#label> "kutenai"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001873> <http://www.w3.org/2000/01/rdf-schema#label> "basque"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003239> <http://www.w3.org/2000/01/rdf-schema#label> "karatchai balkar"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002702> <http://www.w3.org/2000/01/rdf-schema#label> "Lojban"@de .
-<http://purl.obolibrary.org/obo/LANG_1000522> <http://www.w3.org/2000/01/rdf-schema#label> "Balinesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001006> <http://www.w3.org/2000/01/rdf-schema#label> "Bugi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001660> <http://www.w3.org/2000/01/rdf-schema#label> "Dogri"@de .
-<http://purl.obolibrary.org/obo/LANG_1006028> <http://www.w3.org/2000/01/rdf-schema#label> "s\u00E9r\u00E8re"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003019> <http://www.w3.org/2000/01/rdf-schema#label> "kikuyu"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000856> <http://www.w3.org/2000/01/rdf-schema#label> "Tibetisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006831> <http://www.w3.org/2000/01/rdf-schema#label> "Vai-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001532> <http://www.w3.org/2000/01/rdf-schema#label> "delaware"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005509> <http://www.w3.org/2000/01/rdf-schema#label> "Rajasthani"@de .
-<http://purl.obolibrary.org/obo/LANG_1005775> <http://www.w3.org/2000/01/rdf-schema#label> "Altirisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001463> <http://www.w3.org/2000/01/rdf-schema#label> "gallois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004895> <http://www.w3.org/2000/01/rdf-schema#label> "chichewa | chewa | nyanja"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003473> <http://www.w3.org/2000/01/rdf-schema#label> "Laotisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006934> <http://www.w3.org/2000/01/rdf-schema#label> "Waray"@de .
-<http://purl.obolibrary.org/obo/LANG_1002196> <http://www.w3.org/2000/01/rdf-schema#label> "Gotisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000345> <http://www.w3.org/2000/01/rdf-schema#label> "arabe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005931> <http://www.w3.org/2000/01/rdf-schema#label> "Schona-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004407> <http://www.w3.org/2000/01/rdf-schema#label> "Erza-Mordwinisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005666> <http://www.w3.org/2000/01/rdf-schema#label> "Jakutisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004923> <http://www.w3.org/2000/01/rdf-schema#label> "nzema"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004079> <http://www.w3.org/2000/01/rdf-schema#label> "Malagassi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002984> <http://www.w3.org/2000/01/rdf-schema#label> "khasi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002251> <http://www.w3.org/2000/01/rdf-schema#label> "Gujarati-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001254> <http://www.w3.org/2000/01/rdf-schema#label> "Cheyenne-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003480> <http://www.w3.org/2000/01/rdf-schema#label> "letton"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002702> <http://www.w3.org/2000/01/rdf-schema#label> "lojban"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000716> <http://www.w3.org/2000/01/rdf-schema#label> "Bikol-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004358> <http://www.w3.org/2000/01/rdf-schema#label> "Marwari"@de .
-<http://purl.obolibrary.org/obo/LANG_1002251> <http://www.w3.org/2000/01/rdf-schema#label> "goudjrati"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005822> <http://www.w3.org/2000/01/rdf-schema#label> "sidamo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001714> <http://www.w3.org/2000/01/rdf-schema#label> "douala"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004908> <http://www.w3.org/2000/01/rdf-schema#label> "Nkole-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001233> <http://www.w3.org/2000/01/rdf-schema#label> "Chibcha-Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1000051> <http://www.w3.org/2000/01/rdf-schema#label> "Aceh-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003113> <http://www.w3.org/2000/01/rdf-schema#label> "kimbundu"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001111> <http://www.w3.org/2000/01/rdf-schema#label> "blin | bilen"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005832> <http://www.w3.org/2000/01/rdf-schema#label> "Singhalesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004152> <http://www.w3.org/2000/01/rdf-schema#label> "mohawk"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005966> <http://www.w3.org/2000/01/rdf-schema#label> "somali"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002779> <http://www.w3.org/2000/01/rdf-schema#label> "japonais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001221> <http://www.w3.org/2000/01/rdf-schema#label> "tch\u00E8que"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001593> <http://www.w3.org/2000/01/rdf-schema#label> "maldivien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005325> <http://www.w3.org/2000/01/rdf-schema#label> "polonais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004454> <http://www.w3.org/2000/01/rdf-schema#label> "Nauruanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004152> <http://www.w3.org/2000/01/rdf-schema#label> "Mohawk-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000520> <http://www.w3.org/2000/01/rdf-schema#label> "baloutchi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007852> <http://www.w3.org/2000/01/rdf-schema#label> "zuni"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006495> <http://www.w3.org/2000/01/rdf-schema#label> "Neumelanesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002995> <http://www.w3.org/2000/01/rdf-schema#label> "Kambodschanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005059> <http://www.w3.org/2000/01/rdf-schema#label> "osage"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004967> <http://www.w3.org/2000/01/rdf-schema#label> "ojibwa"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005064> <http://www.w3.org/2000/01/rdf-schema#label> "oss\u00E8te"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006002> <http://www.w3.org/2000/01/rdf-schema#label> "albanais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007725> <http://www.w3.org/2000/01/rdf-schema#label> "zhuang | chuang"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002812> <http://www.w3.org/2000/01/rdf-schema#label> "Karakalpakisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001799> <http://www.w3.org/2000/01/rdf-schema#label> "Neugriechisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001238> <http://www.w3.org/2000/01/rdf-schema#label> "Tschagataisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001803> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9lamite"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007709> <http://www.w3.org/2000/01/rdf-schema#label> "Bliss-Symbol"@de .
-<http://purl.obolibrary.org/obo/LANG_1003555> <http://www.w3.org/2000/01/rdf-schema#label> "Lesgisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004455> <http://www.w3.org/2000/01/rdf-schema#label> "Navajo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001484> <http://www.w3.org/2000/01/rdf-schema#label> "Darginisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006362> <http://www.w3.org/2000/01/rdf-schema#label> "Tiv-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002375> <http://www.w3.org/2000/01/rdf-schema#label> "hittite"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005517> <http://www.w3.org/2000/01/rdf-schema#label> "Rarotonganisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002812> <http://www.w3.org/2000/01/rdf-schema#label> "karakalpak"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002580> <http://www.w3.org/2000/01/rdf-schema#label> "Interlingue"@de .
-<http://purl.obolibrary.org/obo/LANG_1006182> <http://www.w3.org/2000/01/rdf-schema#label> "Tahitisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006405> <http://www.w3.org/2000/01/rdf-schema#label> "Tlingit-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001539> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005979> <http://www.w3.org/2000/01/rdf-schema#label> "Spanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002131> <http://www.w3.org/2000/01/rdf-schema#label> "Irisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004552> <http://www.w3.org/2000/01/rdf-schema#label> "nepal bhasa | newari"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005891> <http://www.w3.org/2000/01/rdf-schema#label> "slovaque"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005331> <http://www.w3.org/2000/01/rdf-schema#label> "portugais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006324> <http://www.w3.org/2000/01/rdf-schema#label> "Thail\u00E4ndisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1007852> <http://www.w3.org/2000/01/rdf-schema#label> "Zu\u00F1i-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003466> <http://www.w3.org/2000/01/rdf-schema#label> "lahnda"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003471> <http://www.w3.org/2000/01/rdf-schema#label> "lamba"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000620> <http://www.w3.org/2000/01/rdf-schema#label> "Wei\u00DFrussisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002503> <http://www.w3.org/2000/01/rdf-schema#label> "arm\u00E9nien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005068> <http://www.w3.org/2000/01/rdf-schema#label> "turc ottoman (1500-1928)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000927> <http://www.w3.org/2000/01/rdf-schema#label> "braj"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005363> <http://www.w3.org/2000/01/rdf-schema#label> "Altokzitanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001937> <http://www.w3.org/2000/01/rdf-schema#label> "Fon-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000220> <http://www.w3.org/2000/01/rdf-schema#label> "al\u00E9oute"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001913> <http://www.w3.org/2000/01/rdf-schema#label> "Fidschi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003815> <http://www.w3.org/2000/01/rdf-schema#label> "Malinke-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002602> <http://www.w3.org/2000/01/rdf-schema#label> "Inguschisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005914> <http://www.w3.org/2000/01/rdf-schema#label> "Lulesaamisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002508> <http://www.w3.org/2000/01/rdf-schema#label> "Iban-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004002> <http://www.w3.org/2000/01/rdf-schema#label> "Micmac-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004162> <http://www.w3.org/2000/01/rdf-schema#label> "Mossi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006309> <http://www.w3.org/2000/01/rdf-schema#label> "Tadschikisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005940> <http://www.w3.org/2000/01/rdf-schema#label> "sonink\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001248> <http://www.w3.org/2000/01/rdf-schema#label> "cherokee"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001245> <http://www.w3.org/2000/01/rdf-schema#label> "choctaw"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000271> <http://www.w3.org/2000/01/rdf-schema#label> "anglo-saxon (ca.450-1100)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001379> <http://www.w3.org/2000/01/rdf-schema#label> "tatar de Crim\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006716> <http://www.w3.org/2000/01/rdf-schema#label> "Ugaritisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1007074> <http://www.w3.org/2000/01/rdf-schema#label> "wolof"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006905> <http://www.w3.org/2000/01/rdf-schema#label> "Wotisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003253> <http://www.w3.org/2000/01/rdf-schema#label> "kurukh"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001000> <http://www.w3.org/2000/01/rdf-schema#label> "bouriate"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003757> <http://www.w3.org/2000/01/rdf-schema#label> "luba-katanga"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004470> <http://www.w3.org/2000/01/rdf-schema#label> "Ndebele-Sprache (Transvaal)"@de .
-<http://purl.obolibrary.org/obo/LANG_1005176> <http://www.w3.org/2000/01/rdf-schema#label> "Altpersisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001878> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9wondo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002455> <http://www.w3.org/2000/01/rdf-schema#label> "croate"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002404> <http://www.w3.org/2000/01/rdf-schema#label> "Hiri-Motu"@de .
-<http://purl.obolibrary.org/obo/LANG_1000347> <http://www.w3.org/2000/01/rdf-schema#label> "Aram\u00E4isch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001783> <http://www.w3.org/2000/01/rdf-schema#label> "Ekajuk"@de .
-<http://purl.obolibrary.org/obo/LANG_1006015> <http://www.w3.org/2000/01/rdf-schema#label> "sarde"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000202> <http://www.w3.org/2000/01/rdf-schema#label> "Akkadisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002331> <http://www.w3.org/2000/01/rdf-schema#label> "ha\u00EFtien | cr\u00E9ole ha\u00EFtien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002637> <http://www.w3.org/2000/01/rdf-schema#label> "Isl\u00E4ndisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000526> <http://www.w3.org/2000/01/rdf-schema#label> "basa"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002813> <http://www.w3.org/2000/01/rdf-schema#label> "kabyle"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002829> <http://www.w3.org/2000/01/rdf-schema#label> "Kaschmiri"@de .
-<http://purl.obolibrary.org/obo/LANG_1001243> <http://www.w3.org/2000/01/rdf-schema#label> "mari"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000780> <http://www.w3.org/2000/01/rdf-schema#label> "blackfoot"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001166> <http://www.w3.org/2000/01/rdf-schema#label> "Katalanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001760> <http://www.w3.org/2000/01/rdf-schema#label> "Dzongkha"@de .
-<http://purl.obolibrary.org/obo/LANG_1002071> <http://www.w3.org/2000/01/rdf-schema#label> "Alt\u00E4thiopisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003174> <http://www.w3.org/2000/01/rdf-schema#label> "kongo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001350> <http://www.w3.org/2000/01/rdf-schema#label> "Koptisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001826> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelenglisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005204> <http://www.w3.org/2000/01/rdf-schema#label> "ph\u00E9nicien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001397> <http://www.w3.org/2000/01/rdf-schema#label> "kachoube"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000280> <http://www.w3.org/2000/01/rdf-schema#label> "Anga-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006096> <http://www.w3.org/2000/01/rdf-schema#label> "soussou"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000358> <http://www.w3.org/2000/01/rdf-schema#label> "arapaho"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002320> <http://www.w3.org/2000/01/rdf-schema#label> "Haida-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1007718> <http://www.w3.org/2000/01/rdf-schema#label> "zenaga"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001534> <http://www.w3.org/2000/01/rdf-schema#label> "Slave-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002404> <http://www.w3.org/2000/01/rdf-schema#label> "hiri motu"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001593> <http://www.w3.org/2000/01/rdf-schema#label> "Maledivisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002132> <http://www.w3.org/2000/01/rdf-schema#label> "galicien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001826> <http://www.w3.org/2000/01/rdf-schema#label> "anglais moyen (1100-1500)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006150> <http://www.w3.org/2000/01/rdf-schema#label> "Syrisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002332> <http://www.w3.org/2000/01/rdf-schema#label> "haoussa"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005972> <http://www.w3.org/2000/01/rdf-schema#label> "S\u00FCd-Sotho-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001859> <http://www.w3.org/2000/01/rdf-schema#label> "Estnisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002403> <http://www.w3.org/2000/01/rdf-schema#label> "Miao-Sprachen"@de .
-<http://purl.obolibrary.org/obo/LANG_1001951> <http://www.w3.org/2000/01/rdf-schema#label> "Ostfriesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006028> <http://www.w3.org/2000/01/rdf-schema#label> "Serer-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002557> <http://www.w3.org/2000/01/rdf-schema#label> "Lalo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002598> <http://www.w3.org/2000/01/rdf-schema#label> "Interlingua"@de .
-<http://purl.obolibrary.org/obo/LANG_1006280> <http://www.w3.org/2000/01/rdf-schema#label> "Telugu-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002693> <http://www.w3.org/2000/01/rdf-schema#label> "Javanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002483> <http://www.w3.org/2000/01/rdf-schema#label> "hupa"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002616> <http://www.w3.org/2000/01/rdf-schema#label> "Inupik"@de .
-<http://purl.obolibrary.org/obo/LANG_1004748> <http://www.w3.org/2000/01/rdf-schema#label> "Nogaisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004909> <http://www.w3.org/2000/01/rdf-schema#label> "Nyoro-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002403> <http://www.w3.org/2000/01/rdf-schema#label> "hmong"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004872> <http://www.w3.org/2000/01/rdf-schema#label> "newari classique"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001937> <http://www.w3.org/2000/01/rdf-schema#label> "fon"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006114> <http://www.w3.org/2000/01/rdf-schema#label> "Schwedisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001350> <http://www.w3.org/2000/01/rdf-schema#label> "copte"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006610> <http://www.w3.org/2000/01/rdf-schema#label> "tumbuka"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005910> <http://www.w3.org/2000/01/rdf-schema#label> "Nordsaamisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005515> <http://www.w3.org/2000/01/rdf-schema#label> "rapanui"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005068> <http://www.w3.org/2000/01/rdf-schema#label> "Osmanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003247> <http://www.w3.org/2000/01/rdf-schema#label> "car\u00E9lien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005639> <http://www.w3.org/2000/01/rdf-schema#label> "rundi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001352> <http://www.w3.org/2000/01/rdf-schema#label> "cornique"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000111> <http://www.w3.org/2000/01/rdf-schema#label> "afrihili"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001330> <http://www.w3.org/2000/01/rdf-schema#label> "Montenegrinisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006093> <http://www.w3.org/2000/01/rdf-schema#label> "Sundanesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000716> <http://www.w3.org/2000/01/rdf-schema#label> "bikol"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004545> <http://www.w3.org/2000/01/rdf-schema#label> "Nepali"@de .
-<http://purl.obolibrary.org/obo/LANG_1000220> <http://www.w3.org/2000/01/rdf-schema#label> "Aleutisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002517> <http://www.w3.org/2000/01/rdf-schema#label> "igbo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003171> <http://www.w3.org/2000/01/rdf-schema#label> "konkani"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000015> <http://www.w3.org/2000/01/rdf-schema#label> "Danakil-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006686> <http://www.w3.org/2000/01/rdf-schema#label> "touva"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006100> <http://www.w3.org/2000/01/rdf-schema#label> "Sumerisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000621> <http://www.w3.org/2000/01/rdf-schema#label> "Bemba-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002211> <http://www.w3.org/2000/01/rdf-schema#label> "Grebo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001586> <http://www.w3.org/2000/01/rdf-schema#label> "Dinka-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000386> <http://www.w3.org/2000/01/rdf-schema#label> "asturien | bable | l\u00E9onais | asturol\u00E9onais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003818> <http://www.w3.org/2000/01/rdf-schema#label> "Massai-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000719> <http://www.w3.org/2000/01/rdf-schema#label> "Edo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006286> <http://www.w3.org/2000/01/rdf-schema#label> "Tereno-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005104> <http://www.w3.org/2000/01/rdf-schema#label> "Pangasinan-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002483> <http://www.w3.org/2000/01/rdf-schema#label> "Hupa-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004228> <http://www.w3.org/2000/01/rdf-schema#label> "maori"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000442> <http://www.w3.org/2000/01/rdf-schema#label> "Avestisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005363> <http://www.w3.org/2000/01/rdf-schema#label> "proven\u00E7al ancien (jusqu'\u00E0 1500) | occitan ancien (jusqu'\u00E0 1500)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005716> <http://www.w3.org/2000/01/rdf-schema#label> "Sizilianisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002000> <http://www.w3.org/2000/01/rdf-schema#label> "gayo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002780> <http://www.w3.org/2000/01/rdf-schema#label> "J\u00FCdisch-Persisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000618> <http://www.w3.org/2000/01/rdf-schema#label> "Bedauye"@de .
-<http://purl.obolibrary.org/obo/LANG_1001877> <http://www.w3.org/2000/01/rdf-schema#label> "Ewe-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001947> <http://www.w3.org/2000/01/rdf-schema#label> "Altfranz\u00F6sisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006903> <http://www.w3.org/2000/01/rdf-schema#label> "volap\u00FCk"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004018> <http://www.w3.org/2000/01/rdf-schema#label> "langues non cod\u00E9es"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002824> <http://www.w3.org/2000/01/rdf-schema#label> "Kamba-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005931> <http://www.w3.org/2000/01/rdf-schema#label> "shona"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000519> <http://www.w3.org/2000/01/rdf-schema#label> "bachkir"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002508> <http://www.w3.org/2000/01/rdf-schema#label> "iban"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001859> <http://www.w3.org/2000/01/rdf-schema#label> "estonien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003473> <http://www.w3.org/2000/01/rdf-schema#label> "lao"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004627> <http://www.w3.org/2000/01/rdf-schema#label> "Niue-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005807> <http://www.w3.org/2000/01/rdf-schema#label> "chan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001773> <http://www.w3.org/2000/01/rdf-schema#label> "efik"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001660> <http://www.w3.org/2000/01/rdf-schema#label> "dogri"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005108> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelpersisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005716> <http://www.w3.org/2000/01/rdf-schema#label> "sicilien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003327> <http://www.w3.org/2000/01/rdf-schema#label> "Kurdisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006712> <http://www.w3.org/2000/01/rdf-schema#label> "oudmourte"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005419> <http://www.w3.org/2000/01/rdf-schema#label> "Paschtu"@de .
-<http://purl.obolibrary.org/obo/LANG_1006002> <http://www.w3.org/2000/01/rdf-schema#label> "Albanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006186> <http://www.w3.org/2000/01/rdf-schema#label> "Tamil"@de .
-<http://purl.obolibrary.org/obo/LANG_1001539> <http://www.w3.org/2000/01/rdf-schema#label> "allemand"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006310> <http://www.w3.org/2000/01/rdf-schema#label> "tagalog"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002833> <http://www.w3.org/2000/01/rdf-schema#label> "kawi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004676> <http://www.w3.org/2000/01/rdf-schema#label> "n\u00E9erlandais | flamand"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002517> <http://www.w3.org/2000/01/rdf-schema#label> "Ibo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1007730> <http://www.w3.org/2000/01/rdf-schema#label> "chinois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006024> <http://www.w3.org/2000/01/rdf-schema#label> "Sranantongo"@de .
-<http://purl.obolibrary.org/obo/LANG_1001915> <http://www.w3.org/2000/01/rdf-schema#label> "Finnisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003698> <http://www.w3.org/2000/01/rdf-schema#label> "mongo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000356> <http://www.w3.org/2000/01/rdf-schema#label> "mapudungun | mapuche | mapuce"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003773> <http://www.w3.org/2000/01/rdf-schema#label> "lushai"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006643> <http://www.w3.org/2000/01/rdf-schema#label> "twi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001330> <http://www.w3.org/2000/01/rdf-schema#label> "mont\u00E9n\u00E9grin"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004246> <http://www.w3.org/2000/01/rdf-schema#label> "Malaiisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002616> <http://www.w3.org/2000/01/rdf-schema#label> "inupiaq"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006614> <http://www.w3.org/2000/01/rdf-schema#label> "turc"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000931> <http://www.w3.org/2000/01/rdf-schema#label> "breton"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002194> <http://www.w3.org/2000/01/rdf-schema#label> "gorontalo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005919> <http://www.w3.org/2000/01/rdf-schema#label> "Samoanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006753> <http://www.w3.org/2000/01/rdf-schema#label> "Mbundu-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006781> <http://www.w3.org/2000/01/rdf-schema#label> "Urdu"@de .
-<http://purl.obolibrary.org/obo/LANG_1001166> <http://www.w3.org/2000/01/rdf-schema#label> "catalan | valencien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006281> <http://www.w3.org/2000/01/rdf-schema#label> "temne"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003478> <http://www.w3.org/2000/01/rdf-schema#label> "latin"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003810> <http://www.w3.org/2000/01/rdf-schema#label> "Maithili"@de .
-<http://purl.obolibrary.org/obo/LANG_1006903> <http://www.w3.org/2000/01/rdf-schema#label> "Volap\u00FCk"@de .
-<http://purl.obolibrary.org/obo/LANG_1004755> <http://www.w3.org/2000/01/rdf-schema#label> "norrois, vieux"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007152> <http://www.w3.org/2000/01/rdf-schema#label> "Kalm\u00FCckisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006347> <http://www.w3.org/2000/01/rdf-schema#label> "tigr\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002600> <http://www.w3.org/2000/01/rdf-schema#label> "indon\u00E9sien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003247> <http://www.w3.org/2000/01/rdf-schema#label> "Karelisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003951> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelirisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005891> <http://www.w3.org/2000/01/rdf-schema#label> "Slowakisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003951> <http://www.w3.org/2000/01/rdf-schema#label> "irlandais moyen (900-1200)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000379> <http://www.w3.org/2000/01/rdf-schema#label> "Assamesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004092> <http://www.w3.org/2000/01/rdf-schema#label> "maltais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002375> <http://www.w3.org/2000/01/rdf-schema#label> "Hethitisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002332> <http://www.w3.org/2000/01/rdf-schema#label> "Haussa-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001896> <http://www.w3.org/2000/01/rdf-schema#label> "F\u00E4r\u00F6isch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003768> <http://www.w3.org/2000/01/rdf-schema#label> "Lunda-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002814> <http://www.w3.org/2000/01/rdf-schema#label> "Kachin-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006114> <http://www.w3.org/2000/01/rdf-schema#label> "su\u00E9dois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004228> <http://www.w3.org/2000/01/rdf-schema#label> "Maori-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001953> <http://www.w3.org/2000/01/rdf-schema#label> "frison occidental"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005972> <http://www.w3.org/2000/01/rdf-schema#label> "sotho du Sud"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004545> <http://www.w3.org/2000/01/rdf-schema#label> "n\u00E9palais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000032> <http://www.w3.org/2000/01/rdf-schema#label> "abkhaze"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002997> <http://www.w3.org/2000/01/rdf-schema#label> "khotanais | sakan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006362> <http://www.w3.org/2000/01/rdf-schema#label> "tiv"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003022> <http://www.w3.org/2000/01/rdf-schema#label> "rwanda"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001250> <http://www.w3.org/2000/01/rdf-schema#label> "Kirchenslawisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005675> <http://www.w3.org/2000/01/rdf-schema#label> "santal"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004454> <http://www.w3.org/2000/01/rdf-schema#label> "nauruan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001969> <http://www.w3.org/2000/01/rdf-schema#label> "Friulisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001947> <http://www.w3.org/2000/01/rdf-schema#label> "fran\u00E7ais ancien (842-ca.1400)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006857> <http://www.w3.org/2000/01/rdf-schema#label> "Vietnamesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002071> <http://www.w3.org/2000/01/rdf-schema#label> "gu\u00E8ze"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007462> <http://www.w3.org/2000/01/rdf-schema#label> "yapois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005117> <http://www.w3.org/2000/01/rdf-schema#label> "palau"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001753> <http://www.w3.org/2000/01/rdf-schema#label> "Dyula-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003881> <http://www.w3.org/2000/01/rdf-schema#label> "moksa"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006026> <http://www.w3.org/2000/01/rdf-schema#label> "Serbisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001244> <http://www.w3.org/2000/01/rdf-schema#label> "chinook, jargon"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006358> <http://www.w3.org/2000/01/rdf-schema#label> "tigrigna"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004131> <http://www.w3.org/2000/01/rdf-schema#label> "Meithei-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002481> <http://www.w3.org/2000/01/rdf-schema#label> "hongrois"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001900> <http://www.w3.org/2000/01/rdf-schema#label> "fanti"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004407> <http://www.w3.org/2000/01/rdf-schema#label> "erza"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003478> <http://www.w3.org/2000/01/rdf-schema#label> "Latein"@de .
-<http://purl.obolibrary.org/obo/LANG_1002320> <http://www.w3.org/2000/01/rdf-schema#label> "haida"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004743> <http://www.w3.org/2000/01/rdf-schema#label> "norv\u00E9gien bokm\u00E5l"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007730> <http://www.w3.org/2000/01/rdf-schema#label> "Chinesisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006928> <http://www.w3.org/2000/01/rdf-schema#label> "Walamo-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002503> <http://www.w3.org/2000/01/rdf-schema#label> "Armenisch"@de .
 <http://purl.obolibrary.org/obo/LANG_1000489> <http://www.w3.org/2000/01/rdf-schema#label> "aymara"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006555> <http://www.w3.org/2000/01/rdf-schema#label> "tsimshian"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001837> <http://www.w3.org/2000/01/rdf-schema#label> "Esperanto"@de .
-<http://purl.obolibrary.org/obo/LANG_1006561> <http://www.w3.org/2000/01/rdf-schema#label> "Tsonga-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000521> <http://www.w3.org/2000/01/rdf-schema#label> "bambara"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003769> <http://www.w3.org/2000/01/rdf-schema#label> "luo (Kenya et Tanzanie)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006766> <http://www.w3.org/2000/01/rdf-schema#label> "Nicht zu entscheiden"@de .
-<http://purl.obolibrary.org/obo/LANG_1006735> <http://www.w3.org/2000/01/rdf-schema#label> "Ukrainisch"@de .
 <http://purl.obolibrary.org/obo/LANG_1002219> <http://www.w3.org/2000/01/rdf-schema#label> "Guaran\u00ED-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001246> <http://www.w3.org/2000/01/rdf-schema#label> "chipewyan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004449> <http://www.w3.org/2000/01/rdf-schema#label> "Neapel / Mundart"@de .
-<http://purl.obolibrary.org/obo/LANG_1005641> <http://www.w3.org/2000/01/rdf-schema#label> "aroumain | mac\u00E9do-roumain"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004907> <http://www.w3.org/2000/01/rdf-schema#label> "Nyamwezi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002334> <http://www.w3.org/2000/01/rdf-schema#label> "hawa\u00EFen"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001951> <http://www.w3.org/2000/01/rdf-schema#label> "frison oriental"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001760> <http://www.w3.org/2000/01/rdf-schema#label> "dzongkha"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003817> <http://www.w3.org/2000/01/rdf-schema#label> "marathe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005109> <http://www.w3.org/2000/01/rdf-schema#label> "Pampanggan-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004609> <http://www.w3.org/2000/01/rdf-schema#label> "nias"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004815> <http://www.w3.org/2000/01/rdf-schema#label> "Pedi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002212> <http://www.w3.org/2000/01/rdf-schema#label> "grec ancien (jusqu'\u00E0 1453)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000439> <http://www.w3.org/2000/01/rdf-schema#label> "Awarisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006026> <http://www.w3.org/2000/01/rdf-schema#label> "serbe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005960> <http://www.w3.org/2000/01/rdf-schema#label> "sogdien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006092> <http://www.w3.org/2000/01/rdf-schema#label> "Sukuma-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1000379> <http://www.w3.org/2000/01/rdf-schema#label> "assamais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002813> <http://www.w3.org/2000/01/rdf-schema#label> "Kabylisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002823> <http://www.w3.org/2000/01/rdf-schema#label> "groenlandais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005327> <http://www.w3.org/2000/01/rdf-schema#label> "Ponapeanisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004131> <http://www.w3.org/2000/01/rdf-schema#label> "manipuri"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003480> <http://www.w3.org/2000/01/rdf-schema#label> "Lettisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000503> <http://www.w3.org/2000/01/rdf-schema#label> "az\u00E9ri"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001554> <http://www.w3.org/2000/01/rdf-schema#label> "Dogrib-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006472> <http://www.w3.org/2000/01/rdf-schema#label> "Tonga (Bantusprache, Sambia)"@de .
-<http://purl.obolibrary.org/obo/LANG_1000358> <http://www.w3.org/2000/01/rdf-schema#label> "Arapaho-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001236> <http://www.w3.org/2000/01/rdf-schema#label> "tch\u00E9tch\u00E8ne"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003808> <http://www.w3.org/2000/01/rdf-schema#label> "magahi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006495> <http://www.w3.org/2000/01/rdf-schema#label> "tok pisin"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006766> <http://www.w3.org/2000/01/rdf-schema#label> "ind\u00E9termin\u00E9e"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006724> <http://www.w3.org/2000/01/rdf-schema#label> "ou\u00EFgour"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004908> <http://www.w3.org/2000/01/rdf-schema#label> "nyankol\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000724> <http://www.w3.org/2000/01/rdf-schema#label> "Beach-la-mar"@de .
-<http://purl.obolibrary.org/obo/LANG_1006193> <http://www.w3.org/2000/01/rdf-schema#label> "tatar"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005612> <http://www.w3.org/2000/01/rdf-schema#label> "Rum\u00E4nisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006560> <http://www.w3.org/2000/01/rdf-schema#label> "tswana"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004944> <http://www.w3.org/2000/01/rdf-schema#label> "occitan (apr\u00E8s 1500)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001352> <http://www.w3.org/2000/01/rdf-schema#label> "Kornisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000051> <http://www.w3.org/2000/01/rdf-schema#label> "aceh"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002503> <http://www.w3.org/2000/01/rdf-schema#label> "arm\u00E9nien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001826> <http://www.w3.org/2000/01/rdf-schema#label> "anglais moyen (1100-1500)"@fr .
 <http://purl.obolibrary.org/obo/LANG_1001151> <http://www.w3.org/2000/01/rdf-schema#label> "caddo"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006324> <http://www.w3.org/2000/01/rdf-schema#label> "tha\u00EF"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002557> <http://www.w3.org/2000/01/rdf-schema#label> "yi de Sichuan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001965> <http://www.w3.org/2000/01/rdf-schema#label> "peul"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002780> <http://www.w3.org/2000/01/rdf-schema#label> "jud\u00E9o-persan"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000386> <http://www.w3.org/2000/01/rdf-schema#label> "Asturisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001803> <http://www.w3.org/2000/01/rdf-schema#label> "Elamisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004509> <http://www.w3.org/2000/01/rdf-schema#label> "Ndebele-Sprache (Simbabwe)"@de .
-<http://purl.obolibrary.org/obo/LANG_1001000> <http://www.w3.org/2000/01/rdf-schema#label> "Burjatisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005046> <http://www.w3.org/2000/01/rdf-schema#label> "Oriya-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1007725> <http://www.w3.org/2000/01/rdf-schema#label> "Zhuang"@de .
-<http://purl.obolibrary.org/obo/LANG_1006015> <http://www.w3.org/2000/01/rdf-schema#label> "Sardisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1006823> <http://www.w3.org/2000/01/rdf-schema#label> "ouszbek"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005108> <http://www.w3.org/2000/01/rdf-schema#label> "pahlavi"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005807> <http://www.w3.org/2000/01/rdf-schema#label> "Schan-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000780> <http://www.w3.org/2000/01/rdf-schema#label> "Blackfoot-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006905> <http://www.w3.org/2000/01/rdf-schema#label> "vote"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007521> <http://www.w3.org/2000/01/rdf-schema#label> "Jiddisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002239> <http://www.w3.org/2000/01/rdf-schema#label> "Schweizerdeutsch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002320> <http://www.w3.org/2000/01/rdf-schema#label> "Haida-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003190> <http://www.w3.org/2000/01/rdf-schema#label> "Kpelle-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001783> <http://www.w3.org/2000/01/rdf-schema#label> "ekajuk"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000453> <http://www.w3.org/2000/01/rdf-schema#label> "awadhi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001753> <http://www.w3.org/2000/01/rdf-schema#label> "dioula"@fr .
 <http://purl.obolibrary.org/obo/LANG_1001873> <http://www.w3.org/2000/01/rdf-schema#label> "Baskisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1001217> <http://www.w3.org/2000/01/rdf-schema#label> "cebuano"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003594> <http://www.w3.org/2000/01/rdf-schema#label> "lingala"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001777> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9gyptien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006831> <http://www.w3.org/2000/01/rdf-schema#label> "va\u00EF"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005674> <http://www.w3.org/2000/01/rdf-schema#label> "Sasak"@de .
-<http://purl.obolibrary.org/obo/LANG_1006686> <http://www.w3.org/2000/01/rdf-schema#label> "Tuwinisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003809> <http://www.w3.org/2000/01/rdf-schema#label> "marshall"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003813> <http://www.w3.org/2000/01/rdf-schema#label> "Malayalam"@de .
-<http://purl.obolibrary.org/obo/LANG_1001011> <http://www.w3.org/2000/01/rdf-schema#label> "bulgare"@fr .
-<http://purl.obolibrary.org/obo/LANG_1003173> <http://www.w3.org/2000/01/rdf-schema#label> "Komi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001532> <http://www.w3.org/2000/01/rdf-schema#label> "Delaware-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1001376> <http://www.w3.org/2000/01/rdf-schema#label> "Cree-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1004758> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1002783> <http://www.w3.org/2000/01/rdf-schema#label> "J\u00FCdisch-Arabisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003594> <http://www.w3.org/2000/01/rdf-schema#label> "Lingala"@de .
+<http://purl.obolibrary.org/obo/LANG_1006114> <http://www.w3.org/2000/01/rdf-schema#label> "su\u00E9dois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005662> <http://www.w3.org/2000/01/rdf-schema#label> "Sandawe-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002814> <http://www.w3.org/2000/01/rdf-schema#label> "kachin | jingpho"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001899> <http://www.w3.org/2000/01/rdf-schema#label> "persan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005669> <http://www.w3.org/2000/01/rdf-schema#label> "Samaritanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004352> <http://www.w3.org/2000/01/rdf-schema#label> "mirandais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000347> <http://www.w3.org/2000/01/rdf-schema#label> "aram\u00E9en d'empire (700-300 BCE)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004743> <http://www.w3.org/2000/01/rdf-schema#label> "norv\u00E9gien bokm\u00E5l"@fr .
 <http://purl.obolibrary.org/obo/LANG_1001691> <http://www.w3.org/2000/01/rdf-schema#label> "Niedersorbisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004157> <http://www.w3.org/2000/01/rdf-schema#label> "mongol"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000696> <http://www.w3.org/2000/01/rdf-schema#label> "bhojpuri"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002128> <http://www.w3.org/2000/01/rdf-schema#label> "ga\u00E9lique | ga\u00E9lique \u00E9cossais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000931> <http://www.w3.org/2000/01/rdf-schema#label> "Bretonisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005972> <http://www.w3.org/2000/01/rdf-schema#label> "sotho du Sud"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003253> <http://www.w3.org/2000/01/rdf-schema#label> "kurukh"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003310> <http://www.w3.org/2000/01/rdf-schema#label> "Kwanyama-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005112> <http://www.w3.org/2000/01/rdf-schema#label> "Papiamento"@de .
+<http://purl.obolibrary.org/obo/LANG_1005509> <http://www.w3.org/2000/01/rdf-schema#label> "Rajasthani"@de .
+<http://purl.obolibrary.org/obo/LANG_1003466> <http://www.w3.org/2000/01/rdf-schema#label> "Lahnda"@de .
+<http://purl.obolibrary.org/obo/LANG_1000522> <http://www.w3.org/2000/01/rdf-schema#label> "balinais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002531> <http://www.w3.org/2000/01/rdf-schema#label> "Ido"@de .
+<http://purl.obolibrary.org/obo/LANG_1002644> <http://www.w3.org/2000/01/rdf-schema#label> "italien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005934> <http://www.w3.org/2000/01/rdf-schema#label> "Sindhi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003773> <http://www.w3.org/2000/01/rdf-schema#label> "lushai"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002836> <http://www.w3.org/2000/01/rdf-schema#label> "kazakh"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004872> <http://www.w3.org/2000/01/rdf-schema#label> "newari classique"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001951> <http://www.w3.org/2000/01/rdf-schema#label> "Ostfriesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000347> <http://www.w3.org/2000/01/rdf-schema#label> "Aram\u00E4isch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002831> <http://www.w3.org/2000/01/rdf-schema#label> "Kanuri-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004609> <http://www.w3.org/2000/01/rdf-schema#label> "Nias-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000716> <http://www.w3.org/2000/01/rdf-schema#label> "Bikol-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004944> <http://www.w3.org/2000/01/rdf-schema#label> "Okzitanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000345> <http://www.w3.org/2000/01/rdf-schema#label> "arabe"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001837> <http://www.w3.org/2000/01/rdf-schema#label> "esp\u00E9ranto"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006823> <http://www.w3.org/2000/01/rdf-schema#label> "Usbekisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002148> <http://www.w3.org/2000/01/rdf-schema#label> "allemand, moyen haut (ca. 1050-1500)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004152> <http://www.w3.org/2000/01/rdf-schema#label> "mohawk"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001915> <http://www.w3.org/2000/01/rdf-schema#label> "Finnisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000356> <http://www.w3.org/2000/01/rdf-schema#label> "Arauka-Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1004246> <http://www.w3.org/2000/01/rdf-schema#label> "malais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006092> <http://www.w3.org/2000/01/rdf-schema#label> "sukuma"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006405> <http://www.w3.org/2000/01/rdf-schema#label> "tlingit"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003178> <http://www.w3.org/2000/01/rdf-schema#label> "Koreanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002833> <http://www.w3.org/2000/01/rdf-schema#label> "Kawi"@de .
+<http://purl.obolibrary.org/obo/LANG_1006026> <http://www.w3.org/2000/01/rdf-schema#label> "serbe"@fr .
 <http://purl.obolibrary.org/obo/LANG_1002286> <http://www.w3.org/2000/01/rdf-schema#label> "Kutchin-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002128> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E4lisch-Schottisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004627> <http://www.w3.org/2000/01/rdf-schema#label> "Niue-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002132> <http://www.w3.org/2000/01/rdf-schema#label> "Galicisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003473> <http://www.w3.org/2000/01/rdf-schema#label> "lao"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004125> <http://www.w3.org/2000/01/rdf-schema#label> "Mandschurisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004092> <http://www.w3.org/2000/01/rdf-schema#label> "maltais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003812> <http://www.w3.org/2000/01/rdf-schema#label> "Makassarisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002616> <http://www.w3.org/2000/01/rdf-schema#label> "inupiaq"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006002> <http://www.w3.org/2000/01/rdf-schema#label> "albanais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005901> <http://www.w3.org/2000/01/rdf-schema#label> "slov\u00E8ne"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000719> <http://www.w3.org/2000/01/rdf-schema#label> "Edo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006280> <http://www.w3.org/2000/01/rdf-schema#label> "t\u00E9lougou"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003593> <http://www.w3.org/2000/01/rdf-schema#label> "limbourgeois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002637> <http://www.w3.org/2000/01/rdf-schema#label> "islandais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000618> <http://www.w3.org/2000/01/rdf-schema#label> "bedja"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002459> <http://www.w3.org/2000/01/rdf-schema#label> "Obersorbisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001877> <http://www.w3.org/2000/01/rdf-schema#label> "Ewe-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005176> <http://www.w3.org/2000/01/rdf-schema#label> "perse, vieux (ca. 600-400 av. J.-C.)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000439> <http://www.w3.org/2000/01/rdf-schema#label> "Awarisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003817> <http://www.w3.org/2000/01/rdf-schema#label> "marathe"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002375> <http://www.w3.org/2000/01/rdf-schema#label> "Hethitisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003462> <http://www.w3.org/2000/01/rdf-schema#label> "jud\u00E9o-espagnol"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000927> <http://www.w3.org/2000/01/rdf-schema#label> "braj"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007152> <http://www.w3.org/2000/01/rdf-schema#label> "Kalm\u00FCckisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006857> <http://www.w3.org/2000/01/rdf-schema#label> "Vietnamesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006735> <http://www.w3.org/2000/01/rdf-schema#label> "ukrainien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001823> <http://www.w3.org/2000/01/rdf-schema#label> "anglais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001000> <http://www.w3.org/2000/01/rdf-schema#label> "bouriate"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006358> <http://www.w3.org/2000/01/rdf-schema#label> "Tigrinja-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004228> <http://www.w3.org/2000/01/rdf-schema#label> "Maori-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005775> <http://www.w3.org/2000/01/rdf-schema#label> "Altirisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003478> <http://www.w3.org/2000/01/rdf-schema#label> "Latein"@de .
+<http://purl.obolibrary.org/obo/LANG_1005609> <http://www.w3.org/2000/01/rdf-schema#label> "romanche"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003757> <http://www.w3.org/2000/01/rdf-schema#label> "luba-katanga"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002823> <http://www.w3.org/2000/01/rdf-schema#label> "Gr\u00F6nl\u00E4ndisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002071> <http://www.w3.org/2000/01/rdf-schema#label> "Alt\u00E4thiopisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000520> <http://www.w3.org/2000/01/rdf-schema#label> "baloutchi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001660> <http://www.w3.org/2000/01/rdf-schema#label> "dogri"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002332> <http://www.w3.org/2000/01/rdf-schema#label> "Haussa-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000519> <http://www.w3.org/2000/01/rdf-schema#label> "Baschkirisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001554> <http://www.w3.org/2000/01/rdf-schema#label> "Dogrib-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006405> <http://www.w3.org/2000/01/rdf-schema#label> "Tlingit-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004748> <http://www.w3.org/2000/01/rdf-schema#label> "noga\u00EF | nogay"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000386> <http://www.w3.org/2000/01/rdf-schema#label> "asturien | bable | l\u00E9onais | asturol\u00E9onais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001878> <http://www.w3.org/2000/01/rdf-schema#label> "Ewondo"@de .
+<http://purl.obolibrary.org/obo/LANG_1000453> <http://www.w3.org/2000/01/rdf-schema#label> "Awadhi"@de .
+<http://purl.obolibrary.org/obo/LANG_1001463> <http://www.w3.org/2000/01/rdf-schema#label> "gallois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005643> <http://www.w3.org/2000/01/rdf-schema#label> "Russisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002212> <http://www.w3.org/2000/01/rdf-schema#label> "grec ancien (jusqu'\u00E0 1453)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002600> <http://www.w3.org/2000/01/rdf-schema#label> "indon\u00E9sien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000696> <http://www.w3.org/2000/01/rdf-schema#label> "bhojpuri"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003813> <http://www.w3.org/2000/01/rdf-schema#label> "Malayalam"@de .
+<http://purl.obolibrary.org/obo/LANG_1006766> <http://www.w3.org/2000/01/rdf-schema#label> "Nicht zu entscheiden"@de .
+<http://purl.obolibrary.org/obo/LANG_1007718> <http://www.w3.org/2000/01/rdf-schema#label> "zenaga"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006608> <http://www.w3.org/2000/01/rdf-schema#label> "turkm\u00E8ne"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004449> <http://www.w3.org/2000/01/rdf-schema#label> "napolitain"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005919> <http://www.w3.org/2000/01/rdf-schema#label> "samoan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002131> <http://www.w3.org/2000/01/rdf-schema#label> "Irisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002332> <http://www.w3.org/2000/01/rdf-schema#label> "haoussa"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003480> <http://www.w3.org/2000/01/rdf-schema#label> "letton"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000442> <http://www.w3.org/2000/01/rdf-schema#label> "Avestisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005117> <http://www.w3.org/2000/01/rdf-schema#label> "palau"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002644> <http://www.w3.org/2000/01/rdf-schema#label> "Italienisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001593> <http://www.w3.org/2000/01/rdf-schema#label> "maldivien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000724> <http://www.w3.org/2000/01/rdf-schema#label> "Beach-la-mar"@de .
+<http://purl.obolibrary.org/obo/LANG_1001534> <http://www.w3.org/2000/01/rdf-schema#label> "Slave-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000174> <http://www.w3.org/2000/01/rdf-schema#label> "Ainu-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002483> <http://www.w3.org/2000/01/rdf-schema#label> "hupa"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004470> <http://www.w3.org/2000/01/rdf-schema#label> "nd\u00E9b\u00E9l\u00E9 du Sud"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007721> <http://www.w3.org/2000/01/rdf-schema#label> "amazighe standard marocain"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004162> <http://www.w3.org/2000/01/rdf-schema#label> "Mossi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004454> <http://www.w3.org/2000/01/rdf-schema#label> "Nauruanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006058> <http://www.w3.org/2000/01/rdf-schema#label> "swati"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001164> <http://www.w3.org/2000/01/rdf-schema#label> "karib | galibi | carib"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002334> <http://www.w3.org/2000/01/rdf-schema#label> "Hawaiisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001221> <http://www.w3.org/2000/01/rdf-schema#label> "tch\u00E8que"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000032> <http://www.w3.org/2000/01/rdf-schema#label> "Abchasisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001714> <http://www.w3.org/2000/01/rdf-schema#label> "Duala-Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1006625> <http://www.w3.org/2000/01/rdf-schema#label> "Elliceanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003881> <http://www.w3.org/2000/01/rdf-schema#label> "moksa"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004052> <http://www.w3.org/2000/01/rdf-schema#label> "mac\u00E9donien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003698> <http://www.w3.org/2000/01/rdf-schema#label> "mongo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002372> <http://www.w3.org/2000/01/rdf-schema#label> "Hindi"@de .
+<http://purl.obolibrary.org/obo/LANG_1005891> <http://www.w3.org/2000/01/rdf-schema#label> "Slowakisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004079> <http://www.w3.org/2000/01/rdf-schema#label> "Malagassi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000246> <http://www.w3.org/2000/01/rdf-schema#label> "Amharisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004358> <http://www.w3.org/2000/01/rdf-schema#label> "marvari"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003812> <http://www.w3.org/2000/01/rdf-schema#label> "makassar"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001243> <http://www.w3.org/2000/01/rdf-schema#label> "Tscheremissisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006712> <http://www.w3.org/2000/01/rdf-schema#label> "oudmourte"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005204> <http://www.w3.org/2000/01/rdf-schema#label> "ph\u00E9nicien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001353> <http://www.w3.org/2000/01/rdf-schema#label> "Korsisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006186> <http://www.w3.org/2000/01/rdf-schema#label> "Tamil"@de .
+<http://purl.obolibrary.org/obo/LANG_1005662> <http://www.w3.org/2000/01/rdf-schema#label> "sandawe"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006561> <http://www.w3.org/2000/01/rdf-schema#label> "Tsonga-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003913> <http://www.w3.org/2000/01/rdf-schema#label> "mend\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002580> <http://www.w3.org/2000/01/rdf-schema#label> "interlingue"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004306> <http://www.w3.org/2000/01/rdf-schema#label> "multilingue"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002616> <http://www.w3.org/2000/01/rdf-schema#label> "Inupik"@de .
+<http://purl.obolibrary.org/obo/LANG_1001236> <http://www.w3.org/2000/01/rdf-schema#label> "tch\u00E9tch\u00E8ne"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001111> <http://www.w3.org/2000/01/rdf-schema#label> "Bilin-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003310> <http://www.w3.org/2000/01/rdf-schema#label> "kuanyama | kwanyama"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000111> <http://www.w3.org/2000/01/rdf-schema#label> "Afrihili"@de .
+<http://purl.obolibrary.org/obo/LANG_1006608> <http://www.w3.org/2000/01/rdf-schema#label> "Turkmenisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004407> <http://www.w3.org/2000/01/rdf-schema#label> "Erza-Mordwinisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006928> <http://www.w3.org/2000/01/rdf-schema#label> "Walamo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001166> <http://www.w3.org/2000/01/rdf-schema#label> "Katalanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001691> <http://www.w3.org/2000/01/rdf-schema#label> "bas-sorabe"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002404> <http://www.w3.org/2000/01/rdf-schema#label> "Hiri-Motu"@de .
+<http://purl.obolibrary.org/obo/LANG_1006857> <http://www.w3.org/2000/01/rdf-schema#label> "vietnamien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007600> <http://www.w3.org/2000/01/rdf-schema#label> "Yoruba-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005910> <http://www.w3.org/2000/01/rdf-schema#label> "sami du Nord"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000526> <http://www.w3.org/2000/01/rdf-schema#label> "basa"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006903> <http://www.w3.org/2000/01/rdf-schema#label> "Volap\u00FCk"@de .
+<http://purl.obolibrary.org/obo/LANG_1006625> <http://www.w3.org/2000/01/rdf-schema#label> "tuvalu"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000520> <http://www.w3.org/2000/01/rdf-schema#label> "Belutschisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006028> <http://www.w3.org/2000/01/rdf-schema#label> "s\u00E9r\u00E8re"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002320> <http://www.w3.org/2000/01/rdf-schema#label> "haida"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002141> <http://www.w3.org/2000/01/rdf-schema#label> "Manx"@de .
+<http://purl.obolibrary.org/obo/LANG_1005918> <http://www.w3.org/2000/01/rdf-schema#label> "Inarisaamisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004470> <http://www.w3.org/2000/01/rdf-schema#label> "Ndebele-Sprache (Transvaal)"@de .
+<http://purl.obolibrary.org/obo/LANG_1000350> <http://www.w3.org/2000/01/rdf-schema#label> "aragonais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000618> <http://www.w3.org/2000/01/rdf-schema#label> "Bedauye"@de .
+<http://purl.obolibrary.org/obo/LANG_1004312> <http://www.w3.org/2000/01/rdf-schema#label> "muskogee"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005670> <http://www.w3.org/2000/01/rdf-schema#label> "Sanskrit"@de .
+<http://purl.obolibrary.org/obo/LANG_1004758> <http://www.w3.org/2000/01/rdf-schema#label> "norv\u00E9gien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005068> <http://www.w3.org/2000/01/rdf-schema#label> "Osmanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006193> <http://www.w3.org/2000/01/rdf-schema#label> "tatar"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001244> <http://www.w3.org/2000/01/rdf-schema#label> "chinook, jargon"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006753> <http://www.w3.org/2000/01/rdf-schema#label> "umbundu"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001379> <http://www.w3.org/2000/01/rdf-schema#label> "tatar de Crim\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006281> <http://www.w3.org/2000/01/rdf-schema#label> "temne"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002997> <http://www.w3.org/2000/01/rdf-schema#label> "Sakisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002573> <http://www.w3.org/2000/01/rdf-schema#label> "inuktitut"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006347> <http://www.w3.org/2000/01/rdf-schema#label> "tigr\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004758> <http://www.w3.org/2000/01/rdf-schema#label> "Norwegisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001539> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000089> <http://www.w3.org/2000/01/rdf-schema#label> "Adygisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005717> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9cossais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001484> <http://www.w3.org/2000/01/rdf-schema#label> "Darginisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002693> <http://www.w3.org/2000/01/rdf-schema#label> "Javanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006058> <http://www.w3.org/2000/01/rdf-schema#label> "Swasi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003755> <http://www.w3.org/2000/01/rdf-schema#label> "luxembourgeois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003813> <http://www.w3.org/2000/01/rdf-schema#label> "malayalam"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002212> <http://www.w3.org/2000/01/rdf-schema#label> "Griechisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005064> <http://www.w3.org/2000/01/rdf-schema#label> "oss\u00E8te"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002585> <http://www.w3.org/2000/01/rdf-schema#label> "Ilokano-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002833> <http://www.w3.org/2000/01/rdf-schema#label> "kawi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004967> <http://www.w3.org/2000/01/rdf-schema#label> "Ojibwa-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003881> <http://www.w3.org/2000/01/rdf-schema#label> "Mokscha-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000931> <http://www.w3.org/2000/01/rdf-schema#label> "Bretonisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002503> <http://www.w3.org/2000/01/rdf-schema#label> "Armenisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004358> <http://www.w3.org/2000/01/rdf-schema#label> "Marwari"@de .
+<http://purl.obolibrary.org/obo/LANG_1001913> <http://www.w3.org/2000/01/rdf-schema#label> "Fidschi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004509> <http://www.w3.org/2000/01/rdf-schema#label> "nd\u00E9b\u00E9l\u00E9 du Nord"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006766> <http://www.w3.org/2000/01/rdf-schema#label> "ind\u00E9termin\u00E9e"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002580> <http://www.w3.org/2000/01/rdf-schema#label> "Interlingue"@de .
+<http://purl.obolibrary.org/obo/LANG_1001753> <http://www.w3.org/2000/01/rdf-schema#label> "Dyula-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002813> <http://www.w3.org/2000/01/rdf-schema#label> "Kabylisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003892> <http://www.w3.org/2000/01/rdf-schema#label> "Mandaresisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006358> <http://www.w3.org/2000/01/rdf-schema#label> "tigrigna"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004455> <http://www.w3.org/2000/01/rdf-schema#label> "Navajo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001877> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9w\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005068> <http://www.w3.org/2000/01/rdf-schema#label> "turc ottoman (1500-1928)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006781> <http://www.w3.org/2000/01/rdf-schema#label> "Urdu"@de .
+<http://purl.obolibrary.org/obo/LANG_1004131> <http://www.w3.org/2000/01/rdf-schema#label> "Meithei-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003756> <http://www.w3.org/2000/01/rdf-schema#label> "luba-lulua"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000015> <http://www.w3.org/2000/01/rdf-schema#label> "Danakil-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001481> <http://www.w3.org/2000/01/rdf-schema#label> "D\u00E4nisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005716> <http://www.w3.org/2000/01/rdf-schema#label> "Sizilianisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000696> <http://www.w3.org/2000/01/rdf-schema#label> "Bhojpuri"@de .
+<http://purl.obolibrary.org/obo/LANG_1000117> <http://www.w3.org/2000/01/rdf-schema#label> "afrikaans"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002840> <http://www.w3.org/2000/01/rdf-schema#label> "kabardien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003712> <http://www.w3.org/2000/01/rdf-schema#label> "lozi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003818> <http://www.w3.org/2000/01/rdf-schema#label> "Massai-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006182> <http://www.w3.org/2000/01/rdf-schema#label> "tahitien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006428> <http://www.w3.org/2000/01/rdf-schema#label> "tamacheq"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005509> <http://www.w3.org/2000/01/rdf-schema#label> "rajasthani"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007152> <http://www.w3.org/2000/01/rdf-schema#label> "kalmouk | o\u00EFrat"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002481> <http://www.w3.org/2000/01/rdf-schema#label> "hongrois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004312> <http://www.w3.org/2000/01/rdf-schema#label> "Muskogisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006114> <http://www.w3.org/2000/01/rdf-schema#label> "Schwedisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001895> <http://www.w3.org/2000/01/rdf-schema#label> "Pangwe-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006093> <http://www.w3.org/2000/01/rdf-schema#label> "Sundanesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001554> <http://www.w3.org/2000/01/rdf-schema#label> "dogrib"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003817> <http://www.w3.org/2000/01/rdf-schema#label> "Marathi"@de .
+<http://purl.obolibrary.org/obo/LANG_1001352> <http://www.w3.org/2000/01/rdf-schema#label> "cornique"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007226> <http://www.w3.org/2000/01/rdf-schema#label> "Xhosa-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002779> <http://www.w3.org/2000/01/rdf-schema#label> "japonais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002517> <http://www.w3.org/2000/01/rdf-schema#label> "igbo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003712> <http://www.w3.org/2000/01/rdf-schema#label> "Rotse-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003022> <http://www.w3.org/2000/01/rdf-schema#label> "Rwanda-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004002> <http://www.w3.org/2000/01/rdf-schema#label> "Micmac-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000053> <http://www.w3.org/2000/01/rdf-schema#label> "Acholi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006002> <http://www.w3.org/2000/01/rdf-schema#label> "Albanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1007074> <http://www.w3.org/2000/01/rdf-schema#label> "Wolof-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1007461> <http://www.w3.org/2000/01/rdf-schema#label> "Yao-Sprache (Bantusprache)"@de .
+<http://purl.obolibrary.org/obo/LANG_1006712> <http://www.w3.org/2000/01/rdf-schema#label> "Udmurtisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003808> <http://www.w3.org/2000/01/rdf-schema#label> "Khotta"@de .
+<http://purl.obolibrary.org/obo/LANG_1004002> <http://www.w3.org/2000/01/rdf-schema#label> "mi'kmaq | micmac"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003600> <http://www.w3.org/2000/01/rdf-schema#label> "Litauisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004676> <http://www.w3.org/2000/01/rdf-schema#label> "Niederl\u00E4ndisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003329> <http://www.w3.org/2000/01/rdf-schema#label> "kutenai"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004909> <http://www.w3.org/2000/01/rdf-schema#label> "Nyoro-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003763> <http://www.w3.org/2000/01/rdf-schema#label> "luiseno"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005256> <http://www.w3.org/2000/01/rdf-schema#label> "pali"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005669> <http://www.w3.org/2000/01/rdf-schema#label> "samaritain"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002404> <http://www.w3.org/2000/01/rdf-schema#label> "hiri motu"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004923> <http://www.w3.org/2000/01/rdf-schema#label> "Nzima-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000053> <http://www.w3.org/2000/01/rdf-schema#label> "acoli"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001914> <http://www.w3.org/2000/01/rdf-schema#label> "filipino | pilipino"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002585> <http://www.w3.org/2000/01/rdf-schema#label> "ilocano"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001006> <http://www.w3.org/2000/01/rdf-schema#label> "Bugi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005919> <http://www.w3.org/2000/01/rdf-schema#label> "Samoanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006286> <http://www.w3.org/2000/01/rdf-schema#label> "tereno"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003805> <http://www.w3.org/2000/01/rdf-schema#label> "Maduresisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002783> <http://www.w3.org/2000/01/rdf-schema#label> "J\u00FCdisch-Arabisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005110> <http://www.w3.org/2000/01/rdf-schema#label> "Pandschabi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005204> <http://www.w3.org/2000/01/rdf-schema#label> "Ph\u00F6nikisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000070> <http://www.w3.org/2000/01/rdf-schema#label> "Adangme-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000220> <http://www.w3.org/2000/01/rdf-schema#label> "Aleutisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005910> <http://www.w3.org/2000/01/rdf-schema#label> "Nordsaamisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001330> <http://www.w3.org/2000/01/rdf-schema#label> "Montenegrinisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005641> <http://www.w3.org/2000/01/rdf-schema#label> "Aromunisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005046> <http://www.w3.org/2000/01/rdf-schema#label> "Oriya-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002194> <http://www.w3.org/2000/01/rdf-schema#label> "Gorontalesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005832> <http://www.w3.org/2000/01/rdf-schema#label> "Singhalesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001946> <http://www.w3.org/2000/01/rdf-schema#label> "fran\u00E7ais moyen (1400-1600)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001760> <http://www.w3.org/2000/01/rdf-schema#label> "Dzongkha"@de .
+<http://purl.obolibrary.org/obo/LANG_1002783> <http://www.w3.org/2000/01/rdf-schema#label> "jud\u00E9o-arabe"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005109> <http://www.w3.org/2000/01/rdf-schema#label> "Pampanggan-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001799> <http://www.w3.org/2000/01/rdf-schema#label> "grec moderne (apr\u00E8s 1453)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001532> <http://www.w3.org/2000/01/rdf-schema#label> "delaware"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007462> <http://www.w3.org/2000/01/rdf-schema#label> "yapois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000621> <http://www.w3.org/2000/01/rdf-schema#label> "Bemba-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001254> <http://www.w3.org/2000/01/rdf-schema#label> "Cheyenne-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000519> <http://www.w3.org/2000/01/rdf-schema#label> "bachkir"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000032> <http://www.w3.org/2000/01/rdf-schema#label> "abkhaze"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006903> <http://www.w3.org/2000/01/rdf-schema#label> "volap\u00FCk"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002356> <http://www.w3.org/2000/01/rdf-schema#label> "Herero-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006111> <http://www.w3.org/2000/01/rdf-schema#label> "Swahili"@de .
+<http://purl.obolibrary.org/obo/LANG_1005327> <http://www.w3.org/2000/01/rdf-schema#label> "pohnpei"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004092> <http://www.w3.org/2000/01/rdf-schema#label> "Maltesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004895> <http://www.w3.org/2000/01/rdf-schema#label> "Nyanja-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002702> <http://www.w3.org/2000/01/rdf-schema#label> "lojban"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005517> <http://www.w3.org/2000/01/rdf-schema#label> "rarotonga | maori des \u00EEles Cook"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005117> <http://www.w3.org/2000/01/rdf-schema#label> "Palau-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001238> <http://www.w3.org/2000/01/rdf-schema#label> "djaghata\u00EF"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005914> <http://www.w3.org/2000/01/rdf-schema#label> "Lulesaamisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001350> <http://www.w3.org/2000/01/rdf-schema#label> "Koptisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001243> <http://www.w3.org/2000/01/rdf-schema#label> "mari"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007850> <http://www.w3.org/2000/01/rdf-schema#label> "Zulu-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004909> <http://www.w3.org/2000/01/rdf-schema#label> "nyoro"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002148> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelhochdeutsch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001777> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9gyptien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002211> <http://www.w3.org/2000/01/rdf-schema#label> "grebo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000271> <http://www.w3.org/2000/01/rdf-schema#label> "Altenglisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004552> <http://www.w3.org/2000/01/rdf-schema#label> "Newari"@de .
+<http://purl.obolibrary.org/obo/LANG_1005775> <http://www.w3.org/2000/01/rdf-schema#label> "irlandais ancien (jusqu'\u00E0 900)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001950> <http://www.w3.org/2000/01/rdf-schema#label> "frison septentrional"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002334> <http://www.w3.org/2000/01/rdf-schema#label> "hawa\u00EFen"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005325> <http://www.w3.org/2000/01/rdf-schema#label> "polonais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001151> <http://www.w3.org/2000/01/rdf-schema#label> "Caddo-Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1002002> <http://www.w3.org/2000/01/rdf-schema#label> "gbaya"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000202> <http://www.w3.org/2000/01/rdf-schema#label> "Akkadisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000379> <http://www.w3.org/2000/01/rdf-schema#label> "Assamesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006735> <http://www.w3.org/2000/01/rdf-schema#label> "Ukrainisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006934> <http://www.w3.org/2000/01/rdf-schema#label> "waray"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003026> <http://www.w3.org/2000/01/rdf-schema#label> "kirghiz"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005064> <http://www.w3.org/2000/01/rdf-schema#label> "Ossetisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001826> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelenglisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005643> <http://www.w3.org/2000/01/rdf-schema#label> "russe"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002196> <http://www.w3.org/2000/01/rdf-schema#label> "Gotisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000356> <http://www.w3.org/2000/01/rdf-schema#label> "mapudungun | mapuche | mapuce"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002829> <http://www.w3.org/2000/01/rdf-schema#label> "Kaschmiri"@de .
+<http://purl.obolibrary.org/obo/LANG_1002600> <http://www.w3.org/2000/01/rdf-schema#label> "Bahasa Indonesia"@de .
+<http://purl.obolibrary.org/obo/LANG_1006100> <http://www.w3.org/2000/01/rdf-schema#label> "sum\u00E9rien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002831> <http://www.w3.org/2000/01/rdf-schema#label> "kanouri"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004013> <http://www.w3.org/2000/01/rdf-schema#label> "Minangkabau-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006849> <http://www.w3.org/2000/01/rdf-schema#label> "venda"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000192> <http://www.w3.org/2000/01/rdf-schema#label> "akan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001532> <http://www.w3.org/2000/01/rdf-schema#label> "Delaware-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004519> <http://www.w3.org/2000/01/rdf-schema#label> "ndonga"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006404> <http://www.w3.org/2000/01/rdf-schema#label> "klingon"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005104> <http://www.w3.org/2000/01/rdf-schema#label> "pangasinan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004755> <http://www.w3.org/2000/01/rdf-schema#label> "norrois, vieux"@fr .
 <http://purl.obolibrary.org/obo/LANG_1005110> <http://www.w3.org/2000/01/rdf-schema#label> "pendjabi"@fr .
 <http://purl.obolibrary.org/obo/LANG_1001236> <http://www.w3.org/2000/01/rdf-schema#label> "Tschetschenisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005966> <http://www.w3.org/2000/01/rdf-schema#label> "Somali"@de .
 <http://purl.obolibrary.org/obo/LANG_1003019> <http://www.w3.org/2000/01/rdf-schema#label> "Kikuyu-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003892> <http://www.w3.org/2000/01/rdf-schema#label> "Mandaresisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000856> <http://www.w3.org/2000/01/rdf-schema#label> "Tibetisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003810> <http://www.w3.org/2000/01/rdf-schema#label> "Maithili"@de .
+<http://purl.obolibrary.org/obo/LANG_1002071> <http://www.w3.org/2000/01/rdf-schema#label> "gu\u00E8ze"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002350> <http://www.w3.org/2000/01/rdf-schema#label> "h\u00E9breu"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006560> <http://www.w3.org/2000/01/rdf-schema#label> "Tswana-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003809> <http://www.w3.org/2000/01/rdf-schema#label> "Marschallesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004246> <http://www.w3.org/2000/01/rdf-schema#label> "Malaiisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001481> <http://www.w3.org/2000/01/rdf-schema#label> "danois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005641> <http://www.w3.org/2000/01/rdf-schema#label> "aroumain | mac\u00E9do-roumain"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001166> <http://www.w3.org/2000/01/rdf-schema#label> "catalan | valencien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005757> <http://www.w3.org/2000/01/rdf-schema#label> "selkoupe"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000174> <http://www.w3.org/2000/01/rdf-schema#label> "a\u00EFnou"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002331> <http://www.w3.org/2000/01/rdf-schema#label> "ha\u00EFtien | cr\u00E9ole ha\u00EFtien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004052> <http://www.w3.org/2000/01/rdf-schema#label> "Makedonisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005666> <http://www.w3.org/2000/01/rdf-schema#label> "iakoute"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005822> <http://www.w3.org/2000/01/rdf-schema#label> "Sidamo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003769> <http://www.w3.org/2000/01/rdf-schema#label> "luo (Kenya et Tanzanie)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005979> <http://www.w3.org/2000/01/rdf-schema#label> "espagnol | castillan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007521> <http://www.w3.org/2000/01/rdf-schema#label> "yiddish"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002995> <http://www.w3.org/2000/01/rdf-schema#label> "Kambodschanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002184> <http://www.w3.org/2000/01/rdf-schema#label> "Althochdeutsch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005363> <http://www.w3.org/2000/01/rdf-schema#label> "proven\u00E7al ancien (jusqu'\u00E0 1500) | occitan ancien (jusqu'\u00E0 1500)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004967> <http://www.w3.org/2000/01/rdf-schema#label> "ojibwa"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007226> <http://www.w3.org/2000/01/rdf-schema#label> "xhosa"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000526> <http://www.w3.org/2000/01/rdf-schema#label> "Basaa-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006288> <http://www.w3.org/2000/01/rdf-schema#label> "Tetum-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002812> <http://www.w3.org/2000/01/rdf-schema#label> "Karakalpakisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002190> <http://www.w3.org/2000/01/rdf-schema#label> "gond"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001353> <http://www.w3.org/2000/01/rdf-schema#label> "corse"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005047> <http://www.w3.org/2000/01/rdf-schema#label> "Galla-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002356> <http://www.w3.org/2000/01/rdf-schema#label> "herero"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002483> <http://www.w3.org/2000/01/rdf-schema#label> "Hupa-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1007852> <http://www.w3.org/2000/01/rdf-schema#label> "zuni"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002196> <http://www.w3.org/2000/01/rdf-schema#label> "gothique"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002602> <http://www.w3.org/2000/01/rdf-schema#label> "Inguschisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000345> <http://www.w3.org/2000/01/rdf-schema#label> "Arabisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002251> <http://www.w3.org/2000/01/rdf-schema#label> "Gujarati-Sprache"@de .
 <http://purl.obolibrary.org/obo/LANG_1000234> <http://www.w3.org/2000/01/rdf-schema#label> "Altaisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1007226> <http://www.w3.org/2000/01/rdf-schema#label> "Xhosa-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005256> <http://www.w3.org/2000/01/rdf-schema#label> "pali"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000234> <http://www.w3.org/2000/01/rdf-schema#label> "altai du Sud"@fr .
-<http://purl.obolibrary.org/obo/LANG_1007721> <http://www.w3.org/2000/01/rdf-schema#label> "amazighe standard marocain"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001221> <http://www.w3.org/2000/01/rdf-schema#label> "Tschechisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1005110> <http://www.w3.org/2000/01/rdf-schema#label> "Pandschabi-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1002825> <http://www.w3.org/2000/01/rdf-schema#label> "Kannada"@de .
-<http://purl.obolibrary.org/obo/LANG_1000051> <http://www.w3.org/2000/01/rdf-schema#label> "aceh"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000618> <http://www.w3.org/2000/01/rdf-schema#label> "bedja"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005112> <http://www.w3.org/2000/01/rdf-schema#label> "Papiamento"@de .
-<http://purl.obolibrary.org/obo/LANG_1006310> <http://www.w3.org/2000/01/rdf-schema#label> "Tagalog"@de .
-<http://purl.obolibrary.org/obo/LANG_1004312> <http://www.w3.org/2000/01/rdf-schema#label> "muskogee"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006823> <http://www.w3.org/2000/01/rdf-schema#label> "Usbekisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1004923> <http://www.w3.org/2000/01/rdf-schema#label> "Nzima-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1005643> <http://www.w3.org/2000/01/rdf-schema#label> "Russisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003892> <http://www.w3.org/2000/01/rdf-schema#label> "mandar"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004755> <http://www.w3.org/2000/01/rdf-schema#label> "Altnorwegisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1000439> <http://www.w3.org/2000/01/rdf-schema#label> "avar"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002830> <http://www.w3.org/2000/01/rdf-schema#label> "g\u00E9orgien"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005641> <http://www.w3.org/2000/01/rdf-schema#label> "Aromunisch"@de .
-<http://purl.obolibrary.org/obo/LANG_1003178> <http://www.w3.org/2000/01/rdf-schema#label> "cor\u00E9en"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006561> <http://www.w3.org/2000/01/rdf-schema#label> "tsonga"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000856> <http://www.w3.org/2000/01/rdf-schema#label> "tib\u00E9tain"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001246> <http://www.w3.org/2000/01/rdf-schema#label> "Chipewyan-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1006111> <http://www.w3.org/2000/01/rdf-schema#label> "swahili"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004909> <http://www.w3.org/2000/01/rdf-schema#label> "nyoro"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001245> <http://www.w3.org/2000/01/rdf-schema#label> "Choctaw-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003768> <http://www.w3.org/2000/01/rdf-schema#label> "lunda"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001478> <http://www.w3.org/2000/01/rdf-schema#label> "dakota"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005665> <http://www.w3.org/2000/01/rdf-schema#label> "sango"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001691> <http://www.w3.org/2000/01/rdf-schema#label> "bas-sorabe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005509> <http://www.w3.org/2000/01/rdf-schema#label> "rajasthani"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002995> <http://www.w3.org/2000/01/rdf-schema#label> "khmer central"@fr .
-<http://purl.obolibrary.org/obo/LANG_1004455> <http://www.w3.org/2000/01/rdf-schema#label> "navaho"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002459> <http://www.w3.org/2000/01/rdf-schema#label> "haut-sorabe"@fr .
-<http://purl.obolibrary.org/obo/LANG_1006625> <http://www.w3.org/2000/01/rdf-schema#label> "tuvalu"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002184> <http://www.w3.org/2000/01/rdf-schema#label> "allemand, vieux haut (ca. 750-1050)"@fr .
-<http://purl.obolibrary.org/obo/LANG_1001823> <http://www.w3.org/2000/01/rdf-schema#label> "anglais"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005046> <http://www.w3.org/2000/01/rdf-schema#label> "oriya"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005669> <http://www.w3.org/2000/01/rdf-schema#label> "Samaritanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1007730> <http://www.w3.org/2000/01/rdf-schema#label> "Chinesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006495> <http://www.w3.org/2000/01/rdf-schema#label> "tok pisin"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006324> <http://www.w3.org/2000/01/rdf-schema#label> "Thail\u00E4ndisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003171> <http://www.w3.org/2000/01/rdf-schema#label> "Konkani"@de .
+<http://purl.obolibrary.org/obo/LANG_1002331> <http://www.w3.org/2000/01/rdf-schema#label> "Ha\u00EFtien (Haiti-Kreolisch)"@de .
+<http://purl.obolibrary.org/obo/LANG_1002131> <http://www.w3.org/2000/01/rdf-schema#label> "irlandais"@fr .
 <http://purl.obolibrary.org/obo/LANG_1003190> <http://www.w3.org/2000/01/rdf-schema#label> "kpell\u00E9"@fr .
-<http://purl.obolibrary.org/obo/LANG_1002002> <http://www.w3.org/2000/01/rdf-schema#label> "gbaya"@fr .
-<http://purl.obolibrary.org/obo/LANG_1005419> <http://www.w3.org/2000/01/rdf-schema#label> "pachto"@fr .
-<http://purl.obolibrary.org/obo/LANG_1000111> <http://www.w3.org/2000/01/rdf-schema#label> "Afrihili"@de .
-<http://purl.obolibrary.org/obo/LANG_1003113> <http://www.w3.org/2000/01/rdf-schema#label> "Kimbundu-Sprache"@de .
-<http://purl.obolibrary.org/obo/LANG_1003593> <http://www.w3.org/2000/01/rdf-schema#label> "limbourgeois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003327> <http://www.w3.org/2000/01/rdf-schema#label> "kurde"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002002> <http://www.w3.org/2000/01/rdf-schema#label> "Gbaya-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005674> <http://www.w3.org/2000/01/rdf-schema#label> "sasak"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002372> <http://www.w3.org/2000/01/rdf-schema#label> "hindi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001246> <http://www.w3.org/2000/01/rdf-schema#label> "chipewyan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006347> <http://www.w3.org/2000/01/rdf-schema#label> "Tigre-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002780> <http://www.w3.org/2000/01/rdf-schema#label> "jud\u00E9o-persan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005611> <http://www.w3.org/2000/01/rdf-schema#label> "tsigane"@fr .
 <http://purl.obolibrary.org/obo/LANG_1002840> <http://www.w3.org/2000/01/rdf-schema#label> "Kabardinisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006561> <http://www.w3.org/2000/01/rdf-schema#label> "tsonga"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002836> <http://www.w3.org/2000/01/rdf-schema#label> "Kasachisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005109> <http://www.w3.org/2000/01/rdf-schema#label> "pampangan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005331> <http://www.w3.org/2000/01/rdf-schema#label> "portugais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005960> <http://www.w3.org/2000/01/rdf-schema#label> "Sogdisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005256> <http://www.w3.org/2000/01/rdf-schema#label> "Pali"@de .
+<http://purl.obolibrary.org/obo/LANG_1005419> <http://www.w3.org/2000/01/rdf-schema#label> "pachto"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001251> <http://www.w3.org/2000/01/rdf-schema#label> "tchouvache"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006096> <http://www.w3.org/2000/01/rdf-schema#label> "soussou"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006309> <http://www.w3.org/2000/01/rdf-schema#label> "tadjik"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000439> <http://www.w3.org/2000/01/rdf-schema#label> "avar"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005517> <http://www.w3.org/2000/01/rdf-schema#label> "Rarotonganisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002830> <http://www.w3.org/2000/01/rdf-schema#label> "g\u00E9orgien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001217> <http://www.w3.org/2000/01/rdf-schema#label> "cebuano"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001799> <http://www.w3.org/2000/01/rdf-schema#label> "Neugriechisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002000> <http://www.w3.org/2000/01/rdf-schema#label> "Gayo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004157> <http://www.w3.org/2000/01/rdf-schema#label> "mongol"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002239> <http://www.w3.org/2000/01/rdf-schema#label> "suisse al\u00E9manique | al\u00E9manique | alsacien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006157> <http://www.w3.org/2000/01/rdf-schema#label> "syriaque"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001248> <http://www.w3.org/2000/01/rdf-schema#label> "Cherokee-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004131> <http://www.w3.org/2000/01/rdf-schema#label> "manipuri"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006281> <http://www.w3.org/2000/01/rdf-schema#label> "Temne-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000364> <http://www.w3.org/2000/01/rdf-schema#label> "Arawak-Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1005675> <http://www.w3.org/2000/01/rdf-schema#label> "santal"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003762> <http://www.w3.org/2000/01/rdf-schema#label> "ganda"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006015> <http://www.w3.org/2000/01/rdf-schema#label> "Sardisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001977> <http://www.w3.org/2000/01/rdf-schema#label> "ga"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001900> <http://www.w3.org/2000/01/rdf-schema#label> "Fante-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005515> <http://www.w3.org/2000/01/rdf-schema#label> "rapanui"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000070> <http://www.w3.org/2000/01/rdf-schema#label> "adangme"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000350> <http://www.w3.org/2000/01/rdf-schema#label> "Aragonesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1007725> <http://www.w3.org/2000/01/rdf-schema#label> "Zhuang"@de .
+<http://purl.obolibrary.org/obo/LANG_1003171> <http://www.w3.org/2000/01/rdf-schema#label> "konkani"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006092> <http://www.w3.org/2000/01/rdf-schema#label> "Sukuma-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001947> <http://www.w3.org/2000/01/rdf-schema#label> "fran\u00E7ais ancien (842-ca.1400)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004732> <http://www.w3.org/2000/01/rdf-schema#label> "norv\u00E9gien nynorsk | nynorsk, norv\u00E9gien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007730> <http://www.w3.org/2000/01/rdf-schema#label> "chinois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005046> <http://www.w3.org/2000/01/rdf-schema#label> "oriya"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006724> <http://www.w3.org/2000/01/rdf-schema#label> "Uigurisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005331> <http://www.w3.org/2000/01/rdf-schema#label> "Portugiesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002508> <http://www.w3.org/2000/01/rdf-schema#label> "iban"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006478> <http://www.w3.org/2000/01/rdf-schema#label> "Tongaisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006610> <http://www.w3.org/2000/01/rdf-schema#label> "tumbuka"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001232> <http://www.w3.org/2000/01/rdf-schema#label> "chamorro"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006614> <http://www.w3.org/2000/01/rdf-schema#label> "turc"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003019> <http://www.w3.org/2000/01/rdf-schema#label> "kikuyu"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005901> <http://www.w3.org/2000/01/rdf-schema#label> "Slowenisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000442> <http://www.w3.org/2000/01/rdf-schema#label> "avestique"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002128> <http://www.w3.org/2000/01/rdf-schema#label> "G\u00E4lisch-Schottisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003808> <http://www.w3.org/2000/01/rdf-schema#label> "magahi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001951> <http://www.w3.org/2000/01/rdf-schema#label> "frison oriental"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004676> <http://www.w3.org/2000/01/rdf-schema#label> "n\u00E9erlandais | flamand"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001773> <http://www.w3.org/2000/01/rdf-schema#label> "efik"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004018> <http://www.w3.org/2000/01/rdf-schema#label> "langues non cod\u00E9es"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006028> <http://www.w3.org/2000/01/rdf-schema#label> "Serer-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002995> <http://www.w3.org/2000/01/rdf-schema#label> "khmer central"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001241> <http://www.w3.org/2000/01/rdf-schema#label> "Trukesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001859> <http://www.w3.org/2000/01/rdf-schema#label> "Estnisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004519> <http://www.w3.org/2000/01/rdf-schema#label> "Ndonga"@de .
+<http://purl.obolibrary.org/obo/LANG_1003555> <http://www.w3.org/2000/01/rdf-schema#label> "lezghien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006362> <http://www.w3.org/2000/01/rdf-schema#label> "tiv"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000716> <http://www.w3.org/2000/01/rdf-schema#label> "bikol"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006100> <http://www.w3.org/2000/01/rdf-schema#label> "Sumerisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1007074> <http://www.w3.org/2000/01/rdf-schema#label> "wolof"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006404> <http://www.w3.org/2000/01/rdf-schema#label> "Klingonisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001773> <http://www.w3.org/2000/01/rdf-schema#label> "Efik"@de .
+<http://purl.obolibrary.org/obo/LANG_1000234> <http://www.w3.org/2000/01/rdf-schema#label> "altai du Sud"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001478> <http://www.w3.org/2000/01/rdf-schema#label> "Dakota-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002000> <http://www.w3.org/2000/01/rdf-schema#label> "gayo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001248> <http://www.w3.org/2000/01/rdf-schema#label> "cherokee"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006150> <http://www.w3.org/2000/01/rdf-schema#label> "Syrisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001245> <http://www.w3.org/2000/01/rdf-schema#label> "Choctaw-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006024> <http://www.w3.org/2000/01/rdf-schema#label> "sranan tongo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003179> <http://www.w3.org/2000/01/rdf-schema#label> "Kosraeanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006026> <http://www.w3.org/2000/01/rdf-schema#label> "Serbisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001724> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelniederl\u00E4ndisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003892> <http://www.w3.org/2000/01/rdf-schema#label> "mandar"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002573> <http://www.w3.org/2000/01/rdf-schema#label> "Inuktitut"@de .
+<http://purl.obolibrary.org/obo/LANG_1005940> <http://www.w3.org/2000/01/rdf-schema#label> "Soninke-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006781> <http://www.w3.org/2000/01/rdf-schema#label> "ourdou"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003247> <http://www.w3.org/2000/01/rdf-schema#label> "Karelisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005515> <http://www.w3.org/2000/01/rdf-schema#label> "Osterinsel-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005931> <http://www.w3.org/2000/01/rdf-schema#label> "shona"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003462> <http://www.w3.org/2000/01/rdf-schema#label> "Judenspanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004743> <http://www.w3.org/2000/01/rdf-schema#label> "Bokm\u00E5l"@de .
+<http://purl.obolibrary.org/obo/LANG_1002102> <http://www.w3.org/2000/01/rdf-schema#label> "kiribati"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001899> <http://www.w3.org/2000/01/rdf-schema#label> "Persisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002812> <http://www.w3.org/2000/01/rdf-schema#label> "karakalpak"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004895> <http://www.w3.org/2000/01/rdf-schema#label> "chichewa | chewa | nyanja"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003762> <http://www.w3.org/2000/01/rdf-schema#label> "Ganda-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004391> <http://www.w3.org/2000/01/rdf-schema#label> "birman"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003113> <http://www.w3.org/2000/01/rdf-schema#label> "Kimbundu-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001660> <http://www.w3.org/2000/01/rdf-schema#label> "Dogri"@de .
+<http://purl.obolibrary.org/obo/LANG_1001803> <http://www.w3.org/2000/01/rdf-schema#label> "Elamisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004545> <http://www.w3.org/2000/01/rdf-schema#label> "n\u00E9palais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001859> <http://www.w3.org/2000/01/rdf-schema#label> "estonien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005327> <http://www.w3.org/2000/01/rdf-schema#label> "Ponapeanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001714> <http://www.w3.org/2000/01/rdf-schema#label> "douala"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001724> <http://www.w3.org/2000/01/rdf-schema#label> "n\u00E9erlandais moyen (ca. 1050-1350)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003322> <http://www.w3.org/2000/01/rdf-schema#label> "Kum\u00FCkisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000489> <http://www.w3.org/2000/01/rdf-schema#label> "Aymar\u00E1-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003173> <http://www.w3.org/2000/01/rdf-schema#label> "kom"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003805> <http://www.w3.org/2000/01/rdf-schema#label> "madourais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002455> <http://www.w3.org/2000/01/rdf-schema#label> "croate"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006280> <http://www.w3.org/2000/01/rdf-schema#label> "Telugu-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006610> <http://www.w3.org/2000/01/rdf-schema#label> "Tumbuka-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003815> <http://www.w3.org/2000/01/rdf-schema#label> "Malinke-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006716> <http://www.w3.org/2000/01/rdf-schema#label> "ougaritique"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000719> <http://www.w3.org/2000/01/rdf-schema#label> "bini | edo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004923> <http://www.w3.org/2000/01/rdf-schema#label> "nzema"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006286> <http://www.w3.org/2000/01/rdf-schema#label> "Tereno-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003773> <http://www.w3.org/2000/01/rdf-schema#label> "Lushai-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003757> <http://www.w3.org/2000/01/rdf-schema#label> "Luba-Katanga-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004152> <http://www.w3.org/2000/01/rdf-schema#label> "Mohawk-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003951> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelirisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005822> <http://www.w3.org/2000/01/rdf-schema#label> "sidamo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001244> <http://www.w3.org/2000/01/rdf-schema#label> "Chinook-Jargon"@de .
+<http://purl.obolibrary.org/obo/LANG_1002508> <http://www.w3.org/2000/01/rdf-schema#label> "Iban-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000622> <http://www.w3.org/2000/01/rdf-schema#label> "Bengali"@de .
+<http://purl.obolibrary.org/obo/LANG_1004157> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005639> <http://www.w3.org/2000/01/rdf-schema#label> "rundi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001950> <http://www.w3.org/2000/01/rdf-schema#label> "Nordfriesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001251> <http://www.w3.org/2000/01/rdf-schema#label> "Tschuwaschisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1007600> <http://www.w3.org/2000/01/rdf-schema#label> "yoruba"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006182> <http://www.w3.org/2000/01/rdf-schema#label> "Tahitisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005923> <http://www.w3.org/2000/01/rdf-schema#label> "Skoltsaamisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001221> <http://www.w3.org/2000/01/rdf-schema#label> "Tschechisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001942> <http://www.w3.org/2000/01/rdf-schema#label> "Franz\u00F6sisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001965> <http://www.w3.org/2000/01/rdf-schema#label> "Ful"@de .
+<http://purl.obolibrary.org/obo/LANG_1000871> <http://www.w3.org/2000/01/rdf-schema#label> "Bosnisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004407> <http://www.w3.org/2000/01/rdf-schema#label> "erza"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005047> <http://www.w3.org/2000/01/rdf-schema#label> "galla"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001896> <http://www.w3.org/2000/01/rdf-schema#label> "f\u00E9ro\u00EFen"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006093> <http://www.w3.org/2000/01/rdf-schema#label> "soundanais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005325> <http://www.w3.org/2000/01/rdf-schema#label> "Polnisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006096> <http://www.w3.org/2000/01/rdf-schema#label> "Susu"@de .
+<http://purl.obolibrary.org/obo/LANG_1001593> <http://www.w3.org/2000/01/rdf-schema#label> "Maledivisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004455> <http://www.w3.org/2000/01/rdf-schema#label> "navaho"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005717> <http://www.w3.org/2000/01/rdf-schema#label> "Schottisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003756> <http://www.w3.org/2000/01/rdf-schema#label> "Lulua-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000503> <http://www.w3.org/2000/01/rdf-schema#label> "az\u00E9ri"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004907> <http://www.w3.org/2000/01/rdf-schema#label> "Nyamwezi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004755> <http://www.w3.org/2000/01/rdf-schema#label> "Altnorwegisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006905> <http://www.w3.org/2000/01/rdf-schema#label> "Wotisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000220> <http://www.w3.org/2000/01/rdf-schema#label> "al\u00E9oute"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003768> <http://www.w3.org/2000/01/rdf-schema#label> "lunda"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004552> <http://www.w3.org/2000/01/rdf-schema#label> "nepal bhasa | newari"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007850> <http://www.w3.org/2000/01/rdf-schema#label> "zoulou"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000202> <http://www.w3.org/2000/01/rdf-schema#label> "akkadien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006310> <http://www.w3.org/2000/01/rdf-schema#label> "Tagalog"@de .
+<http://purl.obolibrary.org/obo/LANG_1004748> <http://www.w3.org/2000/01/rdf-schema#label> "Nogaisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006831> <http://www.w3.org/2000/01/rdf-schema#label> "va\u00EF"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005419> <http://www.w3.org/2000/01/rdf-schema#label> "Paschtu"@de .
+<http://purl.obolibrary.org/obo/LANG_1001760> <http://www.w3.org/2000/01/rdf-schema#label> "dzongkha"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003471> <http://www.w3.org/2000/01/rdf-schema#label> "lamba"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002132> <http://www.w3.org/2000/01/rdf-schema#label> "galicien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006193> <http://www.w3.org/2000/01/rdf-schema#label> "Tatarisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001783> <http://www.w3.org/2000/01/rdf-schema#label> "Ekajuk"@de .
+<http://purl.obolibrary.org/obo/LANG_1006024> <http://www.w3.org/2000/01/rdf-schema#label> "Sranantongo"@de .
+<http://purl.obolibrary.org/obo/LANG_1001233> <http://www.w3.org/2000/01/rdf-schema#label> "chibcha"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000089> <http://www.w3.org/2000/01/rdf-schema#label> "adygh\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004732> <http://www.w3.org/2000/01/rdf-schema#label> "Nynorsk"@de .
+<http://purl.obolibrary.org/obo/LANG_1003174> <http://www.w3.org/2000/01/rdf-schema#label> "Kongo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001233> <http://www.w3.org/2000/01/rdf-schema#label> "Chibcha-Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1006928> <http://www.w3.org/2000/01/rdf-schema#label> "wolaitta | wolaytta"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003022> <http://www.w3.org/2000/01/rdf-schema#label> "rwanda"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005675> <http://www.w3.org/2000/01/rdf-schema#label> "Santali"@de .
+<http://purl.obolibrary.org/obo/LANG_1003769> <http://www.w3.org/2000/01/rdf-schema#label> "Luo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000927> <http://www.w3.org/2000/01/rdf-schema#label> "Braj-Bhakha"@de .
+<http://purl.obolibrary.org/obo/LANG_1002813> <http://www.w3.org/2000/01/rdf-schema#label> "kabyle"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006111> <http://www.w3.org/2000/01/rdf-schema#label> "swahili"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000724> <http://www.w3.org/2000/01/rdf-schema#label> "bichlamar"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001246> <http://www.w3.org/2000/01/rdf-schema#label> "Chipewyan-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003594> <http://www.w3.org/2000/01/rdf-schema#label> "Lingala"@de .
+<http://purl.obolibrary.org/obo/LANG_1003173> <http://www.w3.org/2000/01/rdf-schema#label> "Komi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002102> <http://www.w3.org/2000/01/rdf-schema#label> "Gilbertesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003763> <http://www.w3.org/2000/01/rdf-schema#label> "Luise\u00F1o-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003178> <http://www.w3.org/2000/01/rdf-schema#label> "cor\u00E9en"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004908> <http://www.w3.org/2000/01/rdf-schema#label> "nyankol\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002693> <http://www.w3.org/2000/01/rdf-schema#label> "javanais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003768> <http://www.w3.org/2000/01/rdf-schema#label> "Lunda-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002984> <http://www.w3.org/2000/01/rdf-schema#label> "khasi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002190> <http://www.w3.org/2000/01/rdf-schema#label> "Gondi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002184> <http://www.w3.org/2000/01/rdf-schema#label> "allemand, vieux haut (ca. 750-1050)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001011> <http://www.w3.org/2000/01/rdf-schema#label> "Bulgarisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006385> <http://www.w3.org/2000/01/rdf-schema#label> "Tokelauanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004815> <http://www.w3.org/2000/01/rdf-schema#label> "pedi | sepedi | sotho du Nord"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000521> <http://www.w3.org/2000/01/rdf-schema#label> "bambara"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001397> <http://www.w3.org/2000/01/rdf-schema#label> "kachoube"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007461> <http://www.w3.org/2000/01/rdf-schema#label> "yao"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000503> <http://www.w3.org/2000/01/rdf-schema#label> "Aserbeidschanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005108> <http://www.w3.org/2000/01/rdf-schema#label> "pahlavi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003809> <http://www.w3.org/2000/01/rdf-schema#label> "marshall"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001539> <http://www.w3.org/2000/01/rdf-schema#label> "allemand"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004523> <http://www.w3.org/2000/01/rdf-schema#label> "Niederdeutsch"@de .
+<http://purl.obolibrary.org/obo/LANG_1007028> <http://www.w3.org/2000/01/rdf-schema#label> "Wallonisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003600> <http://www.w3.org/2000/01/rdf-schema#label> "lituanien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001379> <http://www.w3.org/2000/01/rdf-schema#label> "Krimtatarisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006288> <http://www.w3.org/2000/01/rdf-schema#label> "tetum"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005639> <http://www.w3.org/2000/01/rdf-schema#label> "Rundi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006555> <http://www.w3.org/2000/01/rdf-schema#label> "tsimshian"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000051> <http://www.w3.org/2000/01/rdf-schema#label> "Aceh-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001947> <http://www.w3.org/2000/01/rdf-schema#label> "Altfranz\u00F6sisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001878> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9wondo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005960> <http://www.w3.org/2000/01/rdf-schema#label> "sogdien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007462> <http://www.w3.org/2000/01/rdf-schema#label> "Yapesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000379> <http://www.w3.org/2000/01/rdf-schema#label> "assamais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002824> <http://www.w3.org/2000/01/rdf-schema#label> "Kamba-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003179> <http://www.w3.org/2000/01/rdf-schema#label> "kosrae"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003810> <http://www.w3.org/2000/01/rdf-schema#label> "maithili"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002128> <http://www.w3.org/2000/01/rdf-schema#label> "ga\u00E9lique | ga\u00E9lique \u00E9cossais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001111> <http://www.w3.org/2000/01/rdf-schema#label> "blin | bilen"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002455> <http://www.w3.org/2000/01/rdf-schema#label> "Kroatisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003253> <http://www.w3.org/2000/01/rdf-schema#label> "Oraon-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002403> <http://www.w3.org/2000/01/rdf-schema#label> "Miao-Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1001011> <http://www.w3.org/2000/01/rdf-schema#label> "bulgare"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002637> <http://www.w3.org/2000/01/rdf-schema#label> "Isl\u00E4ndisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001350> <http://www.w3.org/2000/01/rdf-schema#label> "copte"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002371> <http://www.w3.org/2000/01/rdf-schema#label> "Hiligaynon-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003174> <http://www.w3.org/2000/01/rdf-schema#label> "kongo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000521> <http://www.w3.org/2000/01/rdf-schema#label> "Bambara-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002194> <http://www.w3.org/2000/01/rdf-schema#label> "gorontalo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007861> <http://www.w3.org/2000/01/rdf-schema#label> "zaza | dimili | dimli | kirdki | kirmanjki | zazaki"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004908> <http://www.w3.org/2000/01/rdf-schema#label> "Nkole-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004907> <http://www.w3.org/2000/01/rdf-schema#label> "nyamwezi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006472> <http://www.w3.org/2000/01/rdf-schema#label> "tonga (Nyasa)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004449> <http://www.w3.org/2000/01/rdf-schema#label> "Neapel / Mundart"@de .
+<http://purl.obolibrary.org/obo/LANG_1007696> <http://www.w3.org/2000/01/rdf-schema#label> "Zapotekisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001900> <http://www.w3.org/2000/01/rdf-schema#label> "fanti"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005665> <http://www.w3.org/2000/01/rdf-schema#label> "Sango-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003329> <http://www.w3.org/2000/01/rdf-schema#label> "Kutenai-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001969> <http://www.w3.org/2000/01/rdf-schema#label> "frioulan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006324> <http://www.w3.org/2000/01/rdf-schema#label> "tha\u00EF"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001896> <http://www.w3.org/2000/01/rdf-schema#label> "F\u00E4r\u00F6isch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001534> <http://www.w3.org/2000/01/rdf-schema#label> "esclave (athapascan)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002825> <http://www.w3.org/2000/01/rdf-schema#label> "Kannada"@de .
+<http://purl.obolibrary.org/obo/LANG_1005923> <http://www.w3.org/2000/01/rdf-schema#label> "sami skolt"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000015> <http://www.w3.org/2000/01/rdf-schema#label> "afar"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001254> <http://www.w3.org/2000/01/rdf-schema#label> "cheyenne"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002211> <http://www.w3.org/2000/01/rdf-schema#label> "Grebo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002459> <http://www.w3.org/2000/01/rdf-schema#label> "haut-sorabe"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000246> <http://www.w3.org/2000/01/rdf-schema#label> "amharique"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005931> <http://www.w3.org/2000/01/rdf-schema#label> "Schona-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006015> <http://www.w3.org/2000/01/rdf-schema#label> "sarde"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004125> <http://www.w3.org/2000/01/rdf-schema#label> "mandchou"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003322> <http://www.w3.org/2000/01/rdf-schema#label> "koumyk"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003555> <http://www.w3.org/2000/01/rdf-schema#label> "Lesgisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1007696> <http://www.w3.org/2000/01/rdf-schema#label> "zapot\u00E8que"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005906> <http://www.w3.org/2000/01/rdf-schema#label> "S\u00FCdsaamisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003815> <http://www.w3.org/2000/01/rdf-schema#label> "mandingue"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003951> <http://www.w3.org/2000/01/rdf-schema#label> "irlandais moyen (900-1200)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007709> <http://www.w3.org/2000/01/rdf-schema#label> "symboles Bliss | Bliss"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006362> <http://www.w3.org/2000/01/rdf-schema#label> "Tiv-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004523> <http://www.w3.org/2000/01/rdf-schema#label> "bas allemand | bas saxon | allemand, bas | saxon, bas"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006724> <http://www.w3.org/2000/01/rdf-schema#label> "ou\u00EFgour"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002824> <http://www.w3.org/2000/01/rdf-schema#label> "kamba"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001164> <http://www.w3.org/2000/01/rdf-schema#label> "Karibische Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1005104> <http://www.w3.org/2000/01/rdf-schema#label> "Pangasinan-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005972> <http://www.w3.org/2000/01/rdf-schema#label> "S\u00FCd-Sotho-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002984> <http://www.w3.org/2000/01/rdf-schema#label> "Khasi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002825> <http://www.w3.org/2000/01/rdf-schema#label> "kannada"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000271> <http://www.w3.org/2000/01/rdf-schema#label> "anglo-saxon (ca.450-1100)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006186> <http://www.w3.org/2000/01/rdf-schema#label> "tamoul"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005914> <http://www.w3.org/2000/01/rdf-schema#label> "sami de Lule"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006472> <http://www.w3.org/2000/01/rdf-schema#label> "Tonga (Bantusprache, Sambia)"@de .
+<http://purl.obolibrary.org/obo/LANG_1004352> <http://www.w3.org/2000/01/rdf-schema#label> "Mirandesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003478> <http://www.w3.org/2000/01/rdf-schema#label> "latin"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003755> <http://www.w3.org/2000/01/rdf-schema#label> "Luxemburgisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005609> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00E4toromanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005670> <http://www.w3.org/2000/01/rdf-schema#label> "sanskrit"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005918> <http://www.w3.org/2000/01/rdf-schema#label> "sami d'Inari"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000111> <http://www.w3.org/2000/01/rdf-schema#label> "afrihili"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006643> <http://www.w3.org/2000/01/rdf-schema#label> "twi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004509> <http://www.w3.org/2000/01/rdf-schema#label> "Ndebele-Sprache (Simbabwe)"@de .
+<http://purl.obolibrary.org/obo/LANG_1005674> <http://www.w3.org/2000/01/rdf-schema#label> "Sasak"@de .
+<http://purl.obolibrary.org/obo/LANG_1005612> <http://www.w3.org/2000/01/rdf-schema#label> "roumain | moldave"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006935> <http://www.w3.org/2000/01/rdf-schema#label> "washo"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002286> <http://www.w3.org/2000/01/rdf-schema#label> "gwich'in"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002598> <http://www.w3.org/2000/01/rdf-schema#label> "interlingua (langue auxiliaire internationale)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001463> <http://www.w3.org/2000/01/rdf-schema#label> "Kymrisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001937> <http://www.w3.org/2000/01/rdf-schema#label> "fon"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003594> <http://www.w3.org/2000/01/rdf-schema#label> "lingala"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002823> <http://www.w3.org/2000/01/rdf-schema#label> "groenlandais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001478> <http://www.w3.org/2000/01/rdf-schema#label> "dakota"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003473> <http://www.w3.org/2000/01/rdf-schema#label> "Laotisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006934> <http://www.w3.org/2000/01/rdf-schema#label> "Waray"@de .
+<http://purl.obolibrary.org/obo/LANG_1000620> <http://www.w3.org/2000/01/rdf-schema#label> "Wei\u00DFrussisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005059> <http://www.w3.org/2000/01/rdf-schema#label> "osage"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004228> <http://www.w3.org/2000/01/rdf-schema#label> "maori"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002830> <http://www.w3.org/2000/01/rdf-schema#label> "Georgisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005363> <http://www.w3.org/2000/01/rdf-schema#label> "Altokzitanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001238> <http://www.w3.org/2000/01/rdf-schema#label> "Tschagataisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005611> <http://www.w3.org/2000/01/rdf-schema#label> "Romani (Sprache)"@de .
+<http://purl.obolibrary.org/obo/LANG_1000620> <http://www.w3.org/2000/01/rdf-schema#label> "bi\u00E9lorusse"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003113> <http://www.w3.org/2000/01/rdf-schema#label> "kimbundu"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002481> <http://www.w3.org/2000/01/rdf-schema#label> "Ungarisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004872> <http://www.w3.org/2000/01/rdf-schema#label> "Alt-Newari"@de .
+<http://purl.obolibrary.org/obo/LANG_1002598> <http://www.w3.org/2000/01/rdf-schema#label> "Interlingua"@de .
+<http://purl.obolibrary.org/obo/LANG_1001837> <http://www.w3.org/2000/01/rdf-schema#label> "Esperanto"@de .
+<http://purl.obolibrary.org/obo/LANG_1005112> <http://www.w3.org/2000/01/rdf-schema#label> "papiamento"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005906> <http://www.w3.org/2000/01/rdf-schema#label> "sami du Sud"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000192> <http://www.w3.org/2000/01/rdf-schema#label> "Akan-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1005665> <http://www.w3.org/2000/01/rdf-schema#label> "sango"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003480> <http://www.w3.org/2000/01/rdf-schema#label> "Lettisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006385> <http://www.w3.org/2000/01/rdf-schema#label> "tokelau"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002557> <http://www.w3.org/2000/01/rdf-schema#label> "Lalo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006831> <http://www.w3.org/2000/01/rdf-schema#label> "Vai-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004162> <http://www.w3.org/2000/01/rdf-schema#label> "mor\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006753> <http://www.w3.org/2000/01/rdf-schema#label> "Mbundu-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1002371> <http://www.w3.org/2000/01/rdf-schema#label> "hiligaynon"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006310> <http://www.w3.org/2000/01/rdf-schema#label> "tagalog"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001946> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelfranz\u00F6sisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005666> <http://www.w3.org/2000/01/rdf-schema#label> "Jakutisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002814> <http://www.w3.org/2000/01/rdf-schema#label> "Kachin-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003026> <http://www.w3.org/2000/01/rdf-schema#label> "Kirgisisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001250> <http://www.w3.org/2000/01/rdf-schema#label> "Kirchenslawisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1004545> <http://www.w3.org/2000/01/rdf-schema#label> "Nepali"@de .
+<http://purl.obolibrary.org/obo/LANG_1002350> <http://www.w3.org/2000/01/rdf-schema#label> "Hebr\u00E4isch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005934> <http://www.w3.org/2000/01/rdf-schema#label> "sindhi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003698> <http://www.w3.org/2000/01/rdf-schema#label> "Mongo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001586> <http://www.w3.org/2000/01/rdf-schema#label> "dinka"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001006> <http://www.w3.org/2000/01/rdf-schema#label> "bugi"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001250> <http://www.w3.org/2000/01/rdf-schema#label> "slavon d'\u00E9glise | vieux slave | slavon liturgique | vieux bulgare"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001484> <http://www.w3.org/2000/01/rdf-schema#label> "dargwa"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000117> <http://www.w3.org/2000/01/rdf-schema#label> "Afrikaans"@de .
+<http://purl.obolibrary.org/obo/LANG_1005979> <http://www.w3.org/2000/01/rdf-schema#label> "Spanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000358> <http://www.w3.org/2000/01/rdf-schema#label> "arapaho"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004783> <http://www.w3.org/2000/01/rdf-schema#label> "n'ko"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005447> <http://www.w3.org/2000/01/rdf-schema#label> "quechua"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002141> <http://www.w3.org/2000/01/rdf-schema#label> "manx | mannois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005832> <http://www.w3.org/2000/01/rdf-schema#label> "singhalais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000522> <http://www.w3.org/2000/01/rdf-schema#label> "Balinesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006157> <http://www.w3.org/2000/01/rdf-schema#label> "Neuostaram\u00E4isch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006849> <http://www.w3.org/2000/01/rdf-schema#label> "Venda-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1007709> <http://www.w3.org/2000/01/rdf-schema#label> "Bliss-Symbol"@de .
+<http://purl.obolibrary.org/obo/LANG_1003239> <http://www.w3.org/2000/01/rdf-schema#label> "karatchai balkar"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001217> <http://www.w3.org/2000/01/rdf-schema#label> "Cebuano"@de .
+<http://purl.obolibrary.org/obo/LANG_1001000> <http://www.w3.org/2000/01/rdf-schema#label> "Burjatisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002829> <http://www.w3.org/2000/01/rdf-schema#label> "kashmiri"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006716> <http://www.w3.org/2000/01/rdf-schema#label> "Ugaritisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000358> <http://www.w3.org/2000/01/rdf-schema#label> "Arapaho-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1007718> <http://www.w3.org/2000/01/rdf-schema#label> "Zenaga"@de .
+<http://purl.obolibrary.org/obo/LANG_1000780> <http://www.w3.org/2000/01/rdf-schema#label> "blackfoot"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006686> <http://www.w3.org/2000/01/rdf-schema#label> "touva"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001915> <http://www.w3.org/2000/01/rdf-schema#label> "finnois"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001937> <http://www.w3.org/2000/01/rdf-schema#label> "Fon-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000280> <http://www.w3.org/2000/01/rdf-schema#label> "Anga-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003239> <http://www.w3.org/2000/01/rdf-schema#label> "Karatschaiisch-Balkarisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003471> <http://www.w3.org/2000/01/rdf-schema#label> "Lamba-Sprache (Bantusprache)"@de .
+<http://purl.obolibrary.org/obo/LANG_1005447> <http://www.w3.org/2000/01/rdf-schema#label> "Quechua-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000364> <http://www.w3.org/2000/01/rdf-schema#label> "arawak"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007852> <http://www.w3.org/2000/01/rdf-schema#label> "Zu\u00F1i-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1003913> <http://www.w3.org/2000/01/rdf-schema#label> "Mende-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001777> <http://www.w3.org/2000/01/rdf-schema#label> "\u00C4gyptisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002403> <http://www.w3.org/2000/01/rdf-schema#label> "hmong"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002219> <http://www.w3.org/2000/01/rdf-schema#label> "guarani"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004306> <http://www.w3.org/2000/01/rdf-schema#label> "Mehrere Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1007028> <http://www.w3.org/2000/01/rdf-schema#label> "wallon"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001232> <http://www.w3.org/2000/01/rdf-schema#label> "Chamorro-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000931> <http://www.w3.org/2000/01/rdf-schema#label> "breton"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006935> <http://www.w3.org/2000/01/rdf-schema#label> "Washo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004079> <http://www.w3.org/2000/01/rdf-schema#label> "malgache"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006495> <http://www.w3.org/2000/01/rdf-schema#label> "Neumelanesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001241> <http://www.w3.org/2000/01/rdf-schema#label> "chuuk"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004609> <http://www.w3.org/2000/01/rdf-schema#label> "nias"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004391> <http://www.w3.org/2000/01/rdf-schema#label> "Birmanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1003466> <http://www.w3.org/2000/01/rdf-schema#label> "lahnda"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004018> <http://www.w3.org/2000/01/rdf-schema#label> "Einzelne andere Sprachen"@de .
+<http://purl.obolibrary.org/obo/LANG_1006309> <http://www.w3.org/2000/01/rdf-schema#label> "Tadschikisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000856> <http://www.w3.org/2000/01/rdf-schema#label> "tib\u00E9tain"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002557> <http://www.w3.org/2000/01/rdf-schema#label> "yi de Sichuan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002997> <http://www.w3.org/2000/01/rdf-schema#label> "khotanais | sakan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003818> <http://www.w3.org/2000/01/rdf-schema#label> "massa\u00EF"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002517> <http://www.w3.org/2000/01/rdf-schema#label> "Ibo-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006428> <http://www.w3.org/2000/01/rdf-schema#label> "Tama\u009Aeq"@de .
+<http://purl.obolibrary.org/obo/LANG_1005966> <http://www.w3.org/2000/01/rdf-schema#label> "somali"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005891> <http://www.w3.org/2000/01/rdf-schema#label> "slovaque"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001914> <http://www.w3.org/2000/01/rdf-schema#label> "Pilipino"@de .
+<http://purl.obolibrary.org/obo/LANG_1003247> <http://www.w3.org/2000/01/rdf-schema#label> "car\u00E9lien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005940> <http://www.w3.org/2000/01/rdf-schema#label> "sonink\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005716> <http://www.w3.org/2000/01/rdf-schema#label> "sicilien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002602> <http://www.w3.org/2000/01/rdf-schema#label> "ingouche"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004627> <http://www.w3.org/2000/01/rdf-schema#label> "niu\u00E9"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000871> <http://www.w3.org/2000/01/rdf-schema#label> "bosniaque"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001913> <http://www.w3.org/2000/01/rdf-schema#label> "fidjien"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005757> <http://www.w3.org/2000/01/rdf-schema#label> "Selkupisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001953> <http://www.w3.org/2000/01/rdf-schema#label> "Friesisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001245> <http://www.w3.org/2000/01/rdf-schema#label> "choctaw"@fr .
+<http://purl.obolibrary.org/obo/LANG_1003593> <http://www.w3.org/2000/01/rdf-schema#label> "Limburgisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1000621> <http://www.w3.org/2000/01/rdf-schema#label> "bemba"@fr .
+<http://purl.obolibrary.org/obo/LANG_1000622> <http://www.w3.org/2000/01/rdf-schema#label> "bengali"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001977> <http://www.w3.org/2000/01/rdf-schema#label> "Ga-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000280> <http://www.w3.org/2000/01/rdf-schema#label> "angika"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006686> <http://www.w3.org/2000/01/rdf-schema#label> "Tuwinisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006643> <http://www.w3.org/2000/01/rdf-schema#label> "Twi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004783> <http://www.w3.org/2000/01/rdf-schema#label> "N'Ko"@de .
+<http://purl.obolibrary.org/obo/LANG_1001873> <http://www.w3.org/2000/01/rdf-schema#label> "basque"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006614> <http://www.w3.org/2000/01/rdf-schema#label> "T\u00FCrkisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1006555> <http://www.w3.org/2000/01/rdf-schema#label> "Tsimshian-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1004815> <http://www.w3.org/2000/01/rdf-schema#label> "Pedi-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001965> <http://www.w3.org/2000/01/rdf-schema#label> "peul"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001330> <http://www.w3.org/2000/01/rdf-schema#label> "mont\u00E9n\u00E9grin"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001953> <http://www.w3.org/2000/01/rdf-schema#label> "frison occidental"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001376> <http://www.w3.org/2000/01/rdf-schema#label> "cree"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002375> <http://www.w3.org/2000/01/rdf-schema#label> "hittite"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001586> <http://www.w3.org/2000/01/rdf-schema#label> "Dinka-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006478> <http://www.w3.org/2000/01/rdf-schema#label> "tongan (\u00CEles Tonga)"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001397> <http://www.w3.org/2000/01/rdf-schema#label> "Kaschubisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1007725> <http://www.w3.org/2000/01/rdf-schema#label> "zhuang | chuang"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005176> <http://www.w3.org/2000/01/rdf-schema#label> "Altpersisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002779> <http://www.w3.org/2000/01/rdf-schema#label> "Japanisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002251> <http://www.w3.org/2000/01/rdf-schema#label> "goudjrati"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002780> <http://www.w3.org/2000/01/rdf-schema#label> "J\u00FCdisch-Persisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001376> <http://www.w3.org/2000/01/rdf-schema#label> "Cree-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1000386> <http://www.w3.org/2000/01/rdf-schema#label> "Asturisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005108> <http://www.w3.org/2000/01/rdf-schema#label> "Mittelpersisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1001942> <http://www.w3.org/2000/01/rdf-schema#label> "fran\u00E7ais"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005059> <http://www.w3.org/2000/01/rdf-schema#label> "Osage-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1006823> <http://www.w3.org/2000/01/rdf-schema#label> "ouszbek"@fr .
+<http://purl.obolibrary.org/obo/LANG_1004013> <http://www.w3.org/2000/01/rdf-schema#label> "minangkabau"@fr .
+<http://purl.obolibrary.org/obo/LANG_1005807> <http://www.w3.org/2000/01/rdf-schema#label> "Schan-Sprache"@de .
+<http://purl.obolibrary.org/obo/LANG_1001895> <http://www.w3.org/2000/01/rdf-schema#label> "fang"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001803> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E9lamite"@fr .
+<http://purl.obolibrary.org/obo/LANG_1002702> <http://www.w3.org/2000/01/rdf-schema#label> "Lojban"@de .
+<http://purl.obolibrary.org/obo/LANG_1004454> <http://www.w3.org/2000/01/rdf-schema#label> "nauruan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1007861> <http://www.w3.org/2000/01/rdf-schema#label> "Zazaki"@de .
+<http://purl.obolibrary.org/obo/LANG_1003327> <http://www.w3.org/2000/01/rdf-schema#label> "Kurdisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1002531> <http://www.w3.org/2000/01/rdf-schema#label> "ido"@fr .
+<http://purl.obolibrary.org/obo/LANG_1006150> <http://www.w3.org/2000/01/rdf-schema#label> "syriaque classique"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001969> <http://www.w3.org/2000/01/rdf-schema#label> "Friulisch"@de .
+<http://purl.obolibrary.org/obo/LANG_1005807> <http://www.w3.org/2000/01/rdf-schema#label> "chan"@fr .
+<http://purl.obolibrary.org/obo/LANG_1001823> <http://www.w3.org/2000/01/rdf-schema#label> "Englisch"@de .
 
