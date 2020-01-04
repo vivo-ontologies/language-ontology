@@ -9,7 +9,6 @@ Prefix(dcterms:=<http://purl.org/dc/terms/>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/lang.owl>
-Import(<http://purl.obolibrary.org/obo/bfo.owl>)
 Import(<http://purl.obolibrary.org/obo/lang/releases/2020-01-02/imports/bfo_import.owl>)
 Annotation(dce:description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.")
 Annotation(dce:title "Language Ontology")

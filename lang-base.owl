@@ -10,7 +10,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/lang/lang-base.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/lang/releases/2020-01-03/lang-base.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/lang/releases/2020-01-04/lang-base.owl"/>
         <dc:description>The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.</dc:description>
         <dc:title>Language Ontology</dc:title>
         <terms:license>CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/</terms:license>
