@@ -1,5 +1,5 @@
 # Language Ontology
-# 
+
 ***Early DRAFT***
 
 This is draft work, an effort to create an OBO-compliant, BFO-based, reusable,
