@@ -43,7 +43,6 @@ def main():
         if p == OBO.LANG_0000004:  # Part 2B Code
             g1s.add((s, RDFS.label, o))
             uri[str(o)] = s
-    g1s.serialize('out.nt', format='nt')
 
     print("Assertions in LANG terms", len(uri))
 
