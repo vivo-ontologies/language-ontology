@@ -3,7 +3,7 @@ language ontology.
 
 * `vocabularyiso639-2.ttl` is the LOC linked data for iso639-2.  It cantains
 french, genrman, and english labels for each of the iso-639 languages.  Note: 
-we have no source for language labels for iso639-2.  If you have a source that
+we have no source for language labels for iso639-3.  If you have a source that
 can be reused, please open an issue and let us know. 
 * `iso-639-i18n-generator.py` is a small python program that reads the LOC linked
 data, the LANG terms, and writes `iso-639-i18n.nt` a collecton of triples for
