@@ -29,6 +29,10 @@ obofoundry.org)
 Editors of this ontology should use the edit version,
 [src/ontology/lang-edit.owl](src/ontology/lang-edit.owl)
 
+## Wiki
+
+The [Language Ontology Wiki](https://github.com/mconlon17/language-ontology/wiki) contains additional information project intent and goals, repository structure, development, build, and release processes.
+
 ## Contact
 Please use this GitHub repository's [Issue
 tracker](https://github.com/mconlon17/language-ontology/issues) to request new
