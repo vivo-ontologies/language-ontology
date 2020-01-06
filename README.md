@@ -42,7 +42,7 @@ terms/classes or report errors or specific concerns related to the ontology.
 This work is licensed CC0.  Attribution is polite, not required.  To cite this
 work, consider using the text below:
 
-VIVO Ontology Interest Group (2019) Language Ontology,
+VIVO Project (2020) Language Ontology,
 https://github.com/mconlon17/language-ontology
 
 ## Acknowledgements
