@@ -51,5 +51,5 @@ Group](https://wiki.lyrasis.org/display/VIVO/Ontology+Interest+Group), creating
 ontologies for the representation of scholarship. Please consider supporting the
 work through membership in the VIVO project, and/or as an ontology developer.
 
-This ontology repository was created using the [ontology starter
+This ontology repository was created using the [ontology development kit
 kit](https://github.com/INCATools/ontology-starter-kit)
