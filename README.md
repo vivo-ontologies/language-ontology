@@ -31,7 +31,7 @@ Editors of this ontology should use the edit version,
 
 ## Wiki
 
-The [Language Ontology Wiki](https://github.com/mconlon17/language-ontology/wiki) contains additional information project intent and goals, repository structure, development, build, and release processes.
+The [Language Ontology Wiki](https://github.com/mconlon17/language-ontology/wiki) contains additional information, including project intent and goals, repository structure, development, build, and release processes.
 
 ## Contact
 Please use this GitHub repository's [Issue
