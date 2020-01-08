@@ -31,11 +31,11 @@ Editors of this ontology should use the edit version,
 
 ## Wiki
 
-The [Language Ontology Wiki](wiki/Home) contains additional information, including project intent and goals, usage, repository structure, development, build, and release processes.
+The [Language Ontology Wiki](https://github.com/mconlon17/language-ontology/wiki) contains additional information, including project intent and goals, usage, repository structure, development, build, and release processes.
 
 ## Contact
 Please use this GitHub repository's [Issue
-tracker](../issues) to request new
+tracker](https://github.com/mconlon17/language-ontology/issues) to request new
 terms/classes or report errors or specific concerns related to the ontology.
 
 ## Attribution
