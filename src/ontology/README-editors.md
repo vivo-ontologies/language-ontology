@@ -1,4 +1,4 @@
-These notes are for EDITORS of lang
+# Editing the Language Ontology
 
 This project was created using the [ontology development kit](https://github.com/INCATools/ontology-development-kit). See the site for details.
 
@@ -6,26 +6,26 @@ For more details on ontology management, please see the [OBO tutorial](https://g
 
 You may also want to read the [GO ontology editors guide](http://go-ontology.readthedocs.org/)
 
+For development, build and release processes of the Language Ontology, please see [Language Ontology Development, Build, and Release Processes](https://github.com/mconlon17/language-ontology/wiki/Language-Ontology-Development,-Build,-and-Release-Processes) in the wiki of this repository.
+
 ## Requirements
 
  1. Protege (for editing)
  2. A git client (we assume command line git)
  3. [docker](https://www.docker.com/get-docker) (for managing releases)
 
-## Editors Version
+## Editor's Version
 
-Make sure you have an ID range in the [idranges file](lang-idranges.owl)
+The editor's version is [lang-edit.owl](lang-edit.owl)
 
-If you do not have one, get one from the maintainer of this repo.
+**DO NOT EDIT lang.obo OR lang.owl in the top level directory, these are created automatically by the Makefile**
 
-The editors version is [lang-edit.owl](lang-edit.owl)
+**DO NOT EDIT the template files.  See the README in [../templates](../templates) for a description of how the 
+language classes are created from ISO-639-3 data.  They are not created by editing.** 
 
-** DO NOT EDIT lang.obo OR lang.owl in the top level directory, these are created automatically by the Makefile **
-
-** DO NOT EDIT the template files.  See the README in [../templates](../templates) for a description of how the 
-language classes are created from ISO-639-3 data.  They are not created by editing. ** 
-
-[../../lang.owl](../../lang.owl) is the release version
+[../../lang.owl](../../lang.owl) is the release version and may be useful for inspection -- it contains all 
+assertions.  lang-edit.owl does not include i18n, templated, or imported assertions.  This makes lang-edit small, 
+and easy to work with, but "hides" some assertions that may be useful to see.
 
 To edit, first make sure you have the repository cloned, see [the GitHub project](https://github.com/mconlon17/language-ontology) for details. The edit [lang-edit.owl](lang-edit.owl) using Protege or other editor.
 
@@ -38,44 +38,20 @@ Editors Tutorial](https://go-protege-tutorial.readthedocs.io/en/latest/).
 In general, it is bad practice to commit changes to master. It is
 better to make changes on a branch, and make Pull Requests.
 
-## ID Ranges
-
-These are stored in the file
-
- * [lang-idranges.owl](lang-idranges.owl)
-
-** ONLY USE IDs WITHIN YOUR RANGE!! **
-
-If you have only just set up this repository, modify the idranges file
-	and add yourself or other editors. Note Protege does not read the file
-- it is up to you to ensure correct Protege configuration.
-
-
-### Setting ID ranges in Protege
-
-We aim to put this up on the technical docs for OBO on http://obofoundry.org/
-
-For now, consult the [GO Tutorial on configuring Protege](http://go-protege-tutorial.readthedocs.io/en/latest/Entities.html#new-entities)
-
 ## Imports
 
-All import modules are in the [imports/](imports/) folder.
+*Note: The Language Ontology currently imports two terms from BFO*
 
-There are two ways to include new classes in an import module
+To add additional terms to import:
 
- 1. Reference an external ontology class in the edit ontology. In Protege: "add new entity", then paste in the PURL
- 2. Add to the imports/lang_terms.txt file
-
-After doing this, you can run
-
-`./run.sh make all_imports`
-
-to regenerate imports.
-
-Note: the lang_terms.txt file may include 'starter' classes seeded from
-the ontology starter kit. It is safe to remove these.
+1. Add the ontology source to [./mirror](./mirror) if it not already there
+1. Add the terms to be imported to the file [./imports/ontology-terms-complete.txt] where
+ontology is the name of the ontology from which terms will be imported
+1. Edit the Makefile to add the new ontology to the list of imports
 
 ## Design patterns
+
+*Note: The Language Ontology does not currently use design patterns*
 
 You can automate (class) term generation from design patterns by placing DOSDP
 yaml file and tsv files under src/patterns. Any pair of files in this
@@ -111,6 +87,8 @@ definitions file.
 
 
 ## Release Manager notes
+
+*Note: The Language Ontology does not currently use travis*
 
 You should only attempt to make a release AFTER the edit version is
 committed and pushed, AND the travis build passes.
@@ -150,7 +128,7 @@ Finally type:
 
     git push origin master
 
-IMMEDIATELY AFTERWARDS (do *not* make further modifications) go here:
+__IMMEDIATELY AFTERWARDS__ (do *not* make further modifications) go here:
 
  * https://github.com/mconlon17/language-ontology/releases
  * https://github.com/mconlon17/language-ontology/releases/new
@@ -167,8 +145,8 @@ This cannot be changed after the fact, be sure to get this right!
 
 Release title should be YYYY-MM-DD, optionally followed by a title (e.g. "january release")
 
-You can also add release notes (this can also be done after the fact). These are in markdown format.
-In future we will have better tools for auto-generating release notes.
+You can also add release notes (this can also be done after the fact). These are in 
+markdown format. In future ODK will have better tools for auto-generating release notes.
 
 Then click "publish release"
 

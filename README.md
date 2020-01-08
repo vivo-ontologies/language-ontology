@@ -36,7 +36,7 @@ The [Language Ontology Wiki](https://github.com/mconlon17/language-ontology/wiki
 ## Contact
 Please use this GitHub repository's [Issue
 tracker](https://github.com/mconlon17/language-ontology/issues) to request new
-terms/classes or report errors or specific concerns related to the ontology.
+terms/classes, other ontology or documentation improvements, or to report errors or concerns related to the ontology.
 
 ## Attribution
 This work is licensed CC0.  Attribution is polite, not required.  To cite this

@@ -1,4 +1,7 @@
-Metadata files for the OBO Library
+#Metadata files for the OBO Library
+
+*Note: When the Language Ontology is submitted to the OBO Foundry, we will work with the Foundry maintainers to
+improve the metadata in this folder*
 
  * [lang.yml](lang.yml)
      * Determines how your purl.obolibrary.org/obo/lang/ redirects will be handled

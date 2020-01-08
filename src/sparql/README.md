@@ -2,14 +2,13 @@
 
 [SPARQL](https://www.w3.org/TR/rdf-sparql-query/) is a W3C standard
 query language for RDF. This directory contains useful SPARQL queries
-for perfoming over the ontology.
+for checking the ontology.
 
 SPARQL can be executed on a triplestore or directly on any OWL
 file. The queries here are all executed on either lang-edit.obo or
-downstream products in the [ontology](../ontology/) folder. We use
-`robot` as this allows easy execution over any Obo-format or OWL file.
-
-We break the queries into 3 categories:
+downstream products in the [ontology](../ontology/) folder.
+`robot` is used to execute the queries, as this allows easy execution over 
+any Obo-format or OWL file.
 
 ## Constraint Violation checks
 
@@ -17,7 +16,7 @@ These are all named `*violation.sparql`. A subset of these are
 configured to be executed via travis. If these return any results,
 then the build will fail.
 
-Consult the individual sparql files to see the intent of the check
+Consult the individual sparql files to see the intent of the check.
 
 ## Construct queries
 
