@@ -1,5 +1,5 @@
 ?cls	?def	?xrefs
-<http://purl.obolibrary.org/obo/LANG_0000018>	"One of A2+, A2 or A1 capability."	
+<http://purl.obolibrary.org/obo/LANG_0000018>	"One of A2+, A2 or A1 capability."@en	
 <http://purl.obolibrary.org/obo/LANG_0000010>	"Either C1 or C2 capability"@en	
 <http://purl.obolibrary.org/obo/LANG_0000001>	"A language is a structured system of communication. Language, in a broader sense, is the method of communication that involves the use of – particularly human – languages."@en	
 <http://purl.obolibrary.org/obo/LANG_0000012>	"Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express him/herself fluently and spontaneously without much obvious searching for expressions. Can use language flexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices."@en	
@@ -12,4 +12,4 @@
 <http://purl.obolibrary.org/obo/LANG_0000017>	"Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans."@en	
 <http://purl.obolibrary.org/obo/LANG_0000014>	"Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. Plus."@en	
 <http://purl.obolibrary.org/obo/LANG_0000009>	"The capability an entity has to communicate using a language."@en	
-<http://purl.obolibrary.org/obo/LANG_0000013>	"Either B1 or B2 capability, or B1+ or B2+ capability."	
+<http://purl.obolibrary.org/obo/LANG_0000013>	"Either B1 or B2 capability, or B1+ or B2+ capability."@en	

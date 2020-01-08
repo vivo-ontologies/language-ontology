@@ -1,5 +1,5 @@
 format-version: 1.2
-data-version: lang/releases/2020-01-06/lang-full.obo
+data-version: lang/releases/2020-01-08/lang-full.obo
 ontology: lang/lang-full.obo
 property_value: http://purl.org/dc/elements/1.1/description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities." xsd:string
 property_value: http://purl.org/dc/elements/1.1/title "Language Ontology" xsd:string
@@ -166,6 +166,10 @@ property_value: IAO:0000600 "Eg: x bearer of y.  x a person.  y a CEFR Global Sc
 
 [Term]
 id: LANG:0000011
+name: Capacidad de usuario competente a escala mundial del CEFR C2
+name: Capacità utente competente scala globale del QCER C2
+name: CECRL : une capacité d'utilisation efficace à l'échelle mondiale C2
+name: CEFR Global Scale Kompetente Benutzerfähigkeit C2
 name: CEFR Global Scale Proficient User C2 Capability
 def: "Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations." []
 def: "Es capaz de comprender con facilidad prácticamente todo lo que oye o lee.Sabe reconstruir la información y los argumentos procedentes de diversas fuentes, ya sean en lengua hablada oescrita, y presentarlos de manera coherente y resumida.Puede expresarse espontáneamente, con gran fluidez y con un grado de precisión que le permite diferenciar pequeñosmatices de significado incluso en situaciones de mayor complejidad." []
@@ -181,6 +185,10 @@ property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Proficient Us
 
 [Term]
 id: LANG:0000012
+name: Capacidad de usuario competente a escala mundial del CEFR C1
+name: Capacità utente competente scala globale del QCER C1
+name: CECRL : une capacité d'utilisation efficace à l'échelle mondiale C1
+name: CEFR Global Scale Kompetente Benutzerfähigkeit C1
 name: CEFR Global Scale Proficient User C1 Capability
 def: "Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express him/herself fluently and spontaneously without much obvious searching for expressions. Can use language flexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices." []
 def: "Es capaz de comprender una amplia variedad de textos extensos y con cierto nivel de exigencia, así como reconoceren ellos sentidos implícitos.Sabe expresarse de forma fluida y espontánea sin muestras muy evidentes de esfuerzo para encontrar la expresiónadecuada.Puede hacer un uso flexible y efectivo del idioma para fines sociales, académicos y profesionales.Puede producir textos claros, bien estructurados y detallados sobre temas de cierta complejidad, mostrando un usocorrecto de los mecanismos de organización, articulación y cohesión del texto." []
@@ -214,7 +222,11 @@ property_value: IAO:0000600 "Eg: x a person.  y a CEFR Global Scale Independent 
 
 [Term]
 id: LANG:0000014
+name: Capacidad de usuario independiente a escala global del CEFR B2+
+name: Capacità di utilizzo indipendente su scala globale del QCER B2+
+name: CECRL Capacité d'utilisation indépendante à l'échelle mondiale B2+
 name: CEFR Global Scale Independent User B2+ Capability
+name: CEFR Global Scale Unabhängige Nutzerfähigkeit B2+
 def: "Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. Plus." []
 def: "Es capaz de entender las ideas principales de textos complejos que traten de temas tanto concretos como abstractos,incluso si son de carácter técnico siempre que estén dentro de su campo de especialización.Puede relacionarse con hablantes nativos con un grado suficiente de fluidez y naturalidad de modo que lacomunicación se realice sin esfuerzo por parte de ninguno de los interlocutores.Puede producir textos claros y detallados sobre temas diversos así como defender un punto de vista sobre temasgenerales indicando los pros y los contras de las distintas opciones. PLUS" []
 def: "Kann die Hauptinhalte komplexer Texte zu konkreten und abstrakten Themenverstehen; versteht im eigenen Spezialgebiet auch Fachdiskussionen.Kann sich so spontan und fließend verständigen, dass ein normales Gespräch mitMuttersprachlern ohne größere Anstrengung auf beiden Seiten gut möglich ist.Kann sich zu einem breiten Themenspektrum klar und detailliert ausdrücken, einen Standpunkt zu einer aktuellen Frage erläutern und die Vor- und Nachteileverschiedener Möglichkeiten angeben. PLUS" []
@@ -229,7 +241,11 @@ property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent U
 
 [Term]
 id: LANG:0000015
+name: Capacidad de usuario independiente a escala global del CEFR B2
+name: Capacità di utilizzo indipendente su scala globale del QCER B2
+name: CECRL Capacité d'utilisation indépendante à l'échelle mondiale B2
 name: CEFR Global Scale Independent User B2 Capability
+name: CEFR Global Scale Unabhängige Nutzerfähigkeit B2
 def: "Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options." []
 def: "Es capaz de entender las ideas principales de textos complejos que traten de temas tanto concretos como abstractos,incluso si son de carácter técnico siempre que estén dentro de su campo de especialización.Puede relacionarse con hablantes nativos con un grado suficiente de fluidez y naturalidad de modo que lacomunicación se realice sin esfuerzo por parte de ninguno de los interlocutores.Puede producir textos claros y detallados sobre temas diversos así como defender un punto de vista sobre temasgenerales indicando los pros y los contras de las distintas opciones." []
 def: "Kann die Hauptinhalte komplexer Texte zu konkreten und abstrakten Themenverstehen; versteht im eigenen Spezialgebiet auch Fachdiskussionen.Kann sich so spontan und fließend verständigen, dass ein normales Gespräch mitMuttersprachlern ohne größere Anstrengung auf beiden Seiten gut möglich ist.Kann sich zu einem breiten Themenspektrum klar und detailliert ausdrücken, einen Standpunkt zu einer aktuellen Frage erläutern und die Vor- und Nachteileverschiedener Möglichkeiten angeben." []
@@ -244,7 +260,11 @@ property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent U
 
 [Term]
 id: LANG:0000016
+name: Capacidad de usuario independiente a escala global del CEFR B1+
+name: Capacità di utilizzo indipendente su scala globale del QCER B1+
+name: CECRL Capacité d'utilisation indépendante à l'échelle mondiale B1+
 name: CEFR Global Scale Independent User B1+ Capability
+name: CEFR Global Scale Unabhängige Nutzerfähigkeit B1+
 def: "Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans. Plus." []
 def: "Es capaz de comprender los puntos principales de textos claros y en lengua estándar si tratan sobre cuestiones que leson conocidas, ya sea en situaciones de trabajo, de estudio o de ocio.Sabe desenvolverse en la mayor parte de las situaciones que pueden surgir durante un viaje por zonas donde seutiliza la lengua.Es capaz de producir textos sencillos y coherentes sobre temas que le son familiares o en los que tiene un interéspersonal.Puede describir experiencias, acontecimientos, deseos y aspiraciones, así como justificar brevemente sus opiniones oexplicar sus planes. PLUS" []
 def: "Kann die Hauptpunkte verstehen, wenn klare Standardsprache verwendet wirdund wenn es um vertraute Dinge aus Arbeit, Schule, Freizeit usw. geht.Kann die meisten Situationen bewältigen, denen man auf Reisen im Sprachgebietbegegnet.Kann sich einfach und zusammenhängend über vertraute Themen und persönliche Interessengebiete äußern.Kann über Erfahrungen und Ereignisse berichten, Träume, Hoffnungen und Zielebeschreiben und zu Plänen und Ansichten kurze Begründungen oder Erklärungengeben. PLUS" []
@@ -259,7 +279,11 @@ property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent U
 
 [Term]
 id: LANG:0000017
+name: Capacidad de usuario independiente a escala global del CEFR B1
+name: Capacità di utilizzo indipendente su scala globale del QCER B1
+name: CECRL Capacité d'utilisation indépendante à l'échelle mondiale B1
 name: CEFR Global Scale Independent User B1 Capability
+name: CEFR Global Scale Unabhängige Nutzerfähigkeit B1
 def: "Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.  Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes & ambitions and briefly give reasons and explanations for opinions and plans." []
 def: "Es capaz de comprender los puntos principales de textos claros y en lengua estándar si tratan sobre cuestiones que leson conocidas, ya sea en situaciones de trabajo, de estudio o de ocio.Sabe desenvolverse en la mayor parte de las situaciones que pueden surgir durante un viaje por zonas donde seutiliza la lengua.Es capaz de producir textos sencillos y coherentes sobre temas que le son familiares o en los que tiene un interéspersonal.Puede describir experiencias, acontecimientos, deseos y aspiraciones, así como justificar brevemente sus opiniones oexplicar sus planes." []
 def: "Kann die Hauptpunkte verstehen, wenn klare Standardsprache verwendet wirdund wenn es um vertraute Dinge aus Arbeit, Schule, Freizeit usw. geht.Kann die meisten Situationen bewältigen, denen man auf Reisen im Sprachgebietbegegnet.Kann sich einfach und zusammenhängend über vertraute Themen und persönliche Interessengebiete äußern.Kann über Erfahrungen und Ereignisse berichten, Träume, Hoffnungen und Zielebeschreiben und zu Plänen und Ansichten kurze Begründungen oder Erklärungengeben." []
@@ -293,7 +317,11 @@ property_value: IAO:0000600 "Eg: x a person.  y a CEFR Global Scale Basic User C
 
 [Term]
 id: LANG:0000019
+name: Capacità utente di base su scala globale del QCER A2+
+name: CECRL Échelle globale Capacité de base de l'utilisateur A2+
 name: CEFR Global Scale Basic User A2+ Capability
+name: CEFR Global Scale Grundlegende Benutzerfähigkeiten A2+
+name: Escala Global del MCER Capacidad básica del usuario A2+
 def: "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need. Plus." []
 def: "Es capaz de comprender frases y expresiones de uso frecuente relacionadas con áreas de experiencia que le sonespecialmente relevantes (información básica sobre sí mismo y su familia, compras, lugares de interés, ocupaciones,etc.)Sabe comunicarse a la hora de llevar a cabo tareas simples y cotidianas que no requieran más que intercambiossencillos y directos de información sobre cuestiones que le son conocidas o habituales.Sabe describir en términos sencillos aspectos de su pasado y su entorno así como cuestiones relacionadas con susnecesidades inmediatas. PLUS" []
 def: "Kann Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen vonganz unmittelbarer Bedeutung zusammenhängen (z. B. Informationen zur Personund zur Familie, Einkaufen, Arbeit, nähere Umgebung).Kann sich in einfachen, routinemäßigen Situationen verständigen, in denen es umeinen einfachen und direkten Austausch von Informationen über vertraute undgeläufige Dinge geht.Kann mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben. PLUS" []
@@ -308,7 +336,11 @@ property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent U
 
 [Term]
 id: LANG:0000020
+name: Capacità utente di base su scala globale del QCER A2
+name: CECRL Échelle globale Capacité de base de l'utilisateur A2
 name: CEFR Global Scale Basic User A2 Capability
+name: CEFR Global Scale Grundlegende Benutzerfähigkeiten A2
+name: Escala Global del MCER Capacidad básica del usuario A2
 def: "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need." []
 def: "Es capaz de comprender frases y expresiones de uso frecuente relacionadas con áreas de experiencia que le sonespecialmente relevantes (información básica sobre sí mismo y su familia, compras, lugares de interés, ocupaciones,etc.)Sabe comunicarse a la hora de llevar a cabo tareas simples y cotidianas que no requieran más que intercambiossencillos y directos de información sobre cuestiones que le son conocidas o habituales.Sabe describir en términos sencillos aspectos de su pasado y su entorno así como cuestiones relacionadas con susnecesidades inmediatas." []
 def: "Kann Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen vonganz unmittelbarer Bedeutung zusammenhängen (z. B. Informationen zur Personund zur Familie, Einkaufen, Arbeit, nähere Umgebung).Kann sich in einfachen, routinemäßigen Situationen verständigen, in denen es umeinen einfachen und direkten Austausch von Informationen über vertraute undgeläufige Dinge geht.Kann mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben." []
@@ -323,7 +355,11 @@ property_value: IAO:0000600 "Eg: x a person. y a CEFR Global Scale Independent U
 
 [Term]
 id: LANG:0000021
+name: Capacità utente di base su scala globale del QCER A1
+name: CECRL Échelle globale Capacité de base de l'utilisateur A1
 name: CEFR Global Scale Basic User A1 Capability
+name: CEFR Global Scale Grundlegende Benutzerfähigkeiten A1
+name: Escala Global del MCER Capacidad básica del usuario A1
 def: "Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help." []
 def: "Es capaz de comprender y utilizar expresiones cotidianas de uso muy frecuente así como frases sencillas destinadas asatisfacer necesidades de tipo inmediato.Puede presentarse a sí mismo y a otros, pedir y dar información personal básica sobre su domicilio, sus pertenenciasy las personas que conoce.Puede relacionarse de forma elemental siempre que su interlocutor hable despacio y con claridad y esté dispuesto acooperar." []
 def: "Kann vertraute, alltägliche Ausdrücke und ganz einfache Sätze verstehen undverwenden, die auf die Befriedigung konkreter Bedürfnisse zielen.Kann sich und andere vorstellen und anderen Leuten Fragen zu ihrer Personstellen – z. B. wo sie wohnen, was für Leute sie kennen oder was für Dinge siehaben – und kann auf Fragen dieser Art Antwort geben.Kann sich auf einfache Art verständigen, wenn die Gesprächspartnerinnen oderGesprächspartner langsam und deutlich sprechen und bereit sind zu helfen." []

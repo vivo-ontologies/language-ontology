@@ -1,5 +1,5 @@
 format-version: 1.2
-data-version: lang/releases/2020-01-06/lang-base.obo
+data-version: lang/releases/2020-01-08/lang-base.obo
 ontology: lang/lang-base.obo
 property_value: http://purl.org/dc/elements/1.1/description "The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities." xsd:string
 property_value: http://purl.org/dc/elements/1.1/title "Language Ontology" xsd:string

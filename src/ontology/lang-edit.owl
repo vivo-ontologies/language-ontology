@@ -163,7 +163,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000012> <http://purl.obolibrary
 # Class: <http://purl.obolibrary.org/obo/LANG_0000013> (CEFR Global Scale Independent User Capability)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000013> "Edward can participate in conversations about his work.")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000013> "Either B1 or B2 capability, or B1+ or B2+ capability.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000013> "Either B1 or B2 capability, or B1+ or B2+ capability."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000013> "We might have left this class out and used only the proficiencies.")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_0000013> "PERSON: Michael Conlon")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000013> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"^^xsd:anyURI)
@@ -218,7 +218,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/LANG_0000017> <http://purl.obolibrary
 # Class: <http://purl.obolibrary.org/obo/LANG_0000018> (CEFR Global Scale Basic User Capability)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/LANG_0000018> "Margeritte has some conversational capabilities in english.")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000018> "One of A2+, A2 or A1 capability.")
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/LANG_0000018> "One of A2+, A2 or A1 capability."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/LANG_0000018> "We might have left this class out and used only the proficiencies.")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/LANG_0000018> "PERSON: Michael Conlon")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/LANG_0000018> "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale"^^xsd:anyURI)

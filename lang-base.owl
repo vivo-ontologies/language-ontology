@@ -10,7 +10,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/lang/lang-base.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/lang/releases/2020-01-06/lang-base.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/lang/releases/2020-01-08/lang-base.owl"/>
         <dc:description>The Language Ontology is a BFO-based, OBO compliant ontology of the languages of the world based on ISO 639.  ISO 639-1, 2 and 3 are included. The Language Ontology includes properties of the languages from ISO 639, as well as language capabilities.  The ontology is intended for use in representing the capabilities of people and organizations with respect to languages, as well as the languages of information content entities.</dc:description>
         <dc:title>Language Ontology</dc:title>
         <terms:license>CC0. No Rights Reserved. https://creativecommons.org/share-your-work/public-domain/cc0/</terms:license>
@@ -255,7 +255,7 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000013">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000009"/>
         <obo:IAO_0000112>Edward can participate in conversations about his work.</obo:IAO_0000112>
-        <obo:IAO_0000115>Either B1 or B2 capability, or B1+ or B2+ capability.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Either B1 or B2 capability, or B1+ or B2+ capability.</obo:IAO_0000115>
         <obo:IAO_0000116>We might have left this class out and used only the proficiencies.</obo:IAO_0000116>
         <obo:IAO_0000117>PERSON: Michael Conlon</obo:IAO_0000117>
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
@@ -330,7 +330,7 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/LANG_0000018">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/LANG_0000009"/>
         <obo:IAO_0000112>Margeritte has some conversational capabilities in english.</obo:IAO_0000112>
-        <obo:IAO_0000115>One of A2+, A2 or A1 capability.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">One of A2+, A2 or A1 capability.</obo:IAO_0000115>
         <obo:IAO_0000116>We might have left this class out and used only the proficiencies.</obo:IAO_0000116>
         <obo:IAO_0000117>PERSON: Michael Conlon</obo:IAO_0000117>
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale</obo:IAO_0000119>
