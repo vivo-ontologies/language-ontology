@@ -1,0 +1,49 @@
+# Count languages by parts
+
+PREFIX lang:  <http://purl.obolibrary.org/obo/LANG_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+SELECT ?ntotal ?npart1 ?npart2t ?npart2b ?npart3
+WHERE {
+
+    {
+    SELECT (count(distinct ?lang) as ?ntotal)
+    WHERE {
+        ?lang rdfs:subClassOf lang:0000001 . # is a language
+        }
+    }
+
+    {
+    SELECT (count(distinct ?lang) as ?npart1)
+    WHERE {
+        ?lang rdfs:subClassOf lang:0000001 . # is a language
+        ?lang lang:0000002 ?x .  # has a part 1 code
+        }
+    }
+
+    {
+    SELECT (count(distinct ?lang) as ?npart2t)
+    WHERE {
+        ?lang rdfs:subClassOf lang:0000001 . # is a language
+        ?lang lang:0000003 ?x .  # has a part 2T code
+        }
+    }
+    
+    {
+    SELECT (count(distinct ?lang) as ?npart2b)
+    WHERE {
+        ?lang rdfs:subClassOf lang:0000001 . # is a language
+        ?lang lang:0000004 ?x .  # has a part 2B code
+        }
+    }
+    
+    {
+    SELECT (count(distinct ?lang) as ?npart3)
+    WHERE {
+        ?lang rdfs:subClassOf lang:0000001 . # is a language
+        ?lang lang:0000005 ?x .  # has a part 3 code
+        }
+    }
+
+}

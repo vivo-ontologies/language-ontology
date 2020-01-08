@@ -1,0 +1,15 @@
+# list language capabilities
+
+PREFIX lang:  <http://purl.obolibrary.org/obo/LANG_>
+PREFIX iao:   <http://purl.obolibrary.org/obo/IAO_>
+PREFIX bfo:   <http://purl.obolibrary.org/obo/BFO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?cap ?cap_label ?cap_definition
+WHERE {
+    ?cap rdfs:subClassOf+ bfo:0000016 .  
+    ?cap rdfs:label ?cap_label .
+    ?cap iao:0000115 ?cap_definition .
+    FILTER(lang(?cap_label) = "fr" && lang(?cap_definition) = "fr")
+}
+ORDER BY ?cap

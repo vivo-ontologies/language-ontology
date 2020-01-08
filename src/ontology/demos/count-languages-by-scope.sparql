@@ -1,0 +1,13 @@
+# Count languages by scope
+
+PREFIX lang:  <http://purl.obolibrary.org/obo/LANG_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+SELECT (count(distinct ?lang) as ?nlang) ?scope
+WHERE {
+    ?lang rdfs:subClassOf lang:0000001 . # is a language
+    ?lang lang:0000006 ?scope .  # capture the language scope
+}
+GROUP BY ?scope
+ORDER BY ?scope

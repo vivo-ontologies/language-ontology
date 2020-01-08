@@ -36,8 +36,8 @@ RELEASE_ARTEFACTS = $(sort  full base base full)
 # ----------------------------------------
 
 .PHONY: .FORCE
-all: all_imports all_templates all_main all_subsets sparql_test all_reports all_assets
-test: sparql_test all_reports
+all: all_imports all_templates all_main all_subsets sparql_test all_reports all_demos all_assets
+test: sparql_test all_reports all_demos
 	$(ROBOT) reason --input $(SRC) --reasoner ELK --output test.owl && rm test.owl && echo "Success"
 
 ## -- main targets --
@@ -125,6 +125,7 @@ ASSETS = \
   $(TEMPLATE_FILES) \
   $(MAIN_FILES) \
   $(REPORT_FILES) \
+  $(DEMO_FILES) \
   $(SUBSET_FILES)
 
 all_assets: $(ASSETS)
@@ -234,6 +235,7 @@ imports/%_import.owl: mirror/%.owl imports/%_terms_combined.txt
 # we set strict mode to false by default. For discussion see https://github.com/owlcs/owlapi/issues/752
 imports/%_import.obo: imports/%_import.owl
 	@if [ $(IMP) = true ]; then $(ROBOT) convert --check false -i $< -f obo -o $@.tmp.obo && mv $@.tmp.obo $@; fi
+	
 # ----------------------------------------
 # Mirroring upstream ontologies
 # ----------------------------------------
@@ -241,9 +243,6 @@ imports/%_import.obo: imports/%_import.owl
 
 IMP=true # Global parameter to bypass import generation
 MIR=true # Global parameter to bypass mirror generation
-
-
-
 
 # ----------------------------------------
 # Subsets
@@ -259,7 +258,7 @@ subsets/%.owl: $(ONT).owl
 # ----------------------------------------
 # copy from staging area (this directory) to top-level
 release: $(ONT).owl $(ONT).obo
-	cp $^ $(RELEASEDIR) && cp imports/* $(RELEASEDIR)/imports
+	cp $^ $(RELEASEDIR) && cp imports/* $(RELEASEDIR)/imports && cp demos/* $(RELEASEDIR)/demos
 
 # ----------------------------------------
 # Sparql queries: Q/C
@@ -288,7 +287,17 @@ SPARQL_EXPORTS_ARGS = $(foreach V,$(SPARQL_EXPORTS),-s $(SPARQLDIR)/$V.sparql re
 # This combines all into one single command
 all_reports_onestep: $(SRC)
 	$(ROBOT) query -f tsv -i $< $(SPARQL_EXPORTS_ARGS)
+	
 
+# ----------------------------------------
+# Sparql queries: Demos
+# ----------------------------------------
+
+DEMO_FILES = $(wildcard demos/*)
+SPARQL_NAMES = $(basename $(wildcard demos/*.sparql))
+SPARQL_DEMO_ARGS = $(foreach V,$(SPARQL_NAMES),-s $V.sparql $V.tsv)
+all_demos : lang.owl
+	$(ROBOT) query -f tsv -i $< $(SPARQL_DEMO_ARGS)
 
 # ----------------------------------------
 # Docker (experimental)

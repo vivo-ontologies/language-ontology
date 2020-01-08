@@ -1,0 +1,9 @@
+# Count languages by parts
+
+PREFIX lang:  <http://purl.obolibrary.org/obo/LANG_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT (count(distinct ?lang) as ?nlang)
+WHERE {
+    ?lang rdfs:subClassOf lang:0000001 .
+}
