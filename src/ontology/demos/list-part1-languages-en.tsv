@@ -1,185 +1,185 @@
 ?label	?part1	?lang
-"Abkhazian"@en	"ab"	<http://purl.obolibrary.org/obo/LANG_1000032>
-"Afar"@en	"aa"	<http://purl.obolibrary.org/obo/LANG_1000015>
-"Afrikaans"@en	"af"	<http://purl.obolibrary.org/obo/LANG_1000117>
-"Akan"@en	"ak"	<http://purl.obolibrary.org/obo/LANG_1000192>
-"Albanian"@en	"sq"	<http://purl.obolibrary.org/obo/LANG_1006002>
-"Amharic"@en	"am"	<http://purl.obolibrary.org/obo/LANG_1000246>
-"Arabic"@en	"ar"	<http://purl.obolibrary.org/obo/LANG_1000345>
-"Aragonese"@en	"an"	<http://purl.obolibrary.org/obo/LANG_1000350>
-"Armenian"@en	"hy"	<http://purl.obolibrary.org/obo/LANG_1002503>
-"Assamese"@en	"as"	<http://purl.obolibrary.org/obo/LANG_1000379>
-"Avaric"@en	"av"	<http://purl.obolibrary.org/obo/LANG_1000439>
-"Avestan"@en	"ae"	<http://purl.obolibrary.org/obo/LANG_1000442>
-"Aymara"@en	"ay"	<http://purl.obolibrary.org/obo/LANG_1000489>
-"Azerbaijani"@en	"az"	<http://purl.obolibrary.org/obo/LANG_1000503>
-"Bambara"@en	"bm"	<http://purl.obolibrary.org/obo/LANG_1000521>
-"Bashkir"@en	"ba"	<http://purl.obolibrary.org/obo/LANG_1000519>
-"Basque"@en	"eu"	<http://purl.obolibrary.org/obo/LANG_1001873>
-"Belarusian"@en	"be"	<http://purl.obolibrary.org/obo/LANG_1000620>
-"Bengali"@en	"bn"	<http://purl.obolibrary.org/obo/LANG_1000622>
-"Bislama"@en	"bi"	<http://purl.obolibrary.org/obo/LANG_1000724>
-"Bosnian"@en	"bs"	<http://purl.obolibrary.org/obo/LANG_1000871>
-"Breton"@en	"br"	<http://purl.obolibrary.org/obo/LANG_1000931>
-"Bulgarian"@en	"bg"	<http://purl.obolibrary.org/obo/LANG_1001011>
-"Burmese"@en	"my"	<http://purl.obolibrary.org/obo/LANG_1004391>
-"Catalan"@en	"ca"	<http://purl.obolibrary.org/obo/LANG_1001166>
-"Chamorro"@en	"ch"	<http://purl.obolibrary.org/obo/LANG_1001232>
-"Chechen"@en	"ce"	<http://purl.obolibrary.org/obo/LANG_1001236>
-"Chinese"@en	"zh"	<http://purl.obolibrary.org/obo/LANG_1007730>
-"Church Slavic"@en	"cu"	<http://purl.obolibrary.org/obo/LANG_1001250>
-"Chuvash"@en	"cv"	<http://purl.obolibrary.org/obo/LANG_1001251>
-"Cornish"@en	"kw"	<http://purl.obolibrary.org/obo/LANG_1001352>
-"Corsican"@en	"co"	<http://purl.obolibrary.org/obo/LANG_1001353>
-"Cree"@en	"cr"	<http://purl.obolibrary.org/obo/LANG_1001376>
-"Croatian"@en	"hr"	<http://purl.obolibrary.org/obo/LANG_1002455>
-"Czech"@en	"cs"	<http://purl.obolibrary.org/obo/LANG_1001221>
-"Danish"@en	"da"	<http://purl.obolibrary.org/obo/LANG_1001481>
-"Dhivehi"@en	"dv"	<http://purl.obolibrary.org/obo/LANG_1001593>
-"Dutch"@en	"nl"	<http://purl.obolibrary.org/obo/LANG_1004676>
-"Dzongkha"@en	"dz"	<http://purl.obolibrary.org/obo/LANG_1001760>
-"English"@en	"en"	<http://purl.obolibrary.org/obo/LANG_1001823>
-"Esperanto"@en	"eo"	<http://purl.obolibrary.org/obo/LANG_1001837>
-"Estonian"@en	"et"	<http://purl.obolibrary.org/obo/LANG_1001859>
-"Ewe"@en	"ee"	<http://purl.obolibrary.org/obo/LANG_1001877>
-"Faroese"@en	"fo"	<http://purl.obolibrary.org/obo/LANG_1001896>
-"Fijian"@en	"fj"	<http://purl.obolibrary.org/obo/LANG_1001913>
-"Finnish"@en	"fi"	<http://purl.obolibrary.org/obo/LANG_1001915>
-"French"@en	"fr"	<http://purl.obolibrary.org/obo/LANG_1001942>
-"Fulah"@en	"ff"	<http://purl.obolibrary.org/obo/LANG_1001965>
-"Galician"@en	"gl"	<http://purl.obolibrary.org/obo/LANG_1002132>
-"Ganda"@en	"lg"	<http://purl.obolibrary.org/obo/LANG_1003762>
-"Georgian"@en	"ka"	<http://purl.obolibrary.org/obo/LANG_1002830>
-"German"@en	"de"	<http://purl.obolibrary.org/obo/LANG_1001539>
-"Guarani"@en	"gn"	<http://purl.obolibrary.org/obo/LANG_1002219>
-"Gujarati"@en	"gu"	<http://purl.obolibrary.org/obo/LANG_1002251>
-"Haitian"@en	"ht"	<http://purl.obolibrary.org/obo/LANG_1002331>
-"Hausa"@en	"ha"	<http://purl.obolibrary.org/obo/LANG_1002332>
-"Hebrew"@en	"he"	<http://purl.obolibrary.org/obo/LANG_1002350>
-"Herero"@en	"hz"	<http://purl.obolibrary.org/obo/LANG_1002356>
-"Hindi"@en	"hi"	<http://purl.obolibrary.org/obo/LANG_1002372>
-"Hiri Motu"@en	"ho"	<http://purl.obolibrary.org/obo/LANG_1002404>
-"Hungarian"@en	"hu"	<http://purl.obolibrary.org/obo/LANG_1002481>
-"Icelandic"@en	"is"	<http://purl.obolibrary.org/obo/LANG_1002637>
-"Ido"@en	"io"	<http://purl.obolibrary.org/obo/LANG_1002531>
-"Igbo"@en	"ig"	<http://purl.obolibrary.org/obo/LANG_1002517>
-"Indonesian"@en	"id"	<http://purl.obolibrary.org/obo/LANG_1002600>
-"Interlingua (International Auxiliary Language Association)"@en	"ia"	<http://purl.obolibrary.org/obo/LANG_1002598>
-"Interlingue"@en	"ie"	<http://purl.obolibrary.org/obo/LANG_1002580>
-"Inuktitut"@en	"iu"	<http://purl.obolibrary.org/obo/LANG_1002573>
-"Inupiaq"@en	"ik"	<http://purl.obolibrary.org/obo/LANG_1002616>
-"Irish"@en	"ga"	<http://purl.obolibrary.org/obo/LANG_1002131>
-"Italian"@en	"it"	<http://purl.obolibrary.org/obo/LANG_1002644>
-"Japanese"@en	"ja"	<http://purl.obolibrary.org/obo/LANG_1002779>
-"Javanese"@en	"jv"	<http://purl.obolibrary.org/obo/LANG_1002693>
-"Kalaallisut"@en	"kl"	<http://purl.obolibrary.org/obo/LANG_1002823>
-"Kannada"@en	"kn"	<http://purl.obolibrary.org/obo/LANG_1002825>
-"Kanuri"@en	"kr"	<http://purl.obolibrary.org/obo/LANG_1002831>
-"Kashmiri"@en	"ks"	<http://purl.obolibrary.org/obo/LANG_1002829>
-"Kazakh"@en	"kk"	<http://purl.obolibrary.org/obo/LANG_1002836>
-"Khmer"@en	"km"	<http://purl.obolibrary.org/obo/LANG_1002995>
-"Kikuyu"@en	"ki"	<http://purl.obolibrary.org/obo/LANG_1003019>
-"Kinyarwanda"@en	"rw"	<http://purl.obolibrary.org/obo/LANG_1003022>
-"Kirghiz"@en	"ky"	<http://purl.obolibrary.org/obo/LANG_1003026>
-"Komi"@en	"kv"	<http://purl.obolibrary.org/obo/LANG_1003173>
-"Kongo"@en	"kg"	<http://purl.obolibrary.org/obo/LANG_1003174>
-"Korean"@en	"ko"	<http://purl.obolibrary.org/obo/LANG_1003178>
-"Kuanyama"@en	"kj"	<http://purl.obolibrary.org/obo/LANG_1003310>
-"Kurdish"@en	"ku"	<http://purl.obolibrary.org/obo/LANG_1003327>
-"Lao"@en	"lo"	<http://purl.obolibrary.org/obo/LANG_1003473>
-"Latin"@en	"la"	<http://purl.obolibrary.org/obo/LANG_1003478>
-"Latvian"@en	"lv"	<http://purl.obolibrary.org/obo/LANG_1003480>
-"Limburgan"@en	"li"	<http://purl.obolibrary.org/obo/LANG_1003593>
-"Lingala"@en	"ln"	<http://purl.obolibrary.org/obo/LANG_1003594>
-"Lithuanian"@en	"lt"	<http://purl.obolibrary.org/obo/LANG_1003600>
-"Luba-Katanga"@en	"lu"	<http://purl.obolibrary.org/obo/LANG_1003757>
-"Luxembourgish"@en	"lb"	<http://purl.obolibrary.org/obo/LANG_1003755>
-"Macedonian"@en	"mk"	<http://purl.obolibrary.org/obo/LANG_1004052>
-"Malagasy"@en	"mg"	<http://purl.obolibrary.org/obo/LANG_1004079>
-"Malay (macrolanguage)"@en	"ms"	<http://purl.obolibrary.org/obo/LANG_1004246>
-"Malayalam"@en	"ml"	<http://purl.obolibrary.org/obo/LANG_1003813>
-"Maltese"@en	"mt"	<http://purl.obolibrary.org/obo/LANG_1004092>
-"Manx"@en	"gv"	<http://purl.obolibrary.org/obo/LANG_1002141>
-"Maori"@en	"mi"	<http://purl.obolibrary.org/obo/LANG_1004228>
-"Marathi"@en	"mr"	<http://purl.obolibrary.org/obo/LANG_1003817>
-"Marshallese"@en	"mh"	<http://purl.obolibrary.org/obo/LANG_1003809>
-"Modern Greek (1453-)"@en	"el"	<http://purl.obolibrary.org/obo/LANG_1001799>
-"Mongolian"@en	"mn"	<http://purl.obolibrary.org/obo/LANG_1004157>
-"Nauru"@en	"na"	<http://purl.obolibrary.org/obo/LANG_1004454>
-"Navajo"@en	"nv"	<http://purl.obolibrary.org/obo/LANG_1004455>
-"Ndonga"@en	"ng"	<http://purl.obolibrary.org/obo/LANG_1004519>
-"Nepali (macrolanguage)"@en	"ne"	<http://purl.obolibrary.org/obo/LANG_1004545>
-"North Ndebele"@en	"nd"	<http://purl.obolibrary.org/obo/LANG_1004509>
-"Northern Sami"@en	"se"	<http://purl.obolibrary.org/obo/LANG_1005910>
-"Norwegian"@en	"no"	<http://purl.obolibrary.org/obo/LANG_1004758>
-"Norwegian Bokmål"@en	"nb"	<http://purl.obolibrary.org/obo/LANG_1004743>
-"Norwegian Nynorsk"@en	"nn"	<http://purl.obolibrary.org/obo/LANG_1004732>
-"Nyanja"@en	"ny"	<http://purl.obolibrary.org/obo/LANG_1004895>
-"Occitan (post 1500)"@en	"oc"	<http://purl.obolibrary.org/obo/LANG_1004944>
-"Ojibwa"@en	"oj"	<http://purl.obolibrary.org/obo/LANG_1004967>
-"Oriya (macrolanguage)"@en	"or"	<http://purl.obolibrary.org/obo/LANG_1005046>
-"Oromo"@en	"om"	<http://purl.obolibrary.org/obo/LANG_1005047>
-"Ossetian"@en	"os"	<http://purl.obolibrary.org/obo/LANG_1005064>
-"Pali"@en	"pi"	<http://purl.obolibrary.org/obo/LANG_1005256>
-"Panjabi"@en	"pa"	<http://purl.obolibrary.org/obo/LANG_1005110>
-"Persian"@en	"fa"	<http://purl.obolibrary.org/obo/LANG_1001899>
-"Polish"@en	"pl"	<http://purl.obolibrary.org/obo/LANG_1005325>
-"Portuguese"@en	"pt"	<http://purl.obolibrary.org/obo/LANG_1005331>
-"Pushto"@en	"ps"	<http://purl.obolibrary.org/obo/LANG_1005419>
-"Quechua"@en	"qu"	<http://purl.obolibrary.org/obo/LANG_1005447>
-"Romanian"@en	"ro"	<http://purl.obolibrary.org/obo/LANG_1005612>
-"Romansh"@en	"rm"	<http://purl.obolibrary.org/obo/LANG_1005609>
-"Rundi"@en	"rn"	<http://purl.obolibrary.org/obo/LANG_1005639>
-"Russian"@en	"ru"	<http://purl.obolibrary.org/obo/LANG_1005643>
-"Samoan"@en	"sm"	<http://purl.obolibrary.org/obo/LANG_1005919>
-"Sango"@en	"sg"	<http://purl.obolibrary.org/obo/LANG_1005665>
-"Sanskrit"@en	"sa"	<http://purl.obolibrary.org/obo/LANG_1005670>
-"Sardinian"@en	"sc"	<http://purl.obolibrary.org/obo/LANG_1006015>
-"Scottish Gaelic"@en	"gd"	<http://purl.obolibrary.org/obo/LANG_1002128>
-"Serbian"@en	"sr"	<http://purl.obolibrary.org/obo/LANG_1006026>
-"Serbo-Croatian"@en	"sh"	<http://purl.obolibrary.org/obo/LANG_1002342>
-"Shona"@en	"sn"	<http://purl.obolibrary.org/obo/LANG_1005931>
-"Sichuan Yi"@en	"ii"	<http://purl.obolibrary.org/obo/LANG_1002557>
-"Sindhi"@en	"sd"	<http://purl.obolibrary.org/obo/LANG_1005934>
-"Sinhala"@en	"si"	<http://purl.obolibrary.org/obo/LANG_1005832>
-"Slovak"@en	"sk"	<http://purl.obolibrary.org/obo/LANG_1005891>
-"Slovenian"@en	"sl"	<http://purl.obolibrary.org/obo/LANG_1005901>
-"Somali"@en	"so"	<http://purl.obolibrary.org/obo/LANG_1005966>
-"South Ndebele"@en	"nr"	<http://purl.obolibrary.org/obo/LANG_1004470>
-"Southern Sotho"@en	"st"	<http://purl.obolibrary.org/obo/LANG_1005972>
-"Spanish"@en	"es"	<http://purl.obolibrary.org/obo/LANG_1005979>
-"Sundanese"@en	"su"	<http://purl.obolibrary.org/obo/LANG_1006093>
-"Swahili (macrolanguage)"@en	"sw"	<http://purl.obolibrary.org/obo/LANG_1006111>
-"Swati"@en	"ss"	<http://purl.obolibrary.org/obo/LANG_1006058>
-"Swedish"@en	"sv"	<http://purl.obolibrary.org/obo/LANG_1006114>
-"Tagalog"@en	"tl"	<http://purl.obolibrary.org/obo/LANG_1006310>
-"Tahitian"@en	"ty"	<http://purl.obolibrary.org/obo/LANG_1006182>
-"Tajik"@en	"tg"	<http://purl.obolibrary.org/obo/LANG_1006309>
-"Tamil"@en	"ta"	<http://purl.obolibrary.org/obo/LANG_1006186>
-"Tatar"@en	"tt"	<http://purl.obolibrary.org/obo/LANG_1006193>
-"Telugu"@en	"te"	<http://purl.obolibrary.org/obo/LANG_1006280>
-"Thai"@en	"th"	<http://purl.obolibrary.org/obo/LANG_1006324>
-"Tibetan"@en	"bo"	<http://purl.obolibrary.org/obo/LANG_1000856>
-"Tigrinya"@en	"ti"	<http://purl.obolibrary.org/obo/LANG_1006358>
-"Tonga (Tonga Islands)"@en	"to"	<http://purl.obolibrary.org/obo/LANG_1006478>
-"Tsonga"@en	"ts"	<http://purl.obolibrary.org/obo/LANG_1006561>
-"Tswana"@en	"tn"	<http://purl.obolibrary.org/obo/LANG_1006560>
-"Turkish"@en	"tr"	<http://purl.obolibrary.org/obo/LANG_1006614>
-"Turkmen"@en	"tk"	<http://purl.obolibrary.org/obo/LANG_1006608>
-"Twi"@en	"tw"	<http://purl.obolibrary.org/obo/LANG_1006643>
-"Uighur"@en	"ug"	<http://purl.obolibrary.org/obo/LANG_1006724>
-"Ukrainian"@en	"uk"	<http://purl.obolibrary.org/obo/LANG_1006735>
-"Urdu"@en	"ur"	<http://purl.obolibrary.org/obo/LANG_1006781>
-"Uzbek"@en	"uz"	<http://purl.obolibrary.org/obo/LANG_1006823>
-"Venda"@en	"ve"	<http://purl.obolibrary.org/obo/LANG_1006849>
-"Vietnamese"@en	"vi"	<http://purl.obolibrary.org/obo/LANG_1006857>
-"Volapük"@en	"vo"	<http://purl.obolibrary.org/obo/LANG_1006903>
-"Walloon"@en	"wa"	<http://purl.obolibrary.org/obo/LANG_1007028>
-"Welsh"@en	"cy"	<http://purl.obolibrary.org/obo/LANG_1001463>
-"Western Frisian"@en	"fy"	<http://purl.obolibrary.org/obo/LANG_1001953>
-"Wolof"@en	"wo"	<http://purl.obolibrary.org/obo/LANG_1007074>
-"Xhosa"@en	"xh"	<http://purl.obolibrary.org/obo/LANG_1007226>
-"Yiddish"@en	"yi"	<http://purl.obolibrary.org/obo/LANG_1007521>
-"Yoruba"@en	"yo"	<http://purl.obolibrary.org/obo/LANG_1007600>
-"Zhuang"@en	"za"	<http://purl.obolibrary.org/obo/LANG_1007725>
-"Zulu"@en	"zu"	<http://purl.obolibrary.org/obo/LANG_1007850>
+"Abkhazian"	"ab"	<http://purl.obolibrary.org/obo/LANG_1000032>
+"Afar"	"aa"	<http://purl.obolibrary.org/obo/LANG_1000015>
+"Afrikaans"	"af"	<http://purl.obolibrary.org/obo/LANG_1000117>
+"Akan"	"ak"	<http://purl.obolibrary.org/obo/LANG_1000192>
+"Albanian"	"sq"	<http://purl.obolibrary.org/obo/LANG_1006002>
+"Amharic"	"am"	<http://purl.obolibrary.org/obo/LANG_1000246>
+"Arabic"	"ar"	<http://purl.obolibrary.org/obo/LANG_1000345>
+"Aragonese"	"an"	<http://purl.obolibrary.org/obo/LANG_1000350>
+"Armenian"	"hy"	<http://purl.obolibrary.org/obo/LANG_1002503>
+"Assamese"	"as"	<http://purl.obolibrary.org/obo/LANG_1000379>
+"Avaric"	"av"	<http://purl.obolibrary.org/obo/LANG_1000439>
+"Avestan"	"ae"	<http://purl.obolibrary.org/obo/LANG_1000442>
+"Aymara"	"ay"	<http://purl.obolibrary.org/obo/LANG_1000489>
+"Azerbaijani"	"az"	<http://purl.obolibrary.org/obo/LANG_1000503>
+"Bambara"	"bm"	<http://purl.obolibrary.org/obo/LANG_1000521>
+"Bashkir"	"ba"	<http://purl.obolibrary.org/obo/LANG_1000519>
+"Basque"	"eu"	<http://purl.obolibrary.org/obo/LANG_1001873>
+"Belarusian"	"be"	<http://purl.obolibrary.org/obo/LANG_1000620>
+"Bengali"	"bn"	<http://purl.obolibrary.org/obo/LANG_1000622>
+"Bislama"	"bi"	<http://purl.obolibrary.org/obo/LANG_1000724>
+"Bosnian"	"bs"	<http://purl.obolibrary.org/obo/LANG_1000871>
+"Breton"	"br"	<http://purl.obolibrary.org/obo/LANG_1000931>
+"Bulgarian"	"bg"	<http://purl.obolibrary.org/obo/LANG_1001011>
+"Burmese"	"my"	<http://purl.obolibrary.org/obo/LANG_1004391>
+"Catalan"	"ca"	<http://purl.obolibrary.org/obo/LANG_1001166>
+"Chamorro"	"ch"	<http://purl.obolibrary.org/obo/LANG_1001232>
+"Chechen"	"ce"	<http://purl.obolibrary.org/obo/LANG_1001236>
+"Chinese"	"zh"	<http://purl.obolibrary.org/obo/LANG_1007730>
+"Church Slavic"	"cu"	<http://purl.obolibrary.org/obo/LANG_1001250>
+"Chuvash"	"cv"	<http://purl.obolibrary.org/obo/LANG_1001251>
+"Cornish"	"kw"	<http://purl.obolibrary.org/obo/LANG_1001352>
+"Corsican"	"co"	<http://purl.obolibrary.org/obo/LANG_1001353>
+"Cree"	"cr"	<http://purl.obolibrary.org/obo/LANG_1001376>
+"Croatian"	"hr"	<http://purl.obolibrary.org/obo/LANG_1002455>
+"Czech"	"cs"	<http://purl.obolibrary.org/obo/LANG_1001221>
+"Danish"	"da"	<http://purl.obolibrary.org/obo/LANG_1001481>
+"Dhivehi"	"dv"	<http://purl.obolibrary.org/obo/LANG_1001593>
+"Dutch"	"nl"	<http://purl.obolibrary.org/obo/LANG_1004676>
+"Dzongkha"	"dz"	<http://purl.obolibrary.org/obo/LANG_1001760>
+"English"	"en"	<http://purl.obolibrary.org/obo/LANG_1001823>
+"Esperanto"	"eo"	<http://purl.obolibrary.org/obo/LANG_1001837>
+"Estonian"	"et"	<http://purl.obolibrary.org/obo/LANG_1001859>
+"Ewe"	"ee"	<http://purl.obolibrary.org/obo/LANG_1001877>
+"Faroese"	"fo"	<http://purl.obolibrary.org/obo/LANG_1001896>
+"Fijian"	"fj"	<http://purl.obolibrary.org/obo/LANG_1001913>
+"Finnish"	"fi"	<http://purl.obolibrary.org/obo/LANG_1001915>
+"French"	"fr"	<http://purl.obolibrary.org/obo/LANG_1001942>
+"Fulah"	"ff"	<http://purl.obolibrary.org/obo/LANG_1001965>
+"Galician"	"gl"	<http://purl.obolibrary.org/obo/LANG_1002132>
+"Ganda"	"lg"	<http://purl.obolibrary.org/obo/LANG_1003762>
+"Georgian"	"ka"	<http://purl.obolibrary.org/obo/LANG_1002830>
+"German"	"de"	<http://purl.obolibrary.org/obo/LANG_1001539>
+"Guarani"	"gn"	<http://purl.obolibrary.org/obo/LANG_1002219>
+"Gujarati"	"gu"	<http://purl.obolibrary.org/obo/LANG_1002251>
+"Haitian"	"ht"	<http://purl.obolibrary.org/obo/LANG_1002331>
+"Hausa"	"ha"	<http://purl.obolibrary.org/obo/LANG_1002332>
+"Hebrew"	"he"	<http://purl.obolibrary.org/obo/LANG_1002350>
+"Herero"	"hz"	<http://purl.obolibrary.org/obo/LANG_1002356>
+"Hindi"	"hi"	<http://purl.obolibrary.org/obo/LANG_1002372>
+"Hiri Motu"	"ho"	<http://purl.obolibrary.org/obo/LANG_1002404>
+"Hungarian"	"hu"	<http://purl.obolibrary.org/obo/LANG_1002481>
+"Icelandic"	"is"	<http://purl.obolibrary.org/obo/LANG_1002637>
+"Ido"	"io"	<http://purl.obolibrary.org/obo/LANG_1002531>
+"Igbo"	"ig"	<http://purl.obolibrary.org/obo/LANG_1002517>
+"Indonesian"	"id"	<http://purl.obolibrary.org/obo/LANG_1002600>
+"Interlingua (International Auxiliary Language Association)"	"ia"	<http://purl.obolibrary.org/obo/LANG_1002598>
+"Interlingue"	"ie"	<http://purl.obolibrary.org/obo/LANG_1002580>
+"Inuktitut"	"iu"	<http://purl.obolibrary.org/obo/LANG_1002573>
+"Inupiaq"	"ik"	<http://purl.obolibrary.org/obo/LANG_1002616>
+"Irish"	"ga"	<http://purl.obolibrary.org/obo/LANG_1002131>
+"Italian"	"it"	<http://purl.obolibrary.org/obo/LANG_1002644>
+"Japanese"	"ja"	<http://purl.obolibrary.org/obo/LANG_1002779>
+"Javanese"	"jv"	<http://purl.obolibrary.org/obo/LANG_1002693>
+"Kalaallisut"	"kl"	<http://purl.obolibrary.org/obo/LANG_1002823>
+"Kannada"	"kn"	<http://purl.obolibrary.org/obo/LANG_1002825>
+"Kanuri"	"kr"	<http://purl.obolibrary.org/obo/LANG_1002831>
+"Kashmiri"	"ks"	<http://purl.obolibrary.org/obo/LANG_1002829>
+"Kazakh"	"kk"	<http://purl.obolibrary.org/obo/LANG_1002836>
+"Khmer"	"km"	<http://purl.obolibrary.org/obo/LANG_1002995>
+"Kikuyu"	"ki"	<http://purl.obolibrary.org/obo/LANG_1003019>
+"Kinyarwanda"	"rw"	<http://purl.obolibrary.org/obo/LANG_1003022>
+"Kirghiz"	"ky"	<http://purl.obolibrary.org/obo/LANG_1003026>
+"Komi"	"kv"	<http://purl.obolibrary.org/obo/LANG_1003173>
+"Kongo"	"kg"	<http://purl.obolibrary.org/obo/LANG_1003174>
+"Korean"	"ko"	<http://purl.obolibrary.org/obo/LANG_1003178>
+"Kuanyama"	"kj"	<http://purl.obolibrary.org/obo/LANG_1003310>
+"Kurdish"	"ku"	<http://purl.obolibrary.org/obo/LANG_1003327>
+"Lao"	"lo"	<http://purl.obolibrary.org/obo/LANG_1003473>
+"Latin"	"la"	<http://purl.obolibrary.org/obo/LANG_1003478>
+"Latvian"	"lv"	<http://purl.obolibrary.org/obo/LANG_1003480>
+"Limburgan"	"li"	<http://purl.obolibrary.org/obo/LANG_1003593>
+"Lingala"	"ln"	<http://purl.obolibrary.org/obo/LANG_1003594>
+"Lithuanian"	"lt"	<http://purl.obolibrary.org/obo/LANG_1003600>
+"Luba-Katanga"	"lu"	<http://purl.obolibrary.org/obo/LANG_1003757>
+"Luxembourgish"	"lb"	<http://purl.obolibrary.org/obo/LANG_1003755>
+"Macedonian"	"mk"	<http://purl.obolibrary.org/obo/LANG_1004052>
+"Malagasy"	"mg"	<http://purl.obolibrary.org/obo/LANG_1004079>
+"Malay (macrolanguage)"	"ms"	<http://purl.obolibrary.org/obo/LANG_1004246>
+"Malayalam"	"ml"	<http://purl.obolibrary.org/obo/LANG_1003813>
+"Maltese"	"mt"	<http://purl.obolibrary.org/obo/LANG_1004092>
+"Manx"	"gv"	<http://purl.obolibrary.org/obo/LANG_1002141>
+"Maori"	"mi"	<http://purl.obolibrary.org/obo/LANG_1004228>
+"Marathi"	"mr"	<http://purl.obolibrary.org/obo/LANG_1003817>
+"Marshallese"	"mh"	<http://purl.obolibrary.org/obo/LANG_1003809>
+"Modern Greek (1453-)"	"el"	<http://purl.obolibrary.org/obo/LANG_1001799>
+"Mongolian"	"mn"	<http://purl.obolibrary.org/obo/LANG_1004157>
+"Nauru"	"na"	<http://purl.obolibrary.org/obo/LANG_1004454>
+"Navajo"	"nv"	<http://purl.obolibrary.org/obo/LANG_1004455>
+"Ndonga"	"ng"	<http://purl.obolibrary.org/obo/LANG_1004519>
+"Nepali (macrolanguage)"	"ne"	<http://purl.obolibrary.org/obo/LANG_1004545>
+"North Ndebele"	"nd"	<http://purl.obolibrary.org/obo/LANG_1004509>
+"Northern Sami"	"se"	<http://purl.obolibrary.org/obo/LANG_1005910>
+"Norwegian"	"no"	<http://purl.obolibrary.org/obo/LANG_1004758>
+"Norwegian Bokmål"	"nb"	<http://purl.obolibrary.org/obo/LANG_1004743>
+"Norwegian Nynorsk"	"nn"	<http://purl.obolibrary.org/obo/LANG_1004732>
+"Nyanja"	"ny"	<http://purl.obolibrary.org/obo/LANG_1004895>
+"Occitan (post 1500)"	"oc"	<http://purl.obolibrary.org/obo/LANG_1004944>
+"Ojibwa"	"oj"	<http://purl.obolibrary.org/obo/LANG_1004967>
+"Oriya (macrolanguage)"	"or"	<http://purl.obolibrary.org/obo/LANG_1005046>
+"Oromo"	"om"	<http://purl.obolibrary.org/obo/LANG_1005047>
+"Ossetian"	"os"	<http://purl.obolibrary.org/obo/LANG_1005064>
+"Pali"	"pi"	<http://purl.obolibrary.org/obo/LANG_1005256>
+"Panjabi"	"pa"	<http://purl.obolibrary.org/obo/LANG_1005110>
+"Persian"	"fa"	<http://purl.obolibrary.org/obo/LANG_1001899>
+"Polish"	"pl"	<http://purl.obolibrary.org/obo/LANG_1005325>
+"Portuguese"	"pt"	<http://purl.obolibrary.org/obo/LANG_1005331>
+"Pushto"	"ps"	<http://purl.obolibrary.org/obo/LANG_1005419>
+"Quechua"	"qu"	<http://purl.obolibrary.org/obo/LANG_1005447>
+"Romanian"	"ro"	<http://purl.obolibrary.org/obo/LANG_1005612>
+"Romansh"	"rm"	<http://purl.obolibrary.org/obo/LANG_1005609>
+"Rundi"	"rn"	<http://purl.obolibrary.org/obo/LANG_1005639>
+"Russian"	"ru"	<http://purl.obolibrary.org/obo/LANG_1005643>
+"Samoan"	"sm"	<http://purl.obolibrary.org/obo/LANG_1005919>
+"Sango"	"sg"	<http://purl.obolibrary.org/obo/LANG_1005665>
+"Sanskrit"	"sa"	<http://purl.obolibrary.org/obo/LANG_1005670>
+"Sardinian"	"sc"	<http://purl.obolibrary.org/obo/LANG_1006015>
+"Scottish Gaelic"	"gd"	<http://purl.obolibrary.org/obo/LANG_1002128>
+"Serbian"	"sr"	<http://purl.obolibrary.org/obo/LANG_1006026>
+"Serbo-Croatian"	"sh"	<http://purl.obolibrary.org/obo/LANG_1002342>
+"Shona"	"sn"	<http://purl.obolibrary.org/obo/LANG_1005931>
+"Sichuan Yi"	"ii"	<http://purl.obolibrary.org/obo/LANG_1002557>
+"Sindhi"	"sd"	<http://purl.obolibrary.org/obo/LANG_1005934>
+"Sinhala"	"si"	<http://purl.obolibrary.org/obo/LANG_1005832>
+"Slovak"	"sk"	<http://purl.obolibrary.org/obo/LANG_1005891>
+"Slovenian"	"sl"	<http://purl.obolibrary.org/obo/LANG_1005901>
+"Somali"	"so"	<http://purl.obolibrary.org/obo/LANG_1005966>
+"South Ndebele"	"nr"	<http://purl.obolibrary.org/obo/LANG_1004470>
+"Southern Sotho"	"st"	<http://purl.obolibrary.org/obo/LANG_1005972>
+"Spanish"	"es"	<http://purl.obolibrary.org/obo/LANG_1005979>
+"Sundanese"	"su"	<http://purl.obolibrary.org/obo/LANG_1006093>
+"Swahili (macrolanguage)"	"sw"	<http://purl.obolibrary.org/obo/LANG_1006111>
+"Swati"	"ss"	<http://purl.obolibrary.org/obo/LANG_1006058>
+"Swedish"	"sv"	<http://purl.obolibrary.org/obo/LANG_1006114>
+"Tagalog"	"tl"	<http://purl.obolibrary.org/obo/LANG_1006310>
+"Tahitian"	"ty"	<http://purl.obolibrary.org/obo/LANG_1006182>
+"Tajik"	"tg"	<http://purl.obolibrary.org/obo/LANG_1006309>
+"Tamil"	"ta"	<http://purl.obolibrary.org/obo/LANG_1006186>
+"Tatar"	"tt"	<http://purl.obolibrary.org/obo/LANG_1006193>
+"Telugu"	"te"	<http://purl.obolibrary.org/obo/LANG_1006280>
+"Thai"	"th"	<http://purl.obolibrary.org/obo/LANG_1006324>
+"Tibetan"	"bo"	<http://purl.obolibrary.org/obo/LANG_1000856>
+"Tigrinya"	"ti"	<http://purl.obolibrary.org/obo/LANG_1006358>
+"Tonga (Tonga Islands)"	"to"	<http://purl.obolibrary.org/obo/LANG_1006478>
+"Tsonga"	"ts"	<http://purl.obolibrary.org/obo/LANG_1006561>
+"Tswana"	"tn"	<http://purl.obolibrary.org/obo/LANG_1006560>
+"Turkish"	"tr"	<http://purl.obolibrary.org/obo/LANG_1006614>
+"Turkmen"	"tk"	<http://purl.obolibrary.org/obo/LANG_1006608>
+"Twi"	"tw"	<http://purl.obolibrary.org/obo/LANG_1006643>
+"Uighur"	"ug"	<http://purl.obolibrary.org/obo/LANG_1006724>
+"Ukrainian"	"uk"	<http://purl.obolibrary.org/obo/LANG_1006735>
+"Urdu"	"ur"	<http://purl.obolibrary.org/obo/LANG_1006781>
+"Uzbek"	"uz"	<http://purl.obolibrary.org/obo/LANG_1006823>
+"Venda"	"ve"	<http://purl.obolibrary.org/obo/LANG_1006849>
+"Vietnamese"	"vi"	<http://purl.obolibrary.org/obo/LANG_1006857>
+"Volapük"	"vo"	<http://purl.obolibrary.org/obo/LANG_1006903>
+"Walloon"	"wa"	<http://purl.obolibrary.org/obo/LANG_1007028>
+"Welsh"	"cy"	<http://purl.obolibrary.org/obo/LANG_1001463>
+"Western Frisian"	"fy"	<http://purl.obolibrary.org/obo/LANG_1001953>
+"Wolof"	"wo"	<http://purl.obolibrary.org/obo/LANG_1007074>
+"Xhosa"	"xh"	<http://purl.obolibrary.org/obo/LANG_1007226>
+"Yiddish"	"yi"	<http://purl.obolibrary.org/obo/LANG_1007521>
+"Yoruba"	"yo"	<http://purl.obolibrary.org/obo/LANG_1007600>
+"Zhuang"	"za"	<http://purl.obolibrary.org/obo/LANG_1007725>
+"Zulu"	"zu"	<http://purl.obolibrary.org/obo/LANG_1007850>

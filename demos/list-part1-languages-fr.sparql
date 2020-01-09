@@ -8,8 +8,9 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 SELECT ?label ?part1 ?lang
 WHERE {
     ?lang rdfs:subClassOf lang:0000001 . 
-    ?lang rdfs:label ?label .
+    ?lang rdfs:label ?flabel . # full label with language tag
     ?lang lang:0000002 ?part1
-    FILTER(lang(?label) = "fr")
+    FILTER(lang(?flabel) = "fr")
+    BIND (STR(?flabel) AS ?label) # remove the language tag from the value
 }
 ORDER BY ?label
