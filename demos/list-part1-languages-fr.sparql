@@ -1,0 +1,15 @@
+# list languages
+
+PREFIX lang:  <http://purl.obolibrary.org/obo/LANG_>
+PREFIX iao:   <http://purl.obolibrary.org/obo/IAO_>
+PREFIX bfo:   <http://purl.obolibrary.org/obo/BFO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?label ?part1 ?lang
+WHERE {
+    ?lang rdfs:subClassOf lang:0000001 . 
+    ?lang rdfs:label ?label .
+    ?lang lang:0000002 ?part1
+    FILTER(lang(?label) = "fr")
+}
+ORDER BY ?label
