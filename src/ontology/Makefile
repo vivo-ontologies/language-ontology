@@ -22,7 +22,7 @@ SPARQLDIR =                 ../sparql
 REPORT_FAIL_ON =            None
 OBO_FORMAT_OPTIONS =        
 SPARQL_VALIDATION_CHECKS =  equivalent-classes trailing-whitespace owldef-self-reference xref-syntax nolabels
-SPARQL_EXPORTS =            basic-report class-count-by-prefix edges xrefs obsoletes synonyms
+SPARQL_EXPORTS =            basic-report class-count-by-prefix edges xrefs obsoletes synonyms count-owl-predicates
 
 TODAY   := $(shell date +%Y-%m-%d)
 

@@ -1,0 +1,9 @@
+# Count owl declarations
+
+SELECT ?o (COUNT(*) AS ?no)
+WHERE {
+    ?s ?p ?o .
+      FILTER(contains(str(?o),"07/owl"))
+}
+GROUP BY ?o
+ORDER BY ?no
