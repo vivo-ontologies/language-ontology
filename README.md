@@ -43,7 +43,7 @@ This work is licensed CC0.  Attribution is polite, not required.  To cite this
 work, consider using the text below:
 
 VIVO Project (2020) *Language Ontology*,
-[https://github.com/mconlon17/language-ontology](https://github.com/mconlon17/language-ontology)
+[https://github.com/vivo-community/language-ontology](https://github.com/vivo-community/language-ontology)
 
 ## Acknowledgements
 This is the work of the [VIVO Ontology Interest
