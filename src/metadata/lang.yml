@@ -4,8 +4,8 @@ idspace: LANG
 base_url: /obo/lang
 
 products:
-- lang.owl: https://raw.githubusercontent.com/mconlon17/language-ontology/master/lang.owl
-- lang.obo: https://raw.githubusercontent.com/mconlon17/language-ontology/master/lang.obo
+- lang.owl: https://raw.githubusercontent.com/vivo-community/language-ontology/master/lang.owl
+- lang.obo: https://raw.githubusercontent.com/vivo-community/language-ontology/master/lang.obo
 
 term_browser: ontobee
 example_terms:
@@ -14,14 +14,14 @@ example_terms:
 entries:
 
 - prefix: /releases/
-  replacement: https://raw.githubusercontent.com/mconlon17/language-ontology/v
+  replacement: https://raw.githubusercontent.com/vivo-community/language-ontology/v
 
 - prefix: /tracker/
-  replacement: https://github.com/mconlon17/language-ontology/issues
+  replacement: https://github.com/vivo-community/language-ontology/issues
 
 - prefix: /about/
   replacement: http://www.ontobee.org/ontology/LANG?iri=http://purl.obolibrary.org/obo/
 
 ## generic fall-through, serve direct from github by default
 - prefix: /
-  replacement: https://raw.githubusercontent.com/mconlon17/language-ontology/master/
+  replacement: https://raw.githubusercontent.com/vivo-community/language-ontology/master/

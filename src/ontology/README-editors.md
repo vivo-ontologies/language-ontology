@@ -6,7 +6,7 @@ For more details on ontology management, please see the [OBO tutorial](https://g
 
 You may also want to read the [GO ontology editors guide](http://go-ontology.readthedocs.org/)
 
-For development, build and release processes of the Language Ontology, please see [Language Ontology Development, Build, and Release Processes](https://github.com/mconlon17/language-ontology/wiki/Language-Ontology-Development,-Build,-and-Release-Processes) in the wiki of this repository.
+For development, build and release processes of the Language Ontology, please see [Language Ontology Development, Build, and Release Processes](https://github.com/vivo-community/language-ontology/wiki/Language-Ontology-Development,-Build,-and-Release-Processes) in the wiki of this repository.
 
 ## Requirements
 
@@ -27,7 +27,7 @@ language classes are created from ISO-639-3 data.  They are not created by editi
 assertions.  lang-edit.owl does not include i18n, templated, or imported assertions.  This makes lang-edit small, 
 and easy to work with, but "hides" some assertions that may be useful to see.
 
-To edit, first make sure you have the repository cloned, see [the GitHub project](https://github.com/mconlon17/language-ontology) for details. The edit [lang-edit.owl](lang-edit.owl) using Protege or other editor.
+To edit, first make sure you have the repository cloned, see [the GitHub project](https://github.com/vivo-community/language-ontology) for details. The edit [lang-edit.owl](lang-edit.owl) using Protege or other editor.
 
 You should discuss the git workflow you should use with the maintainer
 of this repo, who should document it here. If you are the maintainer,
@@ -130,8 +130,8 @@ Finally type:
 
 __IMMEDIATELY AFTERWARDS__ (do *not* make further modifications) go here:
 
- * https://github.com/mconlon17/language-ontology/releases
- * https://github.com/mconlon17/language-ontology/releases/new
+ * https://github.com/vivo-community/language-ontology/releases
+ * https://github.com/vivo-community/language-ontology/releases/new
 
 __IMPORTANT__: The value of the "Tag version" field MUST be
 
@@ -163,11 +163,11 @@ For questions on this contact Chris Mungall or email obo-admin AT obofoundry.org
 
 # Travis Continuous Integration System
 
-Check the build status here: [![Build Status](https://travis-ci.org/mconlon17/language-ontology.svg?branch=master)](https://travis-ci.org/mconlon17/language-ontology)
+Check the build status here: [![Build Status](https://travis-ci.org/vivo-community/language-ontology.svg?branch=master)](https://travis-ci.org/vivo-community/language-ontology)
 
 Note: if you have only just created this project you will need to authorize travis for this repo.
 
- 1. Go to [https://travis-ci.org/profile/mconlon17](https://travis-ci.org/profile/mconlon17)
+ 1. Go to [https://travis-ci.org/profile/vivo-community](https://travis-ci.org/profile/vivo-community)
  2. click the "Sync account" button
  3. Click the tick symbol next to language-ontology
 
