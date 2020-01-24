@@ -3,10 +3,10 @@ layout: ontology_detail
 id: lang
 title: Language Ontology
 jobs:
-  - id: https://travis-ci.org/mconlon17/language-ontology
+  - id: https://travis-ci.org/vivo-community/language-ontology
     type: travis-ci
 build:
-  checkout: git clone https://github.com/mconlon17/language-ontology.git
+  checkout: git clone https://github.com/vivo-community/language-ontology.git
   system: git
   path: "."
 contact:
@@ -15,7 +15,7 @@ contact:
   github: 
 description: Language Ontology is an ontology...
 domain: stuff
-homepage: https://github.com/mconlon17/language-ontology
+homepage: https://github.com/vivo-community/language-ontology
 products:
   - id: lang.owl
     name: "Language Ontology main release in OWL format"
@@ -31,7 +31,7 @@ products:
     name: "Language Ontology additional release in OBOJSon format"
 dependencies:
 
-tracker: https://github.com/mconlon17/language-ontology/issues
+tracker: https://github.com/vivo-community/language-ontology/issues
 license:
   url: http://creativecommons.org/licenses/by/3.0/
   label: CC-BY
