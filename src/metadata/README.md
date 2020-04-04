@@ -1,4 +1,4 @@
-#Metadata files for the OBO Library
+# Metadata files for the OBO Library
 
 *Note: When the Language Ontology is submitted to the OBO Foundry, we will work with the Foundry maintainers to
 improve the metadata in this folder*
