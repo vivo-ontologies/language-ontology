@@ -15,5 +15,5 @@ This file is merged with other sources to create the language ontology.
 * `iso-639-i18n-CEFR-definitions.nt` hand edited triples specifying the CEFR capability
 definitions in french, german, spanish, and italian.  Cut and Paste from the CEFR
 web site.  CEFR does not provide definitions for the "plus" capabilities, such as B2+. In
-each case, the defintion of the "non plus" capability is used withe the word "PLUS" added
+each case, the defintion of the "non plus" capability is used with the word "PLUS" added
 to the definition to create a label for the plus capability.
